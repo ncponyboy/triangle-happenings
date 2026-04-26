@@ -1,0 +1,39 @@
+name: Scrape Triangle Events
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # Daily at 6 AM UTC (2 AM ET)
+  workflow_dispatch:        # Allow manual trigger from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write       # needed to commit triangle_happenings.json
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r scrapers/requirements.txt
+
+      - name: Run scraper
+        env:
+          GEEKFLARE_API_KEY: ${{ secrets.GEEKFLARE_API_KEY }}
+          NPS_API_KEY: ${{ secrets.NPS_API_KEY }}
+        run: python scrapers/scraper.py
+
+      - name: Commit updated events JSON
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add triangle_happenings.json
+          git diff --cached --quiet || git commit -m "chore: update Triangle events $(date -u '+%Y-%m-%d')"
+          git push
