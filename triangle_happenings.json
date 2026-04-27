@@ -1,105 +1,6 @@
 {
   "events": [
     {
-      "id": "8b2701bf0b27",
-      "title": "Superpower Dogs 3D",
-      "date": "2026-04-26T14:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45526/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "53db76c0a878",
-      "title": "NCJSS Welcomes the 2026 Shatzmiller Fellows",
-      "date": "2026-04-26T15:00:00",
-      "location": "John Hope Franklin Center, Ahmadieh Family Conference Hall, Room 240",
-      "description": "NCJSS welcomes presentations from the 2025-26 Shatzmiller Fellowship cohort. The Shatzmiller Graduate Fellows honor Emeritus Smart Professor Joseph Shatzmiller, who taught at Duke University from 1994",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "9525e6d121a9",
-      "title": "MakeShop",
-      "date": "2026-04-26T15:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/44471/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "9207bdaa82c7",
-      "title": "Supermassive Black Holes",
-      "date": "2026-04-26T15:00:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/supermassive-black-holes-105/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "0561c8431e33",
-      "title": "Michael",
-      "date": "2026-04-26T15:30:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45382/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "7ccb1aa4bd93",
-      "title": "Duke University String School: Orchestra Concert",
-      "date": "2026-04-26T16:30:00",
-      "location": "Baldwin Auditorium",
-      "description": "We are highlighting Dance Music during our final concert weekend of the year! Our orchestra concert begins at 4:30pm and includes performances by the Intermediate String Orchestra, Concert String Orch",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "f9020b775df9",
-      "title": "Carolina Skies",
-      "date": "2026-04-26T16:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/carolina-skies-501/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "cb39d01d58e0",
-      "title": "Bach Cantata Series: Bach & Handel",
-      "date": "2026-04-26T17:00:00",
-      "location": "Duke Chapel",
-      "description": "Brilliance and immediacy from George Frideric Handel meet the depth and scale of Johann Sebastian Bach in this concert. Well-loved Handel works-\"Arrival of the Queen of Sheba,\" \"As Pants the Hart,\" an",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "518c9c1bc7ec",
-      "title": "Museum Admission",
-      "date": "2026-04-26T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/44973/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
       "id": "90396e28695b",
       "title": "Final examinations begin (9:00 AM)",
       "date": "2026-04-27T09:00:00",
@@ -507,6 +408,28 @@
       "longitude": -78.8986
     },
     {
+      "id": "42c3cedc646b",
+      "title": "iiD Community Lunch",
+      "date": "2026-04-29T12:00:00",
+      "location": "Gross Hall, Ahmadieh Family Grand Hall, Room 330",
+      "description": "Mathematics professor Lillian Pierce will share her work with the group and answer questions about her research. All are welcome! Lunch provided.",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "6086914d44ee",
+      "title": "Duke OTD Scholarship Week",
+      "date": "2026-04-29T12:00:00",
+      "location": "None",
+      "description": "Join us for the Annual Duke OTD Scholarship Week, a lively celebration of Duke's Occupational Therapy Doctorate program! Enjoy a week of events spotlighting student innovation, scholarship, advocacy, ",
+      "source": "Duke Events",
+      "url": "https://medschool.duke.edu/education/health-professions-education-programs/occupational-therapy-doctorate/about/annual-otdhttps://medschool.duke.edu/education/health-professions-education-programs/occupational-therapy-doctorate/about/annual-otd",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "36ae7db6aeb3",
       "title": "Cities of the Future 3D",
       "date": "2026-04-29T12:15:00",
@@ -516,6 +439,28 @@
       "url": "https://marbleskidsmuseum.org/event/45030/",
       "latitude": 35.776,
       "longitude": -78.635
+    },
+    {
+      "id": "b7c5d0890524",
+      "title": "MEMS SEMINAR: Leila Bridgeman, \"New Tools from Old Ideas: Input-Output Theory for Robust Networked and Learning-Based Control\"",
+      "date": "2026-04-29T12:30:00",
+      "location": "Fitzpatrick Center Schiciano Auditorium Side A, room 1464",
+      "description": "The Thomas Lord Department of Mechanical Engineering & Materials Science hosts Dr. Leila Bridgeman (Duke) to present the MEMS Seminar entitled, \"New Tools from Old Ideas: Input-Output Theory for Robus",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "8156575d97a4",
+      "title": "Organ Demonstration",
+      "date": "2026-04-29T13:00:00",
+      "location": "Duke Chapel",
+      "description": "This organ demonstration is an opportunity to stop in to hear a Duke Chapel organ or B\u00f6sendorfer grand piano played in the informal atmosphere of an open rehearsal. These demonstrations are typically ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "9b46bf0094e2",
@@ -551,6 +496,39 @@
       "longitude": -78.635
     },
     {
+      "id": "0bf9b45bb60a",
+      "title": "iiD TeaTime",
+      "date": "2026-04-29T14:30:00",
+      "location": "Gross Hall, Ahmadieh Family Atrium, 3rd Floor",
+      "description": "Join us for tea and snacks on the 3rd floor of Gross Hall! This is a great chance to meet colleagues in a casual environment. All Welcome!",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "7d2fcb80363d",
+      "title": "CAPER WIP - Cancelled",
+      "date": "2026-04-29T15:00:00",
+      "location": "None",
+      "description": "Occurs on Wednesdays from 3:00 PM to 4:00 PM via Zoom. Questions: Dr. Vijay Krishnamoorthy or Dr. Tetsu Ohnuma.",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "03c2d05c6bf7",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-04-29T17:00:00",
+      "location": "Duke Chapel Quad",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "71229dae30de",
       "title": "Yoga Under The Stars",
       "date": "2026-04-29T18:00:00",
@@ -573,6 +551,28 @@
       "longitude": -78.635
     },
     {
+      "id": "a1d195be372e",
+      "title": "Mindful Movement",
+      "date": "2026-04-30T10:00:00",
+      "location": "Webcast",
+      "description": "Every Thursday at 10 a.m., add some movement to your mindfulness practice with Mindful Movement. The 15-minute Zoom sessions will combine movement, breathwork, visualization and intention to create a ",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/webinars/mindfulness/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "00caad597798",
+      "title": "Neurobiology Special Seminar: Laura Lee Colgin: Advancing Neuroscience Excellence Through Interdisciplinary Discovery and Training",
+      "date": "2026-04-30T10:00:00",
+      "location": "Bryan Research 103",
+      "description": "Laura Colgin is currently a Professor in the Department of Neuroscience and Director of the Center for Learning and Memory at the University of Texas at Austin. Her lab investigates cellular and netwo",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "8a94b32e834c",
       "title": "MakeShop",
       "date": "2026-04-30T10:00:00",
@@ -593,6 +593,17 @@
       "url": "https://marbleskidsmuseum.org/event/43906/",
       "latitude": 35.776,
       "longitude": -78.635
+    },
+    {
+      "id": "719797640d13",
+      "title": "Mobile Health Assessment",
+      "date": "2026-04-30T11:00:00",
+      "location": "None",
+      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/health-assessments/",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "7fcf54e4466f",
@@ -659,6 +670,17 @@
       "url": "https://marbleskidsmuseum.org/event/44953/",
       "latitude": 35.776,
       "longitude": -78.635
+    },
+    {
+      "id": "05047d624a15",
+      "title": "Basics of Estate Planning",
+      "date": "2026-05-01T12:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/basics-of-estate-planning-1703",
+      "latitude": 35.9132,
+      "longitude": -79.0558
     },
     {
       "id": "e8159638f682",
@@ -760,6 +782,28 @@
       "longitude": -79.0558
     },
     {
+      "id": "888057abc56e",
+      "title": "Tour: A Closer Look at the Collection",
+      "date": "2026-05-03T13:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/tour-a-closer-look-at-the-collection-852",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
+      "id": "eb767542a3a2",
+      "title": "UNC Baroque Ensemble & Consort of Viols Spring Concert",
+      "date": "2026-05-03T19:30:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/unc-baroque-ensemble-consort-of-viols-spring-concert",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
       "id": "fd94048baa84",
       "title": "The House of Ideas: Plants in Art Exhibition",
       "date": "2026-05-05T10:00:00",
@@ -780,6 +824,17 @@
       "url": "https://calendar.ncsu.edu/event/what-we-leave-behind",
       "latitude": 35.7847,
       "longitude": -78.6821
+    },
+    {
+      "id": "5811eff17973",
+      "title": "Gallery Exhibit Opening: \"Making the Ground Talk and Other Stories\" by Brian Palmer",
+      "date": "2026-05-05T18:30:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/gallery-exhibit-opening-making-the-ground-talk-and-other-stories-by-peabody-award-winning-photographer-and-journalist-brian-palmer",
+      "latitude": 35.9132,
+      "longitude": -79.0558
     },
     {
       "id": "9e1d48322d85",
@@ -804,6 +859,17 @@
       "longitude": -78.6821
     },
     {
+      "id": "0f008e2a9044",
+      "title": "Tour: A Closer Look at \"Ancestral Frequencies\"",
+      "date": "2026-05-08T13:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/tour-a-closer-look-at-ancestral-frequencies-4",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
       "id": "61c52af3231b",
       "title": "Final Grades Due",
       "date": "2026-05-08T19:00:00",
@@ -813,6 +879,17 @@
       "url": "https://calendar.ncsu.edu/event/final-grades-due-8558",
       "latitude": 35.7847,
       "longitude": -78.6821
+    },
+    {
+      "id": "55d403547d67",
+      "title": "Wilson Library Open House",
+      "date": "2026-05-09T10:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/wilson-library-open-house",
+      "latitude": 35.9132,
+      "longitude": -79.0558
     },
     {
       "id": "169449923021",
@@ -903,8 +980,8 @@
       "longitude": -78.6382
     }
   ],
-  "last_updated": "2026-04-26T15:35:36.270013",
-  "total_events": 82,
+  "last_updated": "2026-04-27T08:31:25.674397",
+  "total_events": 89,
   "sources": [
     "Manual Events",
     "Visit Raleigh",
