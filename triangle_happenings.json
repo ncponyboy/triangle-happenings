@@ -1,96 +1,19 @@
 {
   "events": [
     {
-      "id": "90396e28695b",
-      "title": "Final examinations begin (9:00 AM)",
-      "date": "2026-04-27T09:00:00",
-      "location": "None",
-      "description": "Final examinations begin (9:00 AM)",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
+      "id": "c0a4b0e7eaa8",
+      "title": "38th annual Carolina Blood Drive",
+      "date": "2026-04-28T07:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/38th-annual-carolina-blood-drive",
+      "latitude": 35.9132,
+      "longitude": -79.0558
     },
     {
-      "id": "158693c75e33",
-      "title": "Mobile Health Assessment",
-      "date": "2026-04-27T10:00:00",
-      "location": "None",
-      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
-      "source": "Duke Events",
-      "url": "https://hr.duke.edu/wellness/health-assessments/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "8e7d197ff290",
-      "title": "Geriatrics Grand Rounds",
-      "date": "2026-04-27T12:00:00",
-      "location": "Virtual",
-      "description": "Weekly grand rounds series for Geriatric Medicine",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "cce2637d06f4",
-      "title": "Monday Moves",
-      "date": "2026-04-27T12:30:00",
-      "location": "Webcast",
-      "description": "Make the most of your lunch break with Monday Moves! From 12:30-12:50 PM every Monday, you can participate in online guided stretch breaks with the LIVE FOR LIFE Fitness Team to benefit your mental an",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "31f15839b5f5",
-      "title": "iiD TeaTime",
-      "date": "2026-04-27T13:00:00",
-      "location": "Gross Hall, Ahmadieh Family Atrium, 3rd Floor",
-      "description": "Join us for tea and snacks on the 3rd floor of Gross Hall! This is a great chance to meet colleagues in a casual environment. All Welcome!",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "0152dac1b922",
-      "title": "\"AI in ID\"",
-      "date": "2026-04-27T16:00:00",
-      "location": "Hanes House 131",
-      "description": "Global Learning Objectives: Review and discuss diagnostic and treatment plans for diseases seen in Infectious Diseases. Discuss clinical research findings and advances in therapy as appropriate for th",
-      "source": "Duke Events",
-      "url": "https://duke.zoom.us/j/92640504548?pwd=nRQFLdXBaAUNYava3VgmzUWEJHbh0w.1",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "dc2a7f56d929",
-      "title": "Weekday Carillon Recital",
-      "date": "2026-04-27T17:00:00",
-      "location": "Duke Chapel Quad",
-      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "175f3bfa9f33",
-      "title": "Duke GI Annual Research Night",
-      "date": "2026-04-27T17:00:00",
-      "location": "None",
-      "description": "An annual event celebrating the Duke GI research community. This event is an opportunity for Duke trainees to share gastroenterology research and highlight accomplishments with poster submissions. Rec",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "155616aa62fd",
-      "title": "Hematology Case Conference:",
+      "id": "5c915d00ff06",
+      "title": "Hematology Case Conference: \u201cWhen Is It Time to Refer? Curative Therapy Decision-Making in Adult Sickle Cell Disease\u201d",
       "date": "2026-04-28T08:00:00",
       "location": "Duke South, Room M224",
       "description": "This weekly conference is held each Tuesday from 8-9 a.m. and includes case-based presentations on a wide variety of topics in hematology. In general, discussion will cover inpatient and outpatient pr",
@@ -617,6 +540,61 @@
       "longitude": -78.635
     },
     {
+      "id": "c8515bfba147",
+      "title": "Condensed Matter Seminar - Interplay Between Chirality, Charge, Spin, and Phonons in Chiral Matter",
+      "date": "2026-04-30T11:30:00",
+      "location": "Physics 298",
+      "description": "Coupling of spin and charge currents from structural chirality in non-magnetic materials, referred to as the chirality-induced spin selectivity (CISS) effect, has shown promising applications for spin",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "77d3016983f6",
+      "title": "The Public Policy Crisis of ICE Detention Centers for Children and Families",
+      "date": "2026-04-30T12:00:00",
+      "location": "None",
+      "description": "The current administration's mass deportation campaign led to a surge in the number of people being held in ICE detention centers. The administration revived the practice of detaining families, and th",
+      "source": "Duke Events",
+      "url": "https://childandfamilypolicy.duke.edu/blog/event/the-public-policy-crisis-of-ice-detention-centers-for-children-and-families/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "5832c36a8876",
+      "title": "From Naturalistic Brain Dynamics to Responsive Neurostimulation for Psychiatric Disorders",
+      "date": "2026-04-30T12:00:00",
+      "location": "Online",
+      "description": "Sponsored by the Ewald W. Busse, MD Lectureship Endowment Fund Nanthia Suthana is a Professor in Neurosurgery, Biomedical Engineering, and Neurobiology at Duke University. She completed her PhD and po",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "995674bfc807",
+      "title": "Critical Care Grand Rounds - Cancelled",
+      "date": "2026-04-30T12:00:00",
+      "location": "None",
+      "description": "Critical Care Grand Rounds occurs via Zoom on Thursdays from 12:00 pm - 1:00 pm EST, and is led by Drs. Vijay Krishnamoorthy and Nazish Hashmi.",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "2da9bf67f9b1",
+      "title": "RAPP Study Group: NIH Multi-component Applications with Foreign Partners",
+      "date": "2026-04-30T12:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/rapp-study-group-nih-multi-component-applications-with-foreign-partners",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
       "id": "1cc7ee637200",
       "title": "Journey to Space 3D",
       "date": "2026-04-30T12:15:00",
@@ -626,6 +604,39 @@
       "url": "https://marbleskidsmuseum.org/event/43151/",
       "latitude": 35.776,
       "longitude": -78.635
+    },
+    {
+      "id": "a5b96175b087",
+      "title": "Thursday Seminar Series",
+      "date": "2026-04-30T12:30:00",
+      "location": "Nanaline Duke 147",
+      "description": "Rafael Guerrero, Ph.D., NC State University Title: : Genetic effects in context: from dominance and sex to polygenic prediction",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "b02863d27c4c",
+      "title": "Organ Demonstration",
+      "date": "2026-04-30T13:00:00",
+      "location": "Duke Chapel",
+      "description": "This organ demonstration is an opportunity to stop in to hear a Duke Chapel organ or B\u00f6sendorfer grand piano played in the informal atmosphere of an open rehearsal. These demonstrations are typically ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "e496a5162760",
+      "title": "Publishing Fundamentals: In Celebration of Duke University Press\u2019s Centennial",
+      "date": "2026-04-30T13:00:00",
+      "location": "Smith Warehouse, Ahmadieh Family Lecture Hall, Bay 4, C105",
+      "description": "To mark the Centennial of the Duke University Press, the DUP and the John Hope Franklin Humanities Institute (FHI) are jointly hosting two events, one in Spring 2026 and the other in Fall 2026. The Sp",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "326dbd7905fb",
@@ -650,6 +661,17 @@
       "longitude": -78.635
     },
     {
+      "id": "49107e6cbc7c",
+      "title": "CFAR\u2013MISM Mini-Symposium: Bridging HIV Research, Modeling & Artificial Intelligence",
+      "date": "2026-04-30T14:00:00",
+      "location": "None",
+      "description": "Abstract: Since 2004, the Models of Infectious Disease Agent Study (MIDAS) has been an NIGMS-supported community of researchers focused on the development and evaluation of mathematical techniques for",
+      "source": "Duke Events",
+      "url": "https://immunescale.org/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "4fe80f161012",
       "title": "Pandas 3D",
       "date": "2026-04-30T14:15:00",
@@ -672,6 +694,39 @@
       "longitude": -78.635
     },
     {
+      "id": "cd362d1b6e54",
+      "title": "Knowing the West After Hours",
+      "date": "2026-04-30T19:30:00",
+      "location": "East Building, Level B",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/exhibition-after-hours/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "2c3b4fc55788",
+      "title": "Knowing the West Member Preview Day",
+      "date": "2026-05-01T10:00:00",
+      "location": "East Building, Meymandi Exhibition Gallery",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/knowing-the-westmember-preview-day/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "c92a3b56f44b",
+      "title": "Knowing the West Exhibition Opening Panel Discussion",
+      "date": "2026-05-01T12:00:00",
+      "location": "East Building, SECU Auditorium",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/knowing-the-west-exhibition-opening-panel-discussion/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
       "id": "05047d624a15",
       "title": "Basics of Estate Planning",
       "date": "2026-05-01T12:00:00",
@@ -679,6 +734,17 @@
       "description": "",
       "source": "UNC Events",
       "url": "https://calendar.unc.edu/event/basics-of-estate-planning-1703",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
+      "id": "6b03925f1c15",
+      "title": "Campus Recreation Spring Fling | UNC Employee Fun Run/Walk",
+      "date": "2026-05-01T12:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/campus-recreation-spring-fling-unc-employee-fun-runwalk",
       "latitude": 35.9132,
       "longitude": -79.0558
     },
@@ -727,6 +793,17 @@
       "longitude": -78.6821
     },
     {
+      "id": "c89fd63d98fa",
+      "title": "Spring Full Moon Walk",
+      "date": "2026-05-01T20:00:00",
+      "location": "Museum Park, Ellipse",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/spring-full-moon-walk-5/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
       "id": "33ba3c8d0441",
       "title": "Drawing in the Galleries",
       "date": "2026-05-02T10:00:00",
@@ -738,6 +815,17 @@
       "longitude": -79.0558
     },
     {
+      "id": "d42369e934bd",
+      "title": "Family-Friendly Tour",
+      "date": "2026-05-02T10:30:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/family-friendly-tours-23/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
       "id": "ebddcd5c2749",
       "title": "Art Adventures (Morning Session)",
       "date": "2026-05-02T10:30:00",
@@ -747,6 +835,17 @@
       "url": "https://calendar.unc.edu/event/art-adventures-morning-session-6527",
       "latitude": 35.9132,
       "longitude": -79.0558
+    },
+    {
+      "id": "30fc9bf85a7b",
+      "title": "Teens Sketch the Galleries",
+      "date": "2026-05-02T12:00:00",
+      "location": "East Building or West Building Lobby",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/teens-sketch-the-galleries-44/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
     },
     {
       "id": "c8a5d645750d",
@@ -771,6 +870,17 @@
       "longitude": -79.0558
     },
     {
+      "id": "3a7f3ddfdf39",
+      "title": "Family Movie Night: James and the Giant Peach",
+      "date": "2026-05-02T18:00:00",
+      "location": "East Building, SECU Auditorium",
+      "description": "/ Events / Events Events Overview Tickets $10 Members $5 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/family-movie-night-james-and-the-giant-peach/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
       "id": "45e424cb010e",
       "title": "Mahler Chamber Orchestra with Yuja Wang, piano and director",
       "date": "2026-05-02T20:00:00",
@@ -791,6 +901,17 @@
       "url": "https://calendar.unc.edu/event/tour-a-closer-look-at-the-collection-852",
       "latitude": 35.9132,
       "longitude": -79.0558
+    },
+    {
+      "id": "6fc2d07b36b2",
+      "title": "NCMA Sacred Song Series: Nefesh Mountain\u2019s Storytellers",
+      "date": "2026-05-03T16:00:00",
+      "location": "East Building, SECU Auditorium",
+      "description": "/ Events / Events Events Overview Tickets $18 Members $10 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/ncma-sacred-song-series-nefesh-mountains-storytellers/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
     },
     {
       "id": "eb767542a3a2",
@@ -837,6 +958,17 @@
       "longitude": -79.0558
     },
     {
+      "id": "e7857a71d93b",
+      "title": "What\u2019s in the Box?",
+      "date": "2026-05-06T10:00:00",
+      "location": "East Building, Studios",
+      "description": "/ Events / Events Events Overview Child tickets $10 Member child tickets (adults and siblings under 3 free) $8 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/whats-in-the-box-56/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
       "id": "9e1d48322d85",
       "title": "Excellence in Interprofessional Education and Practice Celebration",
       "date": "2026-05-06T17:30:00",
@@ -857,6 +989,17 @@
       "url": "https://calendar.ncsu.edu/event/live-at-lake-raleigh-laura-gonzqui",
       "latitude": 35.7847,
       "longitude": -78.6821
+    },
+    {
+      "id": "186ecd926aa2",
+      "title": "Adaptive Tai Chi in the Park: Mindful Movement for Everyone",
+      "date": "2026-05-07T18:00:00",
+      "location": "Museum Park, Welcome Center",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/adaptive-tai-chi-in-the-park-mindful-movement-for-everyone-20/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
     },
     {
       "id": "0f008e2a9044",
@@ -881,6 +1024,17 @@
       "longitude": -78.6821
     },
     {
+      "id": "1c141de402cd",
+      "title": "NCMA to Go Activity Kits: Still Life in Bloom / Kits de actividades del NCMA para llevar: Naturaleza muerta en flor",
+      "date": "2026-05-09T10:00:00",
+      "location": "East Building, Lobby / Vest\u00edbulo del Edificio Este",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/ncma-to-go-activity-kits-still-life-in-bloom-kits-de-actividades-del-ncma-para-llevar-naturaleza-muerta-en-flor/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
       "id": "55d403547d67",
       "title": "Wilson Library Open House",
       "date": "2026-05-09T10:00:00",
@@ -890,6 +1044,28 @@
       "url": "https://calendar.unc.edu/event/wilson-library-open-house",
       "latitude": 35.9132,
       "longitude": -79.0558
+    },
+    {
+      "id": "83209702bfad",
+      "title": "Mother\u2019s Day Tea",
+      "date": "2026-05-09T10:30:00",
+      "location": "West Building, NCMA Caf\u00e9",
+      "description": "/ Events / Events Events Overview Reservation $75 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/mothers-day-tea-8/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "7d0b7b41a521",
+      "title": "Sculpture Meditation with Meg Stein",
+      "date": "2026-05-09T13:00:00",
+      "location": "Museum Park, Welcome Center",
+      "description": "/ Events / Events Events Overview Adults $50 Members $40 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/sculpture-meditation-with-meg-stein-3/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
     },
     {
       "id": "169449923021",
@@ -903,6 +1079,17 @@
       "longitude": -78.6821
     },
     {
+      "id": "ba6aa7997e7e",
+      "title": "Mother's Day Brunch",
+      "date": "2026-05-10T10:30:00",
+      "location": "West Building, NCMA Caf\u00e9",
+      "description": "/ Events / Events Events Overview Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/mothers-day-brunch/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
       "id": "cab3a24618bb",
       "title": "Lake Raleigh Woods Hike",
       "date": "2026-05-12T09:00:00",
@@ -914,15 +1101,125 @@
       "longitude": -78.6821
     },
     {
-      "id": "e645e72ebd11",
-      "title": "Board of Trustees Full Meeting",
-      "date": "2026-05-13T19:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/board-of-trustees-committee-meetings-7508",
-      "latitude": 35.9132,
-      "longitude": -79.0558
+      "id": "6f38887559d9",
+      "title": "Spring Teacher Tuesday: Special Exhibition Access for Educators",
+      "date": "2026-05-12T16:00:00",
+      "location": "East Building, Meymandi Exhibition Gallery",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/spring-teacher-tuesday-special-exhibition-access-for-educators-3/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "82431fed50cb",
+      "title": "An Evening with Michael Twitty",
+      "date": "2026-05-13T18:30:00",
+      "location": "West Building, NCMA Caf\u00e9",
+      "description": "/ Events / Events Events Overview Adults $50 Members $40 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/an-evening-with-michael-twitty/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "3162f27482dc",
+      "title": "Language Caf\u00e9 with Raleigh Sister Cities",
+      "date": "2026-05-14T17:30:00",
+      "location": "West Building, NCMA Caf\u00e9",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/language-cafe-with-raleigh-sister-cities/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "4cfdf8077cd6",
+      "title": "In the Moment: Cultural Activities for the Memory Community",
+      "date": "2026-05-15T13:00:00",
+      "location": "West Building, Lobby",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/in-the-moment-cultural-activities-for-the-memory-community/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "5762fcd1dccb",
+      "title": "NCMA Movies at Moore Square: Poupelle of Chimney Town",
+      "date": "2026-05-15T18:00:00",
+      "location": "Moore Square, Raleigh",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/ncma-movies-at-moore-square-poupelle-of-chimney-town/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "15afd5d8e826",
+      "title": "Park Tour: Science and Sustainability",
+      "date": "2026-05-16T09:00:00",
+      "location": "Museum Park, Welcome Center",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/park-tour-science-and-sustainability/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "95ffe4e82d4c",
+      "title": "Family Studio",
+      "date": "2026-05-16T10:00:00",
+      "location": "East Building, Studios",
+      "description": "/ Events / Events Events Overview Tickets $12 Members $10 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/family-studio-33/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "2d228248d269",
+      "title": "Making Morning at NCMA W-S Downtown: How to Draw the Face",
+      "date": "2026-05-16T10:30:00",
+      "location": "NCMA Winston-Salem, 750 Marguerite Dr, Winston-Salem, NC 27106",
+      "description": "/ Events / Events Events Overview Adults $5 Members $4 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/making-morning-at-ncma-w-s-downtown-how-to-draw-the-face/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "463fbf5dfaca",
+      "title": "Notes on View: Thomas Hinds (return performance)",
+      "date": "2026-05-16T11:00:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/notes-on-view-thomas-hinds-return-performance-3/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "b0f74039a3f0",
+      "title": "She Sings, She Speaks: Beneath the Skin with Nnenna Freelon",
+      "date": "2026-05-17T17:30:00",
+      "location": "West Building, NCMA Caf\u00e9",
+      "description": "/ Events / Events Events Overview Tickets $25 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/she-sings-she-speaks-beneath-the-skin-with-nnenna-freelon/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "f2d6bfe406cd",
+      "title": "Artful Story Time: Eid Mubarak!",
+      "date": "2026-05-20T10:30:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/artful-story-time-eid-mubarak/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
     },
     {
       "id": "34d7accdfcd7",
@@ -980,8 +1277,8 @@
       "longitude": -78.6382
     }
   ],
-  "last_updated": "2026-04-27T08:31:25.674397",
-  "total_events": 89,
+  "last_updated": "2026-04-28T08:29:59.425283",
+  "total_events": 116,
   "sources": [
     "Manual Events",
     "Visit Raleigh",
