@@ -2,7 +2,7 @@ name: Scrape Triangle Events
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # Daily at 6 AM UTC (2 AM ET)
+    - cron: '0 6 */2 * *'  # Every 2 days at 6 AM UTC (reduces Geekflare credit usage)
   workflow_dispatch:        # Allow manual trigger from GitHub UI
 
 jobs:

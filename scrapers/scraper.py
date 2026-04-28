@@ -1023,9 +1023,9 @@ async def scrape_americantowns_triangle(session: aiohttp.ClientSession) -> List[
         r'\s+(\d{1,2})(?:,?\s+(\d{4}))?', re.IGNORECASE
     )
     for url, label, lat, lon, default_loc in counties:
-        html = await fetch_with_geekflare(url, session)
+        html = await fetch_url(url, session)
         if not html:
-            html = await fetch_url(url, session)
+            html = await fetch_with_geekflare(url, session)
         if not html:
             continue
         try:
