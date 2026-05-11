@@ -1,369 +1,6 @@
 {
   "events": [
     {
-      "id": "716b2953cb5b",
-      "title": "Sculpture Meditation with Meg Stein",
-      "date": "2026-05-09T10:00:00",
-      "location": "Museum Park, Welcome Center",
-      "description": "/ Events / Events Events Overview Adults $50 Members $40 Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/sculpture-meditation-with-meg-stein-3/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "1c141de402cd",
-      "title": "NCMA to Go Activity Kits: Still Life in Bloom / Kits de actividades del NCMA para llevar: Naturaleza muerta en flor",
-      "date": "2026-05-09T10:00:00",
-      "location": "East Building, Lobby / Vest\u00edbulo del Edificio Este",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/ncma-to-go-activity-kits-still-life-in-bloom-kits-de-actividades-del-ncma-para-llevar-naturaleza-muerta-en-flor/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "55d403547d67",
-      "title": "Wilson Library Open House",
-      "date": "2026-05-09T10:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/wilson-library-open-house",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "e81c399bf08a",
-      "title": "A Creek in Carolina: Artworks by Bobby C. Martin",
-      "date": "2026-05-09T10:00:00",
-      "location": "NC State University, Raleigh, NC",
-      "description": "",
-      "source": "NC State Events",
-      "url": "https://calendar.ncsu.edu/event/a-creek-in-carolina-artworks-by-bobby-c-martin",
-      "latitude": 35.7847,
-      "longitude": -78.6821
-    },
-    {
-      "id": "7d7edb60479a",
-      "title": "Prioritizing Indigenous Knowledge in Museums",
-      "date": "2026-05-09T10:00:00",
-      "location": "NC State University, Raleigh, NC",
-      "description": "",
-      "source": "NC State Events",
-      "url": "https://calendar.ncsu.edu/event/through-our-eyes-in-our-hands-prioritizing-indigenous-knowledge-in-museums",
-      "latitude": 35.7847,
-      "longitude": -78.6821
-    },
-    {
-      "id": "a4292c90cabf",
-      "title": "Stories Told by Breath: Native American Voices in North Carolina",
-      "date": "2026-05-09T10:00:00",
-      "location": "NC State University, Raleigh, NC",
-      "description": "",
-      "source": "NC State Events",
-      "url": "https://calendar.ncsu.edu/event/stories-told-by-breath-native-american-voices-in-north-carolina",
-      "latitude": 35.7847,
-      "longitude": -78.6821
-    },
-    {
-      "id": "68a0f19307b5",
-      "title": "The House of Ideas: Plants in Art Exhibition",
-      "date": "2026-05-09T10:00:00",
-      "location": "NC State University, Raleigh, NC",
-      "description": "",
-      "source": "NC State Events",
-      "url": "https://calendar.ncsu.edu/event/the-house-of-ideas-plants-in-art",
-      "latitude": 35.7847,
-      "longitude": -78.6821
-    },
-    {
-      "id": "900341a28be1",
-      "title": "Artrageous",
-      "date": "2026-05-09T10:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/44771/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "83209702bfad",
-      "title": "Mother\u2019s Day Tea",
-      "date": "2026-05-09T10:30:00",
-      "location": "West Building, NCMA Caf\u00e9",
-      "description": "/ Events / Events Events Overview Reservation $75 Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/mothers-day-tea-8/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "820550836040",
-      "title": "Art on the Dot",
-      "date": "2026-05-09T11:00:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/art-on-the-dot-2/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "8a7308d65a3b",
-      "title": "Tour: A Closer Look at the Collection",
-      "date": "2026-05-09T13:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/tour-a-closer-look-at-the-collection-7168",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "6dd9b358c846",
-      "title": "MFA|EDA 2026 Commencement Celebration",
-      "date": "2026-05-09T15:00:00",
-      "location": "Center for Documentary Studies",
-      "description": "The MFA in Experimental and Documentary Arts program at Duke University is proud to congratulate the Class of 2026 on the successful completion of the degree and their thesis projects. Please join us ",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "e83036c68881",
-      "title": "Lost Wolves of Yellowstone 2D",
-      "date": "2026-05-09T15:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45641/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "0fd430249795",
-      "title": "Mortal Kombat II",
-      "date": "2026-05-09T17:30:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45558/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "36a5eb55916d",
-      "title": "Gallery Exhibit Opening: \"Making the Ground Talk and Other Stories\" by Brian Palmer",
-      "date": "2026-05-09T18:30:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/gallery-exhibit-opening-making-the-ground-talk-and-other-stories-by-peabody-award-winning-photographer-and-journalist-brian-palmer",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "6221e2dc3c51",
-      "title": "Ancestral Frequencies: Selected Works by the MFA Class of 2026",
-      "date": "2026-05-09T19:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/ancestral-frequencies-selected-works-by-the-mfa-class-of-2026",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "169449923021",
-      "title": "Spring 2026 Commencement Exercises",
-      "date": "2026-05-09T19:00:00",
-      "location": "NC State University, Raleigh, NC",
-      "description": "",
-      "source": "NC State Events",
-      "url": "https://calendar.ncsu.edu/event/spring_2026_commencement_exercises",
-      "latitude": 35.7847,
-      "longitude": -78.6821
-    },
-    {
-      "id": "ae1114dd12fa",
-      "title": "Museum Admission",
-      "date": "2026-05-09T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/44976/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "1a93ba030b1e",
-      "title": "University-Wide Commencement Ceremony",
-      "date": "2026-05-10T09:00:00",
-      "location": "Brooks Field at Wallace Wade Stadium",
-      "description": "Duke's 2026 University-Wide Commencement Ceremony",
-      "source": "Duke Events",
-      "url": "https://commencement.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "5f1404790631",
-      "title": "Bike Maintenance Class and Group Ride",
-      "date": "2026-05-10T10:00:00",
-      "location": "NC State University, Raleigh, NC",
-      "description": "",
-      "source": "NC State Events",
-      "url": "https://calendar.ncsu.edu/event/bike-maintenance-class-group-ride",
-      "latitude": 35.7847,
-      "longitude": -78.6821
-    },
-    {
-      "id": "68498ab0342b",
-      "title": "Science Solvers",
-      "date": "2026-05-10T10:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/44800/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "ba6aa7997e7e",
-      "title": "Mother's Day Brunch",
-      "date": "2026-05-10T10:30:00",
-      "location": "West Building, NCMA Caf\u00e9",
-      "description": "/ Events / Events Events Overview Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/mothers-day-brunch/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "b36da5fb44ac",
-      "title": "Animal Kingdom 3D",
-      "date": "2026-05-10T11:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45686/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "b47326f4187e",
-      "title": "Under the Sea 3D",
-      "date": "2026-05-10T12:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45687/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "31f29d3a1a31",
-      "title": "Chemistry Graduation Ceremony",
-      "date": "2026-05-10T12:15:00",
-      "location": "Gross Hall, Ahmadieh Family Auditorium, Room 107",
-      "description": "The Department of Chemistry looks forward to celebrating with our graduates on Sunday, May 10. The Ceremony for undergraduate and graduate degrees will begin at 12.15pm in Gross Hall Room 107. A light",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "4d27df2e2e07",
-      "title": "Tour: A Closer Look at the Collection",
-      "date": "2026-05-10T13:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/tour-a-closer-look-at-the-collection-1060",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "55b631c3417e",
-      "title": "T. REX 3D",
-      "date": "2026-05-10T13:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45688/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "4d17e9f74aa7",
-      "title": "The Blue Angels 3D",
-      "date": "2026-05-10T14:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45690/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "47d602a58cd7",
-      "title": "Lost Wolves of Yellowstone 2D",
-      "date": "2026-05-10T15:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45684/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "519049f2179f",
-      "title": "MakeShop",
-      "date": "2026-05-10T15:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/44810/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "16b22f71e4e4",
-      "title": "Mortal Kombat II",
-      "date": "2026-05-10T18:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45560/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "b1fcd31655b8",
-      "title": "Graduation exercises; Conferring of degrees",
-      "date": "2026-05-10T19:00:00",
-      "location": "None",
-      "description": "Graduation exercises; Conferring of degrees",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "0ca7c5dbcf1d",
-      "title": "Museum Admission",
-      "date": "2026-05-10T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/44977/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
       "id": "ff1a14a6b4f2",
       "title": "18th Annual Triangle Soft Matter Workshop",
       "date": "2026-05-11T08:00:00",
@@ -507,6 +144,28 @@
       "longitude": -78.8986
     },
     {
+      "id": "2cd9ed0be404",
+      "title": "Gallery Exhibit Opening: \"Making the Ground Talk and Other Stories\" by Brian Palmer",
+      "date": "2026-05-11T18:30:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/gallery-exhibit-opening-making-the-ground-talk-and-other-stories-by-peabody-award-winning-photographer-and-journalist-brian-palmer",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
+      "id": "a83083e7481d",
+      "title": "Ancestral Frequencies: Selected Works by the MFA Class of 2026",
+      "date": "2026-05-11T19:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/ancestral-frequencies-selected-works-by-the-mfa-class-of-2026",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
       "id": "7291a505cc7d",
       "title": "Hematology Case Conference: \u201cClots, Plots, and The Best of Our Thoughts\u201d",
       "date": "2026-05-12T08:00:00",
@@ -593,6 +252,50 @@
       "url": "https://hr.duke.edu/wellness/health-assessments/",
       "latitude": 35.994,
       "longitude": -78.8986
+    },
+    {
+      "id": "6a5163fa99f5",
+      "title": "A Creek in Carolina: Artworks by Bobby C. Martin",
+      "date": "2026-05-12T10:00:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/a-creek-in-carolina-artworks-by-bobby-c-martin",
+      "latitude": 35.7847,
+      "longitude": -78.6821
+    },
+    {
+      "id": "e5273cda9a02",
+      "title": "Prioritizing Indigenous Knowledge in Museums",
+      "date": "2026-05-12T10:00:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/through-our-eyes-in-our-hands-prioritizing-indigenous-knowledge-in-museums",
+      "latitude": 35.7847,
+      "longitude": -78.6821
+    },
+    {
+      "id": "0947245d07de",
+      "title": "Stories Told by Breath: Native American Voices in North Carolina",
+      "date": "2026-05-12T10:00:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/stories-told-by-breath-native-american-voices-in-north-carolina",
+      "latitude": 35.7847,
+      "longitude": -78.6821
+    },
+    {
+      "id": "828df1ef4567",
+      "title": "The House of Ideas: Plants in Art Exhibition",
+      "date": "2026-05-12T10:00:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/the-house-of-ideas-plants-in-art",
+      "latitude": 35.7847,
+      "longitude": -78.6821
     },
     {
       "id": "ccec6199c85f",
@@ -1068,6 +771,61 @@
       "longitude": -79.0558
     },
     {
+      "id": "7b5a560afad8",
+      "title": "Mindful Movement",
+      "date": "2026-05-14T10:00:00",
+      "location": "Webcast",
+      "description": "Every Thursday at 10 a.m., add some movement to your mindfulness practice with Mindful Movement. The 15-minute Zoom sessions will combine movement, breathwork, visualization and intention to create a ",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/webinars/mindfulness/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "6ab0c5738b75",
+      "title": "Research Staff Onboarding",
+      "date": "2026-05-14T10:00:00",
+      "location": "None",
+      "description": "The myRESEARCHnavigators team provides voluntary, group-based research staff onboardings as an introduction to the research enterprise at Duke. It is intended for all University research and laborator",
+      "source": "Duke Events",
+      "url": "https://redcap.duke.edu/redcap/surveys/?s=34AP4HKPMTKWHJPA&service_offering=5",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "5eb6a90def63",
+      "title": "Devon DiPalma Dissertation Defense",
+      "date": "2026-05-14T11:00:00",
+      "location": "Jones 143",
+      "description": "Hello, all- Our own Devon Dipalma will be giving his dissertation defense on Thursday, May 14th. Please plan to attend! Title: Dectin-1 Signaling and Neutrophil Function in Neuroinflammation Date: May",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "5a1797e9f371",
+      "title": "Animal Kingdom 3D",
+      "date": "2026-05-14T11:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/43807/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "5b9ea4dcea83",
+      "title": "Restful Nights for Focused Days: New Insights into the Role of Sleep Health in ADHD",
+      "date": "2026-05-14T12:00:00",
+      "location": "Online",
+      "description": "Dr. Jessica Lunsford-Avery is an Associate Professor in the Department of Psychiatry and Behavioral Sciences at the Duke University School of Medicine. She received her undergraduate degree in Psychol",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "0a50ac663c64",
       "title": "Grant Perspectives: Big, Bad Budgets",
       "date": "2026-05-14T12:00:00",
@@ -1090,6 +848,61 @@
       "longitude": -79.0558
     },
     {
+      "id": "a3740cf37ea5",
+      "title": "Flight of the Butterflies 3D",
+      "date": "2026-05-14T12:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45678/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "f9b0c69095d4",
+      "title": "Oceans: Our Blue Planet 3D",
+      "date": "2026-05-14T13:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45692/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "f1ad514dbf1a",
+      "title": "Artrageous",
+      "date": "2026-05-14T14:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/44779/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "ffc86aff6a35",
+      "title": "Superpower Dogs 3D",
+      "date": "2026-05-14T14:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45680/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "dee115b19c73",
+      "title": "Top Gun 40th Anniversary",
+      "date": "2026-05-14T17:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45700/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "3162f27482dc",
       "title": "Language Caf\u00e9 with Raleigh Sister Cities",
       "date": "2026-05-14T17:30:00",
@@ -1099,6 +912,61 @@
       "url": "https://ncartmuseum.org/event/language-cafe-with-raleigh-sister-cities/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "42a2c2970772",
+      "title": "Museum Admission",
+      "date": "2026-05-14T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/44955/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "f3c2d70a96e1",
+      "title": "Top Gun: Maverick",
+      "date": "2026-05-14T19:30:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45704/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "7df5ee43442f",
+      "title": "PNC Mobile Adventure",
+      "date": "2026-05-15T10:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45736/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "c9ccf6abc4d5",
+      "title": "Mysteries of the Unseen 3D",
+      "date": "2026-05-15T10:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/41260/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "22253a5a3968",
+      "title": "Superpower Dogs 3D",
+      "date": "2026-05-15T11:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45740/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "0624de0c45a1",
@@ -1112,6 +980,17 @@
       "longitude": -79.0558
     },
     {
+      "id": "41257af2b54d",
+      "title": "Science Solvers",
+      "date": "2026-05-15T12:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/44784/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "b4f6d20aa766",
       "title": "Free Yoga",
       "date": "2026-05-15T12:15:00",
@@ -1121,6 +1000,17 @@
       "url": "https://calendar.ncsu.edu/event/free-yoga",
       "latitude": 35.7847,
       "longitude": -78.6821
+    },
+    {
+      "id": "9234f2ec79e4",
+      "title": "Flight of the Butterflies 3D",
+      "date": "2026-05-15T12:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45675/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "4cfdf8077cd6",
@@ -1143,6 +1033,17 @@
       "url": "https://calendar.unc.edu/event/tour-a-closer-look-at-color-concentrated-3110",
       "latitude": 35.9132,
       "longitude": -79.0558
+    },
+    {
+      "id": "da4aa38ada03",
+      "title": "Pandas 3D",
+      "date": "2026-05-15T13:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45742/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "38bd977e6700",
@@ -1187,6 +1088,17 @@
       "url": "https://calendar.unc.edu/event/teen-science-cafe-the-social-impacts-of-ai",
       "latitude": 35.9132,
       "longitude": -79.0558
+    },
+    {
+      "id": "de7722a8df9e",
+      "title": "Museum Admission",
+      "date": "2026-05-15T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/44940/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "15afd5d8e826",
@@ -1387,6 +1299,17 @@
       "longitude": -78.6893
     },
     {
+      "id": "4e60bcbe59c3",
+      "title": "Responding to Narcissism",
+      "date": "2026-05-20T12:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/responding-to-narcissism",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
       "id": "3213810a200e",
       "title": "Boris Lurie: Echoes of Memory",
       "date": "2026-05-20T13:00:00",
@@ -1451,6 +1374,17 @@
       "url": "https://calendar.ncsu.edu/event/live-at-lake-raleigh-palmyra",
       "latitude": 35.7847,
       "longitude": -78.6821
+    },
+    {
+      "id": "a18c8cb7fe41",
+      "title": "We Need the Sky: Awe and Our Connection to the Heavens",
+      "date": "2026-05-21T18:30:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/we-need-the-sky-awe-and-our-connection-to-the-heavens",
+      "latitude": 35.9132,
+      "longitude": -79.0558
     },
     {
       "id": "71b6387604af",
@@ -1728,6 +1662,50 @@
       "longitude": -78.6893
     },
     {
+      "id": "c85de8241b20",
+      "title": "Still. Moving: Prism 5 and Prism 7 as interpreted by Frankie Lee III",
+      "date": "2026-06-06T11:00:00",
+      "location": "Museum Park",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/still-moving-prism-5-and-prism-7-as-interpreted-by-frankie-lee-iii/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "4477bc851b6c",
+      "title": "From Acro to Zumba: An ABC Movement Adventure for Kids!",
+      "date": "2026-06-06T14:00:00",
+      "location": "East Building, Level B",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/from-acro-to-zumba-an-abc-movement-adventure-for-kids-2/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "d1e8d256fe90",
+      "title": "NCMA Loves Anime: Summer Wars (2009) and Mystery Event",
+      "date": "2026-06-13T19:00:00",
+      "location": "East Building, SECU Auditorium",
+      "description": "/ Events / Events Events Overview Adults $10 Members $5 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/ncma-loves-anime-summer-wars-2009-and-mystery-event/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "5df8677a6428",
+      "title": "Summer Camp: Wild and Wonderful, ages 10\u201311",
+      "date": "2026-06-15T09:00:00",
+      "location": "East Building",
+      "description": "/ Events / Events Events Overview Tuition: $375 Members $350 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/summer-camp-wild-and-wonderful-ages-10-11/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
       "id": "2ebd691672fc",
       "title": "Nuv Yug India Fest is a One-Day Cultural Extravaganza, March 21 in Raleigh",
       "date": "2027-03-21T19:00:00",
@@ -1739,8 +1717,8 @@
       "longitude": -78.6382
     }
   ],
-  "last_updated": "2026-05-09T07:29:39.619302",
-  "total_events": 158,
+  "last_updated": "2026-05-11T08:54:09.314813",
+  "total_events": 156,
   "sources": [
     "Manual Events",
     "Visit Raleigh",
