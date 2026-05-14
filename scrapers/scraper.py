@@ -1591,12 +1591,14 @@ async def main():
         ("Eventbrite Triangle",     scrape_eventbrite_triangle),
     ]
 
-    # Load previous source counts for regression detection
+    # Load previous source counts and zero-strike counts for regression detection
     prev_counts: Dict[str, int] = {}
+    zero_strikes: Dict[str, int] = {}   # how many consecutive runs a source has returned 0
     try:
         with open(OUTPUT_FILE) as f:
             prev_data = json.load(f)
         prev_counts = prev_data.get("source_counts", {})
+        zero_strikes = prev_data.get("zero_strikes", {})
     except Exception:
         pass
 
@@ -1628,12 +1630,22 @@ async def main():
     ]
     print(f"  • Filtered to {len(all_events)} future events (next 365 days)")
 
+    # Update consecutive-zero-strike counters
+    current_strikes: Dict[str, int] = {}
+    for name, _ in scrapers:
+        count = source_counts.get(name, 0)
+        if count == 0 and prev_counts.get(name, 0) >= 3:
+            current_strikes[name] = zero_strikes.get(name, 0) + 1
+        else:
+            current_strikes[name] = 0
+
     output = {
         "events": all_events,
         "last_updated": now.isoformat(),
         "total_events": len(all_events),
         "sources": [name for name, _ in scrapers],
         "source_counts": source_counts,
+        "zero_strikes": current_strikes,
     }
 
     os.makedirs(os.path.dirname(os.path.abspath(OUTPUT_FILE)), exist_ok=True)
@@ -1650,25 +1662,29 @@ async def main():
     print("\n" + "=" * 60)
     print("SCRAPER HEALTH REPORT")
     print("=" * 60)
-    print(f"{'Source':<30} {'Now':>6} {'Prev':>6}  Status")
-    print("-" * 60)
+    print(f"{'Source':<30} {'Now':>6} {'Prev':>6} {'Strike':>6}  Status")
+    print("-" * 65)
     for name, _ in scrapers:
-        count = source_counts.get(name, 0)
-        prev  = prev_counts.get(name, None)
+        count  = source_counts.get(name, 0)
+        prev   = prev_counts.get(name, None)
+        strike = current_strikes.get(name, 0)
         if prev is None:
             status = "NEW"
-        elif count == 0 and prev >= 3 and name not in exempt:
-            status = "⚠ BROKEN"
+        elif count == 0 and strike >= 2 and name not in exempt:
+            # Only alert after 2 consecutive zero runs (avoids single-run network blips)
+            status = "🔴 BROKEN"
             regressions.append((name, prev))
+        elif count == 0 and strike == 1 and name not in exempt:
+            status = "⚠ WARN (1 zero run)"
         elif count < prev * 0.25 and prev >= 10 and name not in exempt:
             status = f"⚠ LOW ({count} vs {prev} last run)"
             regressions.append((name, prev))
         elif count == 0:
             status = "EMPTY"
         else:
-            status = "OK"
+            status = "✅ OK"
         prev_str = str(prev) if prev is not None else "—"
-        print(f"  {name:<28} {count:>6} {prev_str:>6}  {status}")
+        print(f"  {name:<28} {count:>6} {prev_str:>6} {strike:>6}  {status}")
 
     # Write GitHub Actions step summary if running in CI
     summary_file = os.environ.get("GITHUB_STEP_SUMMARY")
@@ -1677,19 +1693,22 @@ async def main():
             sf.write("## Triangle Happenings Scraper Health\n\n")
             sf.write(f"**Total events:** {len(all_events)}  \n")
             sf.write(f"**Run at:** {now.strftime('%Y-%m-%d %H:%M UTC')}\n\n")
-            sf.write("| Source | Events | Prev | Status |\n")
-            sf.write("|--------|-------:|-----:|--------|\n")
+            sf.write("| Source | Events | Prev | Strikes | Status |\n")
+            sf.write("|--------|-------:|-----:|--------:|--------|\n")
             for name, _ in scrapers:
-                count = source_counts.get(name, 0)
-                prev  = prev_counts.get(name, None)
+                count  = source_counts.get(name, 0)
+                prev   = prev_counts.get(name, None)
+                strike = current_strikes.get(name, 0)
                 prev_str = str(prev) if prev is not None else "—"
                 if name in [r[0] for r in regressions]:
                     status = "🔴 BROKEN"
+                elif strike == 1:
+                    status = "🟡 Warning"
                 elif count == 0:
                     status = "⚪ Empty"
                 else:
                     status = "🟢 OK"
-                sf.write(f"| {name} | {count} | {prev_str} | {status} |\n")
+                sf.write(f"| {name} | {count} | {prev_str} | {strike} | {status} |\n")
             if regressions:
                 sf.write(f"\n### ⚠️ {len(regressions)} broken source(s)\n\n")
                 for name, prev in regressions:
