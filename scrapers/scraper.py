@@ -1591,14 +1591,26 @@ async def main():
         ("Eventbrite Triangle",     scrape_eventbrite_triangle),
     ]
 
+    # Load previous source counts for regression detection
+    prev_counts: Dict[str, int] = {}
+    try:
+        with open(OUTPUT_FILE) as f:
+            prev_data = json.load(f)
+        prev_counts = prev_data.get("source_counts", {})
+    except Exception:
+        pass
+
+    source_counts: Dict[str, int] = {}
     async with aiohttp.ClientSession() as session:
         for source_name, scraper_func in scrapers:
             try:
                 events = await scraper_func(session)
                 all_events.extend(events)
+                source_counts[source_name] = len(events)
                 print(f"  → {source_name}: {len(events)} events")
             except Exception as e:
                 log_error(f"  ✗ {source_name} failed: {e}")
+                source_counts[source_name] = 0
 
     print("\nDeduplication...")
     original_count = len(all_events)
@@ -1621,6 +1633,7 @@ async def main():
         "last_updated": now.isoformat(),
         "total_events": len(all_events),
         "sources": [name for name, _ in scrapers],
+        "source_counts": source_counts,
     }
 
     os.makedirs(os.path.dirname(os.path.abspath(OUTPUT_FILE)), exist_ok=True)
@@ -1628,6 +1641,69 @@ async def main():
         json.dump(output, f, indent=2)
 
     print(f"\n✓ Saved {len(all_events)} events → triangle_happenings.json")
+
+    # ── Health report ─────────────────────────────────────────────
+    # Sources that are exempt from regression alerts (expected to be 0 sometimes)
+    exempt = {"Manual Events", "Eventbrite Triangle"}
+
+    regressions = []
+    print("\n" + "=" * 60)
+    print("SCRAPER HEALTH REPORT")
+    print("=" * 60)
+    print(f"{'Source':<30} {'Now':>6} {'Prev':>6}  Status")
+    print("-" * 60)
+    for name, _ in scrapers:
+        count = source_counts.get(name, 0)
+        prev  = prev_counts.get(name, None)
+        if prev is None:
+            status = "NEW"
+        elif count == 0 and prev >= 3 and name not in exempt:
+            status = "⚠ BROKEN"
+            regressions.append((name, prev))
+        elif count < prev * 0.25 and prev >= 10 and name not in exempt:
+            status = f"⚠ LOW ({count} vs {prev} last run)"
+            regressions.append((name, prev))
+        elif count == 0:
+            status = "EMPTY"
+        else:
+            status = "OK"
+        prev_str = str(prev) if prev is not None else "—"
+        print(f"  {name:<28} {count:>6} {prev_str:>6}  {status}")
+
+    # Write GitHub Actions step summary if running in CI
+    summary_file = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary_file:
+        with open(summary_file, "a") as sf:
+            sf.write("## Triangle Happenings Scraper Health\n\n")
+            sf.write(f"**Total events:** {len(all_events)}  \n")
+            sf.write(f"**Run at:** {now.strftime('%Y-%m-%d %H:%M UTC')}\n\n")
+            sf.write("| Source | Events | Prev | Status |\n")
+            sf.write("|--------|-------:|-----:|--------|\n")
+            for name, _ in scrapers:
+                count = source_counts.get(name, 0)
+                prev  = prev_counts.get(name, None)
+                prev_str = str(prev) if prev is not None else "—"
+                if name in [r[0] for r in regressions]:
+                    status = "🔴 BROKEN"
+                elif count == 0:
+                    status = "⚪ Empty"
+                else:
+                    status = "🟢 OK"
+                sf.write(f"| {name} | {count} | {prev_str} | {status} |\n")
+            if regressions:
+                sf.write(f"\n### ⚠️ {len(regressions)} broken source(s)\n\n")
+                for name, prev in regressions:
+                    sf.write(f"- **{name}** had {prev} events last run, now 0\n")
+
+    if regressions:
+        print("\n" + "=" * 60)
+        print(f"ERROR: {len(regressions)} scraper(s) stopped working:")
+        for name, prev in regressions:
+            print(f"  • {name} — had {prev} events, now 0")
+        print("=" * 60)
+        import sys
+        sys.exit(1)
+
     print("=" * 60)
 
 
