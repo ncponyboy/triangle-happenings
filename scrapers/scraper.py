@@ -1445,6 +1445,329 @@ async def scrape_artspace_raleigh(session: aiohttp.ClientSession) -> List[Dict]:
     return events
 
 
+async def scrape_carolina_hurricanes(session: aiohttp.ClientSession) -> List[Dict]:
+    """Carolina Hurricanes home game schedule via NHL API (no key required)."""
+    log_info("Scraping Carolina Hurricanes schedule...")
+    events = []
+    source_name = "Carolina Hurricanes"
+    try:
+        now = datetime.now()
+        cutoff = now - timedelta(hours=2)
+        seen = set()
+        # Fetch current month + next 8 months to cover full season
+        for offset in range(9):
+            month_dt = now.replace(day=1) + timedelta(days=offset * 31)
+            ym = month_dt.strftime('%Y-%m')
+            url = f"https://api-web.nhle.com/v1/club-schedule/CAR/month/{ym}"
+            raw = await fetch_url(url, session, extra_headers={'Accept': 'application/json'})
+            if not raw:
+                continue
+            try:
+                data = json.loads(raw)
+            except Exception:
+                continue
+            for game in data.get('games', []):
+                # Only home games
+                if game.get('homeTeam', {}).get('abbrev', '') != 'CAR':
+                    continue
+                start_utc = game.get('startTimeUTC', '')
+                game_date_str = game.get('gameDate', '')
+                if not start_utc and not game_date_str:
+                    continue
+                try:
+                    if start_utc:
+                        # Convert UTC to Eastern (UTC-4 summer, UTC-5 winter)
+                        game_dt = datetime.strptime(start_utc[:16], '%Y-%m-%dT%H:%M')
+                        eastern_offset = -4 if 3 <= game_dt.month <= 10 else -5
+                        game_dt = game_dt + timedelta(hours=eastern_offset)
+                    else:
+                        game_dt = datetime.strptime(game_date_str, '%Y-%m-%d')
+                        game_dt = game_dt.replace(hour=19, minute=0)
+                except Exception:
+                    continue
+                if game_dt < cutoff:
+                    continue
+                away_place = game.get('awayTeam', {}).get('placeName', {}).get('default', '')
+                away_name = game.get('awayTeam', {}).get('commonName', {}).get('default', '')
+                opponent = away_place or away_name or 'Opponent'
+                game_type = game.get('gameType', 2)
+                type_label = "Playoff Game" if game_type == 3 else "vs."
+                title = f"Carolina Hurricanes {type_label} {opponent}"
+                key = f"{title.lower()}_{game_dt.date()}"
+                if key in seen:
+                    continue
+                seen.add(key)
+                venue = game.get('venue', {}).get('default', 'Lenovo Center')
+                events.append({
+                    "id": create_event_id(title, game_dt.isoformat(), source_name),
+                    "title": title,
+                    "date": game_dt.isoformat(),
+                    "location": f"{venue}, Raleigh, NC",
+                    "description": "Carolina Hurricanes NHL hockey game.",
+                    "source": source_name,
+                    "url": "https://www.nhl.com/hurricanes/schedule",
+                    "latitude": 35.8033,
+                    "longitude": -78.7228,
+                })
+        log_info(f"  ✓ Found {len(events)} Hurricanes home games")
+    except Exception as e:
+        log_error(f"  ✗ Carolina Hurricanes error: {e}")
+    return events
+
+
+async def scrape_booth_amphitheatre(session: aiohttp.ClientSession) -> List[Dict]:
+    """boothamphitheatre.com — Booth Amphitheatre, Cary (outdoor summer venue)."""
+    log_info("Scraping Booth Amphitheatre (Cary)...")
+    events = []
+    source_name = "Booth Amphitheatre"
+    base_url = "https://www.boothamphitheatre.com"
+    location = "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC"
+    try:
+        html = await fetch_url(f"{base_url}/events", session)
+        if not html:
+            return events
+        soup = BeautifulSoup(html, 'html.parser')
+        cutoff = datetime.now() - timedelta(hours=2)
+        seen = set()
+        # Date format: "May 22, 2026"
+        date_re = re.compile(
+            r'(January|February|March|April|May|June|July|August|September|October|November|December)'
+            r'\s+(\d{1,2}),?\s+(\d{4})', re.IGNORECASE
+        )
+        time_re = re.compile(r'(\d{1,2}(?::\d{2})?\s*(?:am|pm))', re.IGNORECASE)
+        skip = {'events', 'more info', 'buy tickets', 'all events'}
+        for heading in soup.find_all(['h2', 'h3', 'h4']):
+            link = heading.find('a') or heading
+            a = heading.find('a')
+            title_text = clean_text(heading.get_text())
+            if not title_text or len(title_text) < 4 or title_text.lower() in skip:
+                continue
+            event_url = (a.get('href', '') if a else '') or f"{base_url}/events"
+            if event_url.startswith('/'):
+                event_url = base_url + event_url
+            block = heading.parent or heading
+            block_text = block.get_text()
+            dm = date_re.search(block_text)
+            if not dm:
+                continue
+            month, day, year = dm.group(1).title(), dm.group(2), int(dm.group(3))
+            tm = time_re.search(block_text)
+            event_date = parse_date_time(month, day, year=year, time_str=tm.group(1) if tm else "7:00 pm")
+            if not event_date or event_date < cutoff or event_date.year != year:
+                continue
+            key = f"{title_text.lower()}_{event_date.date()}"
+            if key in seen:
+                continue
+            seen.add(key)
+            events.append({
+                "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                "title": title_text,
+                "date": event_date.isoformat(),
+                "location": location,
+                "description": "",
+                "source": source_name,
+                "url": event_url,
+                "latitude": 35.7916,
+                "longitude": -78.8152,
+            })
+        log_info(f"  ✓ Found {len(events)} Booth Amphitheatre events")
+    except Exception as e:
+        log_error(f"  ✗ Booth Amphitheatre error: {e}")
+    return events
+
+
+async def scrape_red_hat_amphitheater(session: aiohttp.ClientSession) -> List[Dict]:
+    """redhatamphitheater.com — Red Hat Amphitheater, downtown Raleigh."""
+    log_info("Scraping Red Hat Amphitheater (Raleigh)...")
+    events = []
+    source_name = "Red Hat Amphitheater"
+    base_url = "https://www.redhatamphitheater.com"
+    location = "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC"
+    try:
+        html = await fetch_url(f"{base_url}/events", session)
+        if not html:
+            return events
+        soup = BeautifulSoup(html, 'html.parser')
+        cutoff = datetime.now() - timedelta(hours=2)
+        seen = set()
+        # Date format: "Sat. May 16, 2026 7:30 PM"
+        date_re = re.compile(
+            r'(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\.?\s+'
+            r'(January|February|March|April|May|June|July|August|September|October|November|December|'
+            r'Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)'
+            r'\s+(\d{1,2}),?\s+(\d{4})', re.IGNORECASE
+        )
+        time_re = re.compile(r'(\d{1,2}(?::\d{2})?\s*(?:am|pm))', re.IGNORECASE)
+        skip = {'events', 'more info', 'buy tickets', 'all events', 'tickets'}
+        for heading in soup.find_all(['h2', 'h3', 'h4']):
+            a = heading.find('a')
+            title_text = clean_text(heading.get_text())
+            if not title_text or len(title_text) < 4 or title_text.lower() in skip:
+                continue
+            event_url = (a.get('href', '') if a else '') or f"{base_url}/events"
+            if event_url.startswith('/'):
+                event_url = base_url + event_url
+            block = heading.parent or heading
+            block_text = block.get_text()
+            dm = date_re.search(block_text)
+            if not dm:
+                continue
+            month = _MONTH_ABBR.get(dm.group(1)[:3].lower(), dm.group(1).title())
+            day, year = dm.group(2), int(dm.group(3))
+            tm = time_re.search(block_text)
+            event_date = parse_date_time(month, day, year=year, time_str=tm.group(1) if tm else "7:00 pm")
+            if not event_date or event_date < cutoff or event_date.year != year:
+                continue
+            key = f"{title_text.lower()}_{event_date.date()}"
+            if key in seen:
+                continue
+            seen.add(key)
+            events.append({
+                "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                "title": title_text,
+                "date": event_date.isoformat(),
+                "location": location,
+                "description": "",
+                "source": source_name,
+                "url": event_url,
+                "latitude": 35.7737,
+                "longitude": -78.6383,
+            })
+        log_info(f"  ✓ Found {len(events)} Red Hat Amphitheater events")
+    except Exception as e:
+        log_error(f"  ✗ Red Hat Amphitheater error: {e}")
+    return events
+
+
+async def scrape_the_ritz(session: aiohttp.ClientSession) -> List[Dict]:
+    """ritzraleigh.com — The Ritz, Raleigh music venue."""
+    log_info("Scraping The Ritz (Raleigh)...")
+    events = []
+    source_name = "The Ritz"
+    base_url = "https://www.ritzraleigh.com"
+    location = "The Ritz, 2820 Industrial Dr, Raleigh, NC"
+    try:
+        html = await fetch_url(base_url, session)
+        if not html:
+            return events
+        soup = BeautifulSoup(html, 'html.parser')
+        cutoff = datetime.now() - timedelta(hours=2)
+        seen = set()
+        # Try JSON-LD first
+        for script in soup.find_all('script', type='application/ld+json'):
+            try:
+                data = json.loads(script.string or '')
+                items = data if isinstance(data, list) else [data]
+                for item in items:
+                    if 'Event' not in item.get('@type', ''):
+                        continue
+                    title_text = clean_text(item.get('name', ''))
+                    start_date = item.get('startDate', '')
+                    if not title_text or not start_date:
+                        continue
+                    try:
+                        dt_clean = re.sub(r'[+-]\d{2}:\d{2}$', '', start_date)
+                        event_date = datetime.strptime(dt_clean[:16], '%Y-%m-%dT%H:%M')
+                    except Exception:
+                        continue
+                    if event_date < cutoff:
+                        continue
+                    key = f"{title_text.lower()}_{event_date.date()}"
+                    if key in seen:
+                        continue
+                    seen.add(key)
+                    events.append({
+                        "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                        "title": title_text,
+                        "date": event_date.isoformat(),
+                        "location": location,
+                        "description": clean_text(item.get('description', ''))[:200],
+                        "source": source_name,
+                        "url": item.get('url', base_url),
+                        "latitude": 35.8468,
+                        "longitude": -78.6379,
+                    })
+            except Exception:
+                continue
+        if not events:
+            # HTML fallback: "Sat 11 Jul 2026" date format
+            date_re = re.compile(
+                r'(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s+(\d{1,2})\s+'
+                r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{4})',
+                re.IGNORECASE
+            )
+            time_re = re.compile(r'(\d{1,2}(?::\d{2})?\s*(?:am|pm))', re.IGNORECASE)
+            for heading in soup.find_all(['h2', 'h3', 'h4']):
+                a = heading.find('a')
+                title_text = clean_text(heading.get_text())
+                if not title_text or len(title_text) < 4:
+                    continue
+                event_url = (a.get('href', '') if a else '') or base_url
+                if event_url.startswith('/'):
+                    event_url = base_url + event_url
+                block = heading.parent or heading
+                block_text = block.get_text()
+                dm = date_re.search(block_text)
+                if not dm:
+                    continue
+                day = dm.group(1)
+                month = _MONTH_ABBR.get(dm.group(2)[:3].lower(), dm.group(2).title())
+                year = int(dm.group(3))
+                tm = time_re.search(block_text)
+                event_date = parse_date_time(month, day, year=year, time_str=tm.group(1) if tm else "8:00 pm")
+                if not event_date or event_date < cutoff or event_date.year != year:
+                    continue
+                key = f"{title_text.lower()}_{event_date.date()}"
+                if key in seen:
+                    continue
+                seen.add(key)
+                events.append({
+                    "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                    "title": title_text,
+                    "date": event_date.isoformat(),
+                    "location": location,
+                    "description": "",
+                    "source": source_name,
+                    "url": event_url,
+                    "latitude": 35.8468,
+                    "longitude": -78.6379,
+                })
+        log_info(f"  ✓ Found {len(events)} The Ritz events")
+    except Exception as e:
+        log_error(f"  ✗ The Ritz error: {e}")
+    return events
+
+
+async def scrape_motorco(session: aiohttp.ClientSession) -> List[Dict]:
+    """motorcomusic.com — Motorco Music Hall, Durham."""
+    log_info("Scraping Motorco Music Hall (Durham)...")
+    events = []
+    source_name = "Motorco Music Hall"
+    base_url = "https://motorcomusic.com"
+    location = "Motorco Music Hall, 723 Rigsbee Ave, Durham, NC"
+    try:
+        for path in ["/calendar/", "/events/"]:
+            ical_raw = await fetch_url(f"{base_url}{path}?ical=1", session)
+            if ical_raw and 'BEGIN:VCALENDAR' in ical_raw:
+                events = parse_ical_feed(ical_raw, source_name, location, 35.9977, -78.9047, f"{base_url}{path}")
+                if events:
+                    log_info(f"  ✓ Found {len(events)} events via iCal")
+                    return events
+            html = await fetch_url(f"{base_url}{path}", session)
+            if not html:
+                continue
+            events = _parse_seated_events(html, source_name, location, 35.9977, -78.9047, base_url)
+            if not events:
+                soup = BeautifulSoup(html, 'html.parser')
+                events = _parse_tribe_events(soup, source_name, f"{base_url}{path}", location, 35.9977, -78.9047, base_url)
+            if events:
+                break
+        log_info(f"  ✓ Found {len(events)} Motorco events")
+    except Exception as e:
+        log_error(f"  ✗ Motorco error: {e}")
+    return events
+
+
 async def scrape_durham_bulls(session: aiohttp.ClientSession) -> List[Dict]:
     """Durham Bulls home game schedule via MLB stats API (no key required)."""
     log_info("Scraping Durham Bulls home games...")
@@ -1587,6 +1910,11 @@ async def main():
         ("PlayMakers Rep",          scrape_playmakers_theatre),
         ("Artspace Raleigh",        scrape_artspace_raleigh),
         ("Durham Bulls",            scrape_durham_bulls),
+        ("Carolina Hurricanes",     scrape_carolina_hurricanes),
+        ("Booth Amphitheatre",      scrape_booth_amphitheatre),
+        ("Red Hat Amphitheater",    scrape_red_hat_amphitheater),
+        ("The Ritz",                scrape_the_ritz),
+        ("Motorco Music Hall",      scrape_motorco),
         ("AmericanTowns Triangle",  scrape_americantowns_triangle),
         ("Eventbrite Triangle",     scrape_eventbrite_triangle),
     ]
