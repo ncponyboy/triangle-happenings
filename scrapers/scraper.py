@@ -21,6 +21,7 @@ from typing import Dict, List, Optional
 
 import aiohttp
 from bs4 import BeautifulSoup
+from html import unescape as html_unescape
 
 # ─────────────────────────────────────────────
 # Config
@@ -43,6 +44,7 @@ def log_error(msg):  print(f"[ERROR] {msg}")
 # ─────────────────────────────────────────────
 def clean_text(text: str) -> str:
     text = re.sub(r'<[^>]+>', '', text)
+    text = html_unescape(text)
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
 
@@ -51,8 +53,16 @@ def create_event_id(title: str, date: str, source: str) -> str:
     return hashlib.md5(f"{title}_{date}_{source}".encode()).hexdigest()[:12]
 
 
+_MONTH_ABBR = {
+    'jan': 'January', 'feb': 'February', 'mar': 'March', 'apr': 'April',
+    'may': 'May', 'jun': 'June', 'jul': 'July', 'aug': 'August',
+    'sep': 'September', 'oct': 'October', 'nov': 'November', 'dec': 'December',
+}
+
+
 def parse_date_time(month: str, day: str, year: int = None, time_str: str = "7pm") -> Optional[datetime]:
     try:
+        month = _MONTH_ABBR.get(month[:3].lower(), month)
         if year is None:
             year = datetime.now().year
         event_date = datetime.strptime(f"{month} {day} {year}", "%B %d %Y")
@@ -315,6 +325,139 @@ def _parse_tribe_events(soup, source_name: str, source_url: str,
     return events
 
 
+def _parse_seated_events(html: str, source_name: str, default_location: str,
+                         lat: float, lon: float, base_url: str) -> List[Dict]:
+    """Parse music venues using Seated-style ticketing platform (href=/event/...)."""
+    soup = BeautifulSoup(html, 'html.parser')
+    events = []
+    seen = set()
+    cutoff = datetime.now() - timedelta(hours=2)
+    short_date_re = re.compile(
+        r'(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s+'
+        r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})(?:,?\s+(\d{4}))?',
+        re.IGNORECASE
+    )
+    time_re = re.compile(r'(\d{1,2}(?::\d{2})?\s*(?:am|pm))', re.IGNORECASE)
+    month_map = {
+        'jan': 'January', 'feb': 'February', 'mar': 'March', 'apr': 'April',
+        'may': 'May', 'jun': 'June', 'jul': 'July', 'aug': 'August',
+        'sep': 'September', 'oct': 'October', 'nov': 'November', 'dec': 'December',
+    }
+    skip_titles = {'tickets', 'buy tickets', 'more info', 'sold out', 'events', 'shows', 'all shows'}
+    for a in soup.find_all('a', href=re.compile(r'/event/')):
+        href = a.get('href', '')
+        if not href:
+            continue
+        event_url = href if href.startswith('http') else base_url.rstrip('/') + href
+        # Prefer title attribute (RHP Events plugin stores event name there)
+        title_attr = clean_text(a.get('title', ''))
+        heading = a.find(['h1', 'h2', 'h3', 'h4', 'h5'])
+        title_text = (
+            title_attr
+            or clean_text(heading.get_text() if heading else '')
+            or clean_text(a.get_text())
+        )
+        if not title_text or len(title_text) < 4 or title_text.lower() in skip_titles:
+            continue
+        block_text = ''
+        node = a
+        for _ in range(5):
+            node = node.parent
+            if not node:
+                break
+            block_text = node.get_text()
+            if short_date_re.search(block_text):
+                break
+        dm = short_date_re.search(block_text)
+        if not dm:
+            continue
+        month = month_map.get(dm.group(1)[:3].lower(), dm.group(1).title())
+        day = dm.group(2)
+        year = int(dm.group(3)) if dm.group(3) else datetime.now().year
+        tm = time_re.search(block_text)
+        event_date = parse_date_time(month, day, year=year, time_str=tm.group(1) if tm else "8:00 pm")
+        if not event_date or event_date < cutoff:
+            continue
+        key = f"{title_text.lower()}_{event_date.date()}"
+        if key in seen:
+            continue
+        seen.add(key)
+        events.append({
+            "id": create_event_id(title_text, event_date.isoformat(), source_name),
+            "title": title_text,
+            "date": event_date.isoformat(),
+            "location": default_location,
+            "description": "",
+            "source": source_name,
+            "url": event_url,
+            "latitude": lat,
+            "longitude": lon,
+        })
+    return events
+
+
+def _parse_show_run_events(html: str, source_name: str, default_location: str,
+                           lat: float, lon: float, base_url: str,
+                           show_url_pattern: str = r'/show') -> List[Dict]:
+    """Parse theatre sites that list season shows with date ranges like 'Jun 5 - 28, 2026'."""
+    soup = BeautifulSoup(html, 'html.parser')
+    events = []
+    seen = set()
+    cutoff = datetime.now() - timedelta(hours=2)
+    # Matches "Sep 9-27, 2026", "June 5 - 28, 2026", "Sep 9 - Oct 5, 2026"
+    _M = r'(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)'
+    range_re = re.compile(
+        rf'({_M})\s+(\d{{1,2}})\s*[-–]\s*(?:({_M})\s+)?(\d{{1,2}}),?\s*(\d{{4}})',
+        re.IGNORECASE
+    )
+    for heading in soup.find_all(['h2', 'h3', 'h4']):
+        link = heading.find('a', href=re.compile(show_url_pattern))
+        if not link:
+            continue
+        title_text = clean_text(link.get_text())
+        if not title_text or len(title_text) < 4:
+            continue
+        event_url = link.get('href', '')
+        if event_url.startswith('/'):
+            event_url = base_url.rstrip('/') + event_url
+        # Search surrounding context for date range
+        block = heading.parent or heading
+        block_text = block.get_text()
+        dm = range_re.search(block_text)
+        if not dm:
+            continue
+        month = dm.group(1).title()
+        day = dm.group(2)
+        year = int(dm.group(5))
+        event_date = parse_date_time(month, day, year=year, time_str="7:30 pm")
+        if not event_date or event_date < cutoff:
+            # If opening night has passed, use the whole run as a single event at run start
+            continue
+        key = f"{title_text.lower()}_{event_date.date()}"
+        if key in seen:
+            continue
+        seen.add(key)
+        # Build readable date range string for description
+        # Skip if parse_date_time rolled the year (opening night was in the past)
+        if event_date.year != year:
+            continue
+        end_month = dm.group(3).title() if dm.group(3) else month
+        end_day = dm.group(4)
+        desc = f"Running {month} {day} – {end_month} {end_day}, {year}"
+        events.append({
+            "id": create_event_id(title_text, event_date.isoformat(), source_name),
+            "title": title_text,
+            "date": event_date.isoformat(),
+            "location": default_location,
+            "description": desc,
+            "source": source_name,
+            "url": event_url,
+            "latitude": lat,
+            "longitude": lon,
+        })
+    return events
+
+
 # ─────────────────────────────────────────────
 # Scrapers — Triangle area
 # ─────────────────────────────────────────────
@@ -503,23 +646,65 @@ async def scrape_indy_week(session: aiohttp.ClientSession) -> List[Dict]:
 
 
 async def scrape_visit_durham(session: aiohttp.ClientSession) -> List[Dict]:
-    """visitdurham.com — Durham tourism events."""
-    log_info("Scraping Visit Durham...")
+    """discoverdurham.com — Durham tourism events (visitdurham.com redirects here)."""
+    log_info("Scraping Discover Durham...")
     events = []
     source_name = "Visit Durham"
-    base_url = "https://www.visitdurham.com"
+    base_url = "https://www.discoverdurham.com"
     try:
-        ical_raw = await fetch_url(f"{base_url}/events/?ical=1", session)
-        if ical_raw and 'BEGIN:VCALENDAR' in ical_raw:
-            events = parse_ical_feed(ical_raw, source_name, "Durham, NC", 35.9940, -78.8986, f"{base_url}/events/")
-            if events:
-                log_info(f"  ✓ Found {len(events)} events via iCal")
-                return events
+        # Try iCal
+        for ical_path in ["/events/?ical=1", "/events/ical/"]:
+            ical_raw = await fetch_url(f"{base_url}{ical_path}", session)
+            if ical_raw and 'BEGIN:VCALENDAR' in ical_raw:
+                events = parse_ical_feed(ical_raw, source_name, "Durham, NC", 35.9940, -78.8986, f"{base_url}/events/")
+                if events:
+                    log_info(f"  ✓ Found {len(events)} events via iCal")
+                    return events
         html = await fetch_url(f"{base_url}/events/", session) or await fetch_with_geekflare(f"{base_url}/events/", session)
         if not html:
             return events
         soup = BeautifulSoup(html, 'html.parser')
-        events = _parse_tribe_events(soup, source_name, f"{base_url}/events/", "Durham, NC", 35.9940, -78.8986, base_url)
+        cutoff = datetime.now() - timedelta(hours=2)
+        seen = set()
+        # JSON-LD
+        for script in soup.find_all('script', type='application/ld+json'):
+            try:
+                data = json.loads(script.string or '')
+                items = data if isinstance(data, list) else [data]
+                for item in items:
+                    if 'Event' not in item.get('@type', ''):
+                        continue
+                    title_text = clean_text(item.get('name', ''))
+                    start_date = item.get('startDate', '')
+                    if not title_text or not start_date:
+                        continue
+                    try:
+                        dt_clean = re.sub(r'[+-]\d{2}:\d{2}$', '', start_date)
+                        event_date = datetime.strptime(dt_clean[:16], '%Y-%m-%dT%H:%M')
+                    except Exception:
+                        continue
+                    if event_date < cutoff:
+                        continue
+                    key = f"{title_text.lower()}_{event_date.date()}"
+                    if key in seen:
+                        continue
+                    seen.add(key)
+                    events.append({
+                        "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                        "title": title_text,
+                        "date": event_date.isoformat(),
+                        "location": "Durham, NC",
+                        "description": clean_text(item.get('description', ''))[:200],
+                        "source": source_name,
+                        "url": item.get('url', f"{base_url}/events/"),
+                        "latitude": 35.9940,
+                        "longitude": -78.8986,
+                    })
+            except Exception:
+                continue
+        if not events:
+            # Full month name date regex fallback for CVB-style HTML
+            events = _parse_tribe_events(soup, source_name, f"{base_url}/events/", "Durham, NC", 35.9940, -78.8986, base_url)
         log_info(f"  ✓ Found {len(events)} events")
     except Exception as e:
         log_error(f"  ✗ Visit Durham error: {e}")
@@ -617,6 +802,51 @@ async def scrape_dpac(session: aiohttp.ClientSession) -> List[Dict]:
         if not events:
             events = _parse_tribe_events(soup, source_name, f"{base_url}/events/",
                                          "DPAC, 123 Vivian St, Durham, NC", 35.9942, -78.9030, base_url)
+        if not events:
+            # DPAC uses "Sat, May 16, 2026" short-day format — scan headings near dates
+            short_full_re = re.compile(
+                r'(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s+'
+                r'(January|February|March|April|May|June|July|August|September|October|November|December)'
+                r'\s+(\d{1,2}),?\s+(\d{4})',
+                re.IGNORECASE
+            )
+            for heading in soup.find_all(['h2', 'h3', 'h4', 'h5']):
+                link = heading.find('a')
+                if not link:
+                    continue
+                title_text = clean_text(link.get_text())
+                if not title_text or len(title_text) < 4:
+                    continue
+                event_url = link.get('href', f"{base_url}/events/")
+                if event_url.startswith('/'):
+                    event_url = base_url + event_url
+                block = heading.parent or heading
+                block_text = block.get_text()
+                dm = short_full_re.search(block_text) or date_re.search(block_text)
+                if not dm:
+                    continue
+                month = dm.group(1).title()
+                day = dm.group(2)
+                year = int(dm.group(3)) if dm.lastindex >= 3 and dm.group(3) else datetime.now().year
+                tm = time_re.search(block_text)
+                event_date = parse_date_time(month, day, year=year, time_str=tm.group(1) if tm else "7:30 pm")
+                if not event_date or event_date < cutoff:
+                    continue
+                key = f"{title_text.lower()}_{event_date.date()}"
+                if key in seen:
+                    continue
+                seen.add(key)
+                events.append({
+                    "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                    "title": title_text,
+                    "date": event_date.isoformat(),
+                    "location": "DPAC, 123 Vivian St, Durham, NC",
+                    "description": "",
+                    "source": source_name,
+                    "url": event_url,
+                    "latitude": 35.9942,
+                    "longitude": -78.9030,
+                })
         log_info(f"  ✓ Found {len(events)} events")
     except Exception as e:
         log_error(f"  ✗ DPAC error: {e}")
@@ -662,28 +892,16 @@ async def scrape_cats_cradle(session: aiohttp.ClientSession) -> List[Dict]:
     events = []
     source_name = "Cat's Cradle"
     base_url = "https://catscradle.com"
+    location = "Cat's Cradle, 300 E Main St, Carrboro, NC"
     try:
-        for path in ["/events/", "/shows/", "/"]:
-            ical_raw = await fetch_url(f"{base_url}{path}?ical=1", session)
-            if ical_raw and 'BEGIN:VCALENDAR' in ical_raw:
-                events = parse_ical_feed(
-                    ical_raw, source_name,
-                    "Cat's Cradle, 300 E Main St, Carrboro, NC",
-                    35.9094, -79.0758, f"{base_url}/events/"
-                )
-                if events:
-                    log_info(f"  ✓ Found {len(events)} events via iCal")
-                    return events
         html = await fetch_url(f"{base_url}/events/", session)
         if not html:
             return events
-        soup = BeautifulSoup(html, 'html.parser')
-        events = _parse_tribe_events(
-            soup, source_name, f"{base_url}/events/",
-            "Cat's Cradle, 300 E Main St, Carrboro, NC",
-            35.9094, -79.0758, base_url
-        )
-        log_info(f"  ✓ Found {len(events)} events")
+        events = _parse_seated_events(html, source_name, location, 35.9094, -79.0758, base_url)
+        if not events:
+            soup = BeautifulSoup(html, 'html.parser')
+            events = _parse_tribe_events(soup, source_name, f"{base_url}/events/", location, 35.9094, -79.0758, base_url)
+        log_info(f"  ✓ Found {len(events)} Cat's Cradle events")
     except Exception as e:
         log_error(f"  ✗ Cat's Cradle error: {e}")
     return events
@@ -695,27 +913,16 @@ async def scrape_lincoln_theatre(session: aiohttp.ClientSession) -> List[Dict]:
     events = []
     source_name = "Lincoln Theatre"
     base_url = "https://www.lincolntheatre.com"
+    location = "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC"
     try:
-        ical_raw = await fetch_url(f"{base_url}/events/?ical=1", session)
-        if ical_raw and 'BEGIN:VCALENDAR' in ical_raw:
-            events = parse_ical_feed(
-                ical_raw, source_name,
-                "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
-                35.7740, -78.6376, f"{base_url}/events/"
-            )
-            if events:
-                log_info(f"  ✓ Found {len(events)} events via iCal")
-                return events
         html = await fetch_url(f"{base_url}/events/", session)
         if not html:
             return events
-        soup = BeautifulSoup(html, 'html.parser')
-        events = _parse_tribe_events(
-            soup, source_name, f"{base_url}/events/",
-            "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
-            35.7740, -78.6376, base_url
-        )
-        log_info(f"  ✓ Found {len(events)} events")
+        events = _parse_seated_events(html, source_name, location, 35.7740, -78.6376, base_url)
+        if not events:
+            soup = BeautifulSoup(html, 'html.parser')
+            events = _parse_tribe_events(soup, source_name, f"{base_url}/events/", location, 35.7740, -78.6376, base_url)
+        log_info(f"  ✓ Found {len(events)} Lincoln Theatre events")
     except Exception as e:
         log_error(f"  ✗ Lincoln Theatre error: {e}")
     return events
@@ -1110,27 +1317,30 @@ async def scrape_raleigh_little_theatre(session: aiohttp.ClientSession) -> List[
     events = []
     source_name = "Raleigh Little Theatre"
     base_url = "https://raleighlittletheatre.org"
+    location = "Raleigh Little Theatre, 301 Pogue St, Raleigh, NC"
     try:
-        ical_raw = await fetch_url(f"{base_url}/events/?ical=1", session)
-        if ical_raw and 'BEGIN:VCALENDAR' in ical_raw:
-            events = parse_ical_feed(
-                ical_raw, source_name,
-                "Raleigh Little Theatre, 301 Pogue St, Raleigh, NC",
-                35.7860, -78.6580, f"{base_url}/events/"
-            )
-            if events:
-                log_info(f"  ✓ Found {len(events)} events via iCal")
-                return events
-        html = await fetch_url(f"{base_url}/events/", session)
-        if not html:
-            return events
-        soup = BeautifulSoup(html, 'html.parser')
-        events = _parse_tribe_events(
-            soup, source_name, f"{base_url}/events/",
-            "Raleigh Little Theatre, 301 Pogue St, Raleigh, NC",
-            35.7860, -78.6580, base_url
-        )
-        log_info(f"  ✓ Found {len(events)} events")
+        # RLT uses /shows/ for their season listing (not /events/?ical=1)
+        for path in ["/shows/", "/events/"]:
+            html = await fetch_url(f"{base_url}{path}", session)
+            if not html:
+                continue
+            # Try iCal param first
+            ical_raw = await fetch_url(f"{base_url}{path}?ical=1", session)
+            if ical_raw and 'BEGIN:VCALENDAR' in ical_raw:
+                events = parse_ical_feed(ical_raw, source_name, location, 35.7860, -78.6580, f"{base_url}{path}")
+                if events:
+                    log_info(f"  ✓ Found {len(events)} events via iCal")
+                    return events
+            parsed = _parse_show_run_events(html, source_name, location, 35.7860, -78.6580, base_url, r'/shows?/')
+            if parsed:
+                events.extend(parsed)
+                break
+            soup = BeautifulSoup(html, 'html.parser')
+            tribe = _parse_tribe_events(soup, source_name, f"{base_url}{path}", location, 35.7860, -78.6580, base_url)
+            if tribe:
+                events.extend(tribe)
+                break
+        log_info(f"  ✓ Found {len(events)} Raleigh Little Theatre events")
     except Exception as e:
         log_error(f"  ✗ Raleigh Little Theatre error: {e}")
     return events
@@ -1142,27 +1352,28 @@ async def scrape_playmakers_theatre(session: aiohttp.ClientSession) -> List[Dict
     events = []
     source_name = "PlayMakers Rep"
     base_url = "https://playmakersrep.org"
+    location = "PlayMakers Repertory, Paul Green Theatre, Chapel Hill, NC"
     try:
-        ical_raw = await fetch_url(f"{base_url}/events/?ical=1", session)
-        if ical_raw and 'BEGIN:VCALENDAR' in ical_raw:
-            events = parse_ical_feed(
-                ical_raw, source_name,
-                "PlayMakers Repertory, Paul Green Theatre, Chapel Hill, NC",
-                35.9052, -79.0505, f"{base_url}/events/"
-            )
-            if events:
-                log_info(f"  ✓ Found {len(events)} events via iCal")
-                return events
-        html = await fetch_url(f"{base_url}/events/", session)
-        if not html:
-            return events
-        soup = BeautifulSoup(html, 'html.parser')
-        events = _parse_tribe_events(
-            soup, source_name, f"{base_url}/events/",
-            "PlayMakers Repertory, Paul Green Theatre, Chapel Hill, NC",
-            35.9052, -79.0505, base_url
-        )
-        log_info(f"  ✓ Found {len(events)} events")
+        now = datetime.now()
+        # Try current and upcoming seasons
+        seasons = [
+            f"{now.year}-{now.year + 1}",
+            f"{now.year - 1}-{now.year}",
+        ]
+        for season in seasons:
+            html = await fetch_url(f"{base_url}/season/{season}/", session)
+            if html and len(html) > 500:
+                parsed = _parse_show_run_events(html, source_name, location, 35.9052, -79.0505, base_url, r'/show/')
+                if parsed:
+                    events.extend(parsed)
+                    break
+        if not events:
+            # Fallback to generic events page
+            html = await fetch_url(f"{base_url}/events/", session)
+            if html:
+                soup = BeautifulSoup(html, 'html.parser')
+                events = _parse_tribe_events(soup, source_name, f"{base_url}/events/", location, 35.9052, -79.0505, base_url)
+        log_info(f"  ✓ Found {len(events)} PlayMakers events")
     except Exception as e:
         log_error(f"  ✗ PlayMakers Rep error: {e}")
     return events
@@ -1174,29 +1385,123 @@ async def scrape_artspace_raleigh(session: aiohttp.ClientSession) -> List[Dict]:
     events = []
     source_name = "Artspace Raleigh"
     base_url = "https://artspacenc.org"
+    location = "Artspace, 201 E Davie St, Raleigh, NC"
     try:
-        ical_raw = await fetch_url(f"{base_url}/events/?ical=1", session)
-        if ical_raw and 'BEGIN:VCALENDAR' in ical_raw:
-            events = parse_ical_feed(
-                ical_raw, source_name,
-                "Artspace, 201 E Davie St, Raleigh, NC",
-                35.7762, -78.6357, f"{base_url}/events/"
-            )
-            if events:
-                log_info(f"  ✓ Found {len(events)} events via iCal")
-                return events
         html = await fetch_url(f"{base_url}/events/", session)
         if not html:
             return events
         soup = BeautifulSoup(html, 'html.parser')
-        events = _parse_tribe_events(
-            soup, source_name, f"{base_url}/events/",
-            "Artspace, 201 E Davie St, Raleigh, NC",
-            35.7762, -78.6357, base_url
+        cutoff = datetime.now() - timedelta(hours=2)
+        seen = set()
+        # Artspace format: <h4><a href="...">Title</a></h4>  followed by "17 May | 11:00 am"
+        day_month_re = re.compile(
+            r'(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)'
+            r'(?:\s+(\d{4}))?\s*\|?\s*(\d{1,2}(?::\d{2})?\s*(?:am|pm))?',
+            re.IGNORECASE
         )
-        log_info(f"  ✓ Found {len(events)} events")
+        for h4 in soup.find_all('h4'):
+            link = h4.find('a')
+            if not link:
+                continue
+            title_text = clean_text(link.get_text())
+            if not title_text or len(title_text) < 4:
+                continue
+            event_url = link.get('href', f"{base_url}/events/")
+            if event_url.startswith('/'):
+                event_url = base_url + event_url
+            # Search sibling/parent text for date
+            block = h4.parent or h4
+            block_text = block.get_text()
+            dm = day_month_re.search(block_text)
+            if not dm:
+                continue
+            day = dm.group(1)
+            month = dm.group(2).title()
+            year = int(dm.group(3)) if dm.group(3) else datetime.now().year
+            time_str = dm.group(4) if dm.group(4) else "11:00 am"
+            event_date = parse_date_time(month, day, year=year, time_str=time_str)
+            if not event_date or event_date < cutoff:
+                continue
+            key = f"{title_text.lower()}_{event_date.date()}"
+            if key in seen:
+                continue
+            seen.add(key)
+            events.append({
+                "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                "title": title_text,
+                "date": event_date.isoformat(),
+                "location": location,
+                "description": "",
+                "source": source_name,
+                "url": event_url,
+                "latitude": 35.7762,
+                "longitude": -78.6357,
+            })
+        if not events:
+            events = _parse_tribe_events(soup, source_name, f"{base_url}/events/", location, 35.7762, -78.6357, base_url)
+        log_info(f"  ✓ Found {len(events)} Artspace events")
     except Exception as e:
         log_error(f"  ✗ Artspace Raleigh error: {e}")
+    return events
+
+
+async def scrape_durham_bulls(session: aiohttp.ClientSession) -> List[Dict]:
+    """Durham Bulls home game schedule via MLB stats API (no key required)."""
+    log_info("Scraping Durham Bulls home games...")
+    events = []
+    source_name = "Durham Bulls"
+    try:
+        now = datetime.now()
+        start_date = now.strftime('%Y-%m-%d')
+        end_date = (now + timedelta(days=120)).strftime('%Y-%m-%d')
+        # Durham Bulls team ID = 234 in the MLB stats system (Triple-A affiliate)
+        url = (
+            f"https://statsapi.mlb.com/api/v1/schedule"
+            f"?teamId=234&sportId=11&startDate={start_date}&endDate={end_date}"
+            f"&hydrate=team,venue&gameTypes=R,F,D,L,W"
+        )
+        raw = await fetch_url(url, session, extra_headers={'Accept': 'application/json'})
+        if not raw:
+            return events
+        data = json.loads(raw)
+        cutoff = now - timedelta(hours=2)
+        seen = set()
+        for date_entry in data.get('dates', []):
+            for game in date_entry.get('games', []):
+                home = game.get('teams', {}).get('home', {}).get('team', {})
+                if 'Durham' not in home.get('name', ''):
+                    continue
+                game_date_str = game.get('gameDate', '')
+                if not game_date_str:
+                    continue
+                try:
+                    # gameDate is UTC ISO format, display as-is (local time TBD)
+                    game_date = datetime.strptime(game_date_str[:16], '%Y-%m-%dT%H:%M')
+                except Exception:
+                    continue
+                if game_date < cutoff:
+                    continue
+                away = game.get('teams', {}).get('away', {}).get('team', {}).get('name', 'Opponent')
+                title = f"Durham Bulls vs. {away}"
+                key = f"{title.lower()}_{game_date.date()}"
+                if key in seen:
+                    continue
+                seen.add(key)
+                venue_name = game.get('venue', {}).get('name', 'Durham Bulls Athletic Park')
+                events.append({
+                    "id": create_event_id(title, game_date.isoformat(), source_name),
+                    "title": title,
+                    "date": game_date.isoformat(),
+                    "location": f"{venue_name}, Durham, NC",
+                    "description": "Durham Bulls minor league baseball — Triple-A affiliate of the Tampa Bay Rays.",
+                    "source": source_name,
+                    "url": "https://www.milb.com/durham",
+                    "latitude": 35.9883,
+                    "longitude": -78.8986,
+                })
+        log_info(f"  ✓ Found {len(events)} Durham Bulls home games")
+    except Exception as e:
+        log_error(f"  ✗ Durham Bulls error: {e}")
     return events
 
 
@@ -1281,6 +1586,7 @@ async def main():
         ("Raleigh Little Theatre",  scrape_raleigh_little_theatre),
         ("PlayMakers Rep",          scrape_playmakers_theatre),
         ("Artspace Raleigh",        scrape_artspace_raleigh),
+        ("Durham Bulls",            scrape_durham_bulls),
         ("AmericanTowns Triangle",  scrape_americantowns_triangle),
         ("Eventbrite Triangle",     scrape_eventbrite_triangle),
     ]
