@@ -1,237 +1,6 @@
 {
   "events": [
     {
-      "id": "5b9ea4dcea83",
-      "title": "Restful Nights for Focused Days: New Insights into the Role of Sleep Health in ADHD",
-      "date": "2026-05-14T12:00:00",
-      "location": "Online",
-      "description": "Dr. Jessica Lunsford-Avery is an Associate Professor in the Department of Psychiatry and Behavioral Sciences at the Duke University School of Medicine. She received her undergraduate degree in Psychol",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "8d7d6723be68",
-      "title": "Critical Care Grand Rounds - Cancelled due to ATS Conference",
-      "date": "2026-05-14T12:00:00",
-      "location": "None",
-      "description": "Critical Care Grand Rounds occurs via Zoom on Thursdays from 12:00 pm - 1:00 pm EST, and is led by Drs. Vijay Krishnamoorthy and Nazish Hashmi.",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "6ef480aaf4ae",
-      "title": "UNC School of Social Work General Info Session (Virtual)",
-      "date": "2026-05-14T12:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/unc-school-of-social-work-general-info-session-virtual-4246",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "0a50ac663c64",
-      "title": "Grant Perspectives: Big, Bad Budgets",
-      "date": "2026-05-14T12:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/grant-perspectives-big-bad-budgets",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "a5e6a6eadb3a",
-      "title": "Free Yoga",
-      "date": "2026-05-14T12:15:00",
-      "location": "NC State University, Raleigh, NC",
-      "description": "",
-      "source": "NC State Events",
-      "url": "https://calendar.ncsu.edu/event/free-yoga",
-      "latitude": 35.7847,
-      "longitude": -78.6821
-    },
-    {
-      "id": "a3740cf37ea5",
-      "title": "Flight of the Butterflies 3D",
-      "date": "2026-05-14T12:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45678/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "6cedb9a7809b",
-      "title": "Does Development Evidence Travel? Regional Reflections on Governance & Policy",
-      "date": "2026-05-14T13:00:00",
-      "location": "Sanford School -- Rubenstein Hall",
-      "description": "This policy event, hosted by the Duke Center for International Development and the Evidence in Governance and Politics (EGAP), is designed to foster structured, cross-regional reflection on the future",
-      "source": "Duke Events",
-      "url": "https://www.eventbrite.com/e/does-development-evidence-travel-tickets-1983380873584?aff=oddtdtcreator",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "f9b0c69095d4",
-      "title": "Oceans: Our Blue Planet 3D",
-      "date": "2026-05-14T13:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45692/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "f1ad514dbf1a",
-      "title": "Artrageous",
-      "date": "2026-05-14T14:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/44779/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "ffc86aff6a35",
-      "title": "Superpower Dogs 3D",
-      "date": "2026-05-14T14:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45680/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "9e7045d0a105",
-      "title": "Weekday Carillon Recital",
-      "date": "2026-05-14T17:00:00",
-      "location": "Duke Chapel Quad",
-      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "dee115b19c73",
-      "title": "Top Gun 40th Anniversary",
-      "date": "2026-05-14T17:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45700/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "be2cd20ebcb5",
-      "title": "Centennial Campus Running Club: Wolves on the Run",
-      "date": "2026-05-14T17:15:00",
-      "location": "NC State University, Raleigh, NC",
-      "description": "",
-      "source": "NC State Events",
-      "url": "https://calendar.ncsu.edu/event/centennial-campus-running-club-wolves-on-the-run",
-      "latitude": 35.7847,
-      "longitude": -78.6821
-    },
-    {
-      "id": "3162f27482dc",
-      "title": "Language Caf\u00e9 with Raleigh Sister Cities",
-      "date": "2026-05-14T17:30:00",
-      "location": "West Building, NCMA Caf\u00e9",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/language-cafe-with-raleigh-sister-cities/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "6aa4fc628e71",
-      "title": "Joseph M. Bryan Research Lecture",
-      "date": "2026-05-14T17:30:00",
-      "location": "Duke Eye Center - Albert Eye Research Institute Auditorium",
-      "description": "Join us for the Joseph M. Bryan Research Lecture. Patricia A. D'Amore, PhD, MBA Charles L. Schepens Professor of Ophthalmology Professor of Pathology Vice-chair of Basic and Translational Research, De",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "c1275a38e8f4",
-      "title": "Gallery Exhibit Opening: \"Making the Ground Talk and Other Stories\" by Brian Palmer",
-      "date": "2026-05-14T18:30:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/gallery-exhibit-opening-making-the-ground-talk-and-other-stories-by-peabody-award-winning-photographer-and-journalist-brian-palmer",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "5cbb340ecf4e",
-      "title": "Ancestral Frequencies: Selected Works by the MFA Class of 2026",
-      "date": "2026-05-14T19:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/ancestral-frequencies-selected-works-by-the-mfa-class-of-2026",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "97ece4c7b9a6",
-      "title": "Last Day to Add Summer I Classes",
-      "date": "2026-05-14T19:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/last-day-to-add-summer-i",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "42a2c2970772",
-      "title": "Museum Admission",
-      "date": "2026-05-14T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/44955/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "f3c2d70a96e1",
-      "title": "Top Gun: Maverick",
-      "date": "2026-05-14T19:30:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45704/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "ea3895c79366",
-      "title": "Jacoozy w/ Mellow Swells and Bass Battery",
-      "date": "2026-05-14T20:00:00",
-      "location": "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
-      "description": "",
-      "source": "Lincoln Theatre",
-      "url": "https://lincolntheatre.com/event/jacoozy-w-mellow-swells-and-bass-battery/lincoln-theatre/raleigh-north-carolina/",
-      "latitude": 35.774,
-      "longitude": -78.6376
-    },
-    {
       "id": "5e48e5ae1925",
       "title": "2026 Neil L. Spector Art of Medicine Grand Rounds: Mentoring and Medicine Towards a Common Goal",
       "date": "2026-05-15T08:00:00",
@@ -320,6 +89,50 @@
       "longitude": -78.8986
     },
     {
+      "id": "af1d89a753c5",
+      "title": "A Creek in Carolina: Artworks by Bobby C. Martin",
+      "date": "2026-05-15T10:00:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/a-creek-in-carolina-artworks-by-bobby-c-martin",
+      "latitude": 35.7847,
+      "longitude": -78.6821
+    },
+    {
+      "id": "8e3815afc54d",
+      "title": "Prioritizing Indigenous Knowledge in Museums",
+      "date": "2026-05-15T10:00:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/through-our-eyes-in-our-hands-prioritizing-indigenous-knowledge-in-museums",
+      "latitude": 35.7847,
+      "longitude": -78.6821
+    },
+    {
+      "id": "70917bb4e440",
+      "title": "Stories Told by Breath: Native American Voices in North Carolina",
+      "date": "2026-05-15T10:00:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/stories-told-by-breath-native-american-voices-in-north-carolina",
+      "latitude": 35.7847,
+      "longitude": -78.6821
+    },
+    {
+      "id": "1d6ce45ced0e",
+      "title": "The House of Ideas: Plants in Art Exhibition",
+      "date": "2026-05-15T10:00:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/the-house-of-ideas-plants-in-art",
+      "latitude": 35.7847,
+      "longitude": -78.6821
+    },
+    {
       "id": "7df5ee43442f",
       "title": "PNC Mobile Adventure",
       "date": "2026-05-15T10:00:00",
@@ -406,6 +219,17 @@
       "url": "https://marbleskidsmuseum.org/event/44784/",
       "latitude": 35.776,
       "longitude": -78.635
+    },
+    {
+      "id": "b4f6d20aa766",
+      "title": "Free Yoga",
+      "date": "2026-05-15T12:15:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/free-yoga",
+      "latitude": 35.7847,
+      "longitude": -78.6821
     },
     {
       "id": "9234f2ec79e4",
@@ -540,6 +364,17 @@
       "longitude": -78.635
     },
     {
+      "id": "035e7edf85eb",
+      "title": "Gallery Exhibit Opening: \"Making the Ground Talk and Other Stories\" by Brian Palmer",
+      "date": "2026-05-15T18:30:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/gallery-exhibit-opening-making-the-ground-talk-and-other-stories-by-peabody-award-winning-photographer-and-journalist-brian-palmer",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
       "id": "c65aed4b3cc9",
       "title": "Drop/Add for Summer Term 1 ends (11:59 PM)",
       "date": "2026-05-15T19:00:00",
@@ -551,6 +386,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "31d5efe53a74",
+      "title": "Ancestral Frequencies: Selected Works by the MFA Class of 2026",
+      "date": "2026-05-15T19:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/ancestral-frequencies-selected-works-by-the-mfa-class-of-2026",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
       "id": "de7722a8df9e",
       "title": "Museum Admission",
       "date": "2026-05-15T19:00:00",
@@ -560,6 +406,17 @@
       "url": "https://marbleskidsmuseum.org/event/44940/",
       "latitude": 35.776,
       "longitude": -78.635
+    },
+    {
+      "id": "a2a39c1501fc",
+      "title": "House Party ( 18+)",
+      "date": "2026-05-15T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/house-party-18-raleigh-north-carolina-05-15-2026/event/2D00647D8CDB6D7D",
+      "latitude": 35.8468,
+      "longitude": -78.6379
     },
     {
       "id": "ba12f03e048f",
@@ -859,6 +716,28 @@
       "longitude": -78.635
     },
     {
+      "id": "66328a943aa4",
+      "title": "Toadies: The Charmer Tour",
+      "date": "2026-05-16T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/toadies-the-charmer-tour-raleigh-north-carolina-05-16-2026/event/2D00644CC15A8883",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
+      "id": "08b38d5132ca",
+      "title": "Ole 60",
+      "date": "2026-05-16T19:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/ole-60-smokestack-town-tour",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "5274852f7a03",
       "title": "Andrew Marlin & Josh Oliver",
       "date": "2026-05-16T20:00:00",
@@ -936,6 +815,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "92268b653bce",
+      "title": "Science Solvers",
+      "date": "2026-05-17T10:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/44801/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "a62d5c0efd09",
       "title": "Art on the Dot",
       "date": "2026-05-17T11:00:00",
@@ -958,6 +848,28 @@
       "longitude": -78.8986
     },
     {
+      "id": "8b4cbb89cbbf",
+      "title": "Superpower Dogs 3D",
+      "date": "2026-05-17T11:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45741/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "2d848521600e",
+      "title": "Wild Rescue 3D",
+      "date": "2026-05-17T12:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45749/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "a0e0dc8a1ebb",
       "title": "Public Tour of Duke Chapel",
       "date": "2026-05-17T13:00:00",
@@ -967,6 +879,17 @@
       "url": "https://ncartmuseum.org/event/public-tour-2/2026-05-17/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "498781eb3607",
+      "title": "Oceans: Our Blue Planet 3D",
+      "date": "2026-05-17T13:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45750/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "66f9caa2ba0e",
@@ -980,6 +903,17 @@
       "longitude": -79.0521
     },
     {
+      "id": "c196c236788b",
+      "title": "Journey to Space 3D",
+      "date": "2026-05-17T14:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45751/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "cc908c1cb2c0",
       "title": "Screening: Poupelle of Chimney Town With Creator Akihiro Nishino",
       "date": "2026-05-17T14:30:00",
@@ -991,6 +925,17 @@
       "longitude": -78.6821
     },
     {
+      "id": "57532f2217db",
+      "title": "MakeShop",
+      "date": "2026-05-17T15:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/44811/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "13763f98d9d4",
       "title": "Supermassive Black Holes",
       "date": "2026-05-17T15:00:00",
@@ -1000,6 +945,17 @@
       "url": "https://moreheadplanetarium.org/calendar/supermassive-black-holes-107/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "bc27ad4dfdd9",
+      "title": "Top Gun 40th Anniversary",
+      "date": "2026-05-17T15:30:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45703/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "4e8037cd3073",
@@ -1033,6 +989,17 @@
       "url": "https://calendar.ncsu.edu/event/backyard-bbq-celebrating-50-years-with-ncs-green-industry-and-horticulture",
       "latitude": 35.7847,
       "longitude": -78.6821
+    },
+    {
+      "id": "61fc06c57b55",
+      "title": "Top Gun: Maverick",
+      "date": "2026-05-17T18:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45708/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "a8be1b4f0872",
@@ -1178,6 +1145,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "b3c5796d7a6e",
+      "title": "FREE Financial Literacy Courses",
+      "date": "2026-05-18T19:00:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/free-financial-literacy-courses",
+      "latitude": 35.7847,
+      "longitude": -78.6821
+    },
+    {
       "id": "eb19378cc699",
       "title": "Future Islands",
       "date": "2026-05-18T20:00:00",
@@ -1222,6 +1200,39 @@
       "longitude": -78.6821
     },
     {
+      "id": "e6eb7e2b2384",
+      "title": "Research Staff Onboarding",
+      "date": "2026-05-19T10:00:00",
+      "location": "None",
+      "description": "The myRESEARCHnavigators team provides voluntary, group-based research staff onboardings as an introduction to the research enterprise at Duke. It is intended for all University research and laborator",
+      "source": "Duke Events",
+      "url": "https://redcap.duke.edu/redcap/surveys/?s=34AP4HKPMTKWHJPA&service_offering=5",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "0c72ed99bd2d",
+      "title": "CANCELLED: Neurobiology Seminar: Lauren Orefice",
+      "date": "2026-05-19T10:00:00",
+      "location": "Bryan Research 103",
+      "description": "Lauren Orefice is Assistant Professor, Department of Molecular Biology, Massachusetts General Hospital and Assistant Professor, Department of Genetics, Harvard Medical School.",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "6dcef7970daa",
+      "title": "Mobile Health Assessment",
+      "date": "2026-05-19T10:00:00",
+      "location": "None",
+      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/health-assessments/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "1c9674974827",
       "title": "Faculty and Staff Walking Club",
       "date": "2026-05-19T11:30:00",
@@ -1231,6 +1242,17 @@
       "url": "https://calendar.ncsu.edu/event/faculty-and-staff-walking-club",
       "latitude": 35.7847,
       "longitude": -78.6821
+    },
+    {
+      "id": "012eb8bb8a78",
+      "title": "DATE CHANGE: ECE Distinguished Speaker Series: Tsu-Jae Liu, \"Engineering Leadership in a World of Accelerating Change\"",
+      "date": "2026-05-19T12:00:00",
+      "location": "Teer 203",
+      "description": "Engineering bridges science and technology, driving innovation for the benefit of people and society. Today we live in an increasingly technology-dependent world shaped by engineers - and the pace of ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "8d2e6c4c72ec",
@@ -1244,6 +1266,17 @@
       "longitude": -79.0558
     },
     {
+      "id": "f73029dd93ea",
+      "title": "Mindful Moment",
+      "date": "2026-05-19T14:00:00",
+      "location": "Webcast",
+      "description": "Every Tuesday at 2 p.m., take a moment to relax, recharge, and re-center yourself with Mindful Moment, a group mindfulness program offered by LIVE FOR LIFE. During these quick, 15-minute sessions, you",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/webinars/mindfulness/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "3c1d82847868",
       "title": "Durham Bulls vs. Nashville Sounds",
       "date": "2026-05-19T15:05:00",
@@ -1253,6 +1286,39 @@
       "url": "https://www.milb.com/durham",
       "latitude": 35.9883,
       "longitude": -78.8986
+    },
+    {
+      "id": "62523c1c0e54",
+      "title": "Triangle Nuclear Theory Colloquium - Three-body dynamics of hadrons",
+      "date": "2026-05-19T15:30:00",
+      "location": "None",
+      "description": "Over the past two decades, a wave of \"exotic\" hadrons has challenged the traditional quark model of hadrons. Candidates for tetraquarks, pentaquarks, molecular states, hybrids, and glueballs have revi",
+      "source": "Duke Events",
+      "url": "https://unc.zoom.us/j/98023013898?pwd=tefpbZ1kliaXG9lPTkVOTFF0vXpa9Z.1",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "c8ece8cfa37f",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-05-19T17:00:00",
+      "location": "Duke Chapel Quad",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "4d2ce7c6121f",
+      "title": "Santigold",
+      "date": "2026-05-19T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/santigold-raleigh-north-carolina-05-19-2026/event/2D006436ADBAC2EC",
+      "latitude": 35.8468,
+      "longitude": -78.6379
     },
     {
       "id": "6672a7518b93",
@@ -1266,6 +1332,17 @@
       "longitude": -79.0758
     },
     {
+      "id": "5c22bc68242e",
+      "title": "Sting 3.0",
+      "date": "2026-05-19T20:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/sting-30",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "17846630df47",
       "title": "Skywatching: Views from The Durham",
       "date": "2026-05-19T20:30:00",
@@ -1275,6 +1352,50 @@
       "url": "https://moreheadplanetarium.org/calendar/skywatching-views-from-the-durham-21/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "aca43fc25411",
+      "title": "Duke Anesthesiology Grand Rounds - \"Re-Examining the Euphemism of General Anesthesia as a Sleep-Like State\"",
+      "date": "2026-05-20T07:00:00",
+      "location": "Duke North, Room 2001",
+      "description": "Department of Anesthesiology Grand Rounds on Wednesdays from 7 to 8am. | This activity has been planned and implemented by the Duke University Health System Department of Clinical Education and Profes",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "a39f1ea8f8ed",
+      "title": "Andrew Berchuck, MD, Gynecologic Oncology Endowed Lecture",
+      "date": "2026-05-20T07:30:00",
+      "location": "Duke South Clinic - Amphitheater",
+      "description": "The Andrew Berchuck, MD, Gynecologic Oncology Endowed Lecture, funded through philanthropic gifts from grateful patient families, department alumni and many others to honor the contributions of Andrew",
+      "source": "Duke Events",
+      "url": "https://obgyn.duke.edu/news-events/endowed-lectures/andrew-berchuck-md-gynecologic-oncology-endowed-lecture",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "6a7cac361f5f",
+      "title": "Senior Talks",
+      "date": "2026-05-20T08:00:00",
+      "location": "None",
+      "description": "Guest speakers and discussion of cases relevant to the Duke Department of Dermatology.",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "97fed4266cd7",
+      "title": "Duke GI Grand Rounds - \"Duke GI Fellowship Quality Improvement Initiatives\"",
+      "date": "2026-05-20T08:00:00",
+      "location": "Virtual",
+      "description": "Duke GI Grand Rounds is a weekly educational conference with a focus on clinical and research topics, issues and advances related to Gastroenterology and Hepatology.",
+      "source": "Duke Events",
+      "url": "https://medicine.duke.edu/gigr",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "7bf2846d7b1f",
@@ -1475,6 +1596,50 @@
       "longitude": -79.0521
     },
     {
+      "id": "06e83c7038c0",
+      "title": "Iration",
+      "date": "2026-05-22T18:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/iration-where-it-all-began-summer-tour-2026",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
+      "id": "9849761f9e13",
+      "title": "ZZ Top & Dwight Yoakam: Dos Amigos Tour",
+      "date": "2026-05-22T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events/detail/zz-top-dwight-yoakam-dos-amigos-tour",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "fc0b320ea0c1",
+      "title": "with Wesko",
+      "date": "2026-05-22T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "70cb7dabd2a3",
+      "title": "ATLiens",
+      "date": "2026-05-22T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/atliens-raleigh-north-carolina-05-22-2026/event/2D00645BF0C3805D",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "dad2c6720743",
       "title": "Sluice",
       "date": "2026-05-22T20:00:00",
@@ -1552,6 +1717,17 @@
       "longitude": -78.6893
     },
     {
+      "id": "f3a9c2118c09",
+      "title": "Golden: a K-Pop Kids Party!",
+      "date": "2026-05-23T11:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/golden-a-kpop-kids-party-raleigh-north-carolina-05-23-2026/event/2D00648FF50233FE",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "51acf60c6443",
       "title": "Cosmic Colors",
       "date": "2026-05-23T12:00:00",
@@ -1605,6 +1781,39 @@
       "url": "https://moreheadplanetarium.org/calendar/carolina-skies-506/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "42ba7708c351",
+      "title": "Tchaikovsky Piano Concerto No. 1",
+      "date": "2026-05-23T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events/detail/tchaikovsky-piano-concerto-no-1",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "e47600a2f1bf",
+      "title": "Opening Night: UNC Health Summerfest with the North Carolina Symphony",
+      "date": "2026-05-23T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "6130d8fc826f",
+      "title": "Shrek Rave (18+)",
+      "date": "2026-05-23T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/shrek-rave-18-raleigh-north-carolina-05-23-2026/event/2D006485E6D4324A",
+      "latitude": 35.8468,
+      "longitude": -78.6379
     },
     {
       "id": "bd41f57f179f",
@@ -1695,6 +1904,28 @@
       "longitude": -79.0521
     },
     {
+      "id": "3d224c021590",
+      "title": "An American Celebration: The Music of John Williams",
+      "date": "2026-05-24T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events/detail/an-american-celebration-the-music-of-john-williams-1",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "585cd5fd4f15",
+      "title": "Triangle Wind Ensemble",
+      "date": "2026-05-24T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
       "id": "d700eec79c20",
       "title": "Music for Mental Health",
       "date": "2026-05-24T20:00:00",
@@ -1739,6 +1970,39 @@
       "longitude": -78.6376
     },
     {
+      "id": "c350ebde20e3",
+      "title": "TeamOn: Research Team Onboarding",
+      "date": "2026-05-27T09:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/teamon-research-team-onboarding",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
+      "id": "82b1de67310c",
+      "title": "Breathing Techniques to Relieve Stress and Improve Health",
+      "date": "2026-05-27T12:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/breathing-techniques-to-relieve-stress-and-improve-health-6116",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
+      "id": "780fc51c56bd",
+      "title": "Wage War - It Calls Me By Name Tour",
+      "date": "2026-05-27T18:30:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/wage-war-it-calls-me-by-raleigh-north-carolina-05-27-2026/event/2D0064530252E97C",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "0ad6a310fb43",
       "title": "Dinosaur! (TVY)",
       "date": "2026-05-27T19:30:00",
@@ -1772,6 +2036,28 @@
       "longitude": -78.6893
     },
     {
+      "id": "a2c46f7e7dc7",
+      "title": "Old Crow Medicine Show & Marty Stuart and His Fabulous Superlatives",
+      "date": "2026-05-28T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events/detail/old-crow-medicine-show-1",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "b2875faa125a",
+      "title": "Highly Suspect And The Tour Of Yellow Roses",
+      "date": "2026-05-28T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/highly-suspect-and-the-tour-of-raleigh-north-carolina-05-28-2026/event/2D00646CE0ECAD85",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "a4252f9ae8d4",
       "title": "An evening with The Infamous Stringdusters",
       "date": "2026-05-28T20:00:00",
@@ -1781,6 +2067,17 @@
       "url": "https://lincolntheatre.com/event/an-evening-with-the-infamous-stringdusters/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "43d49063dacf",
+      "title": "Financial Planning for Life",
+      "date": "2026-05-29T12:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/financial-planning-for-life",
+      "latitude": 35.9132,
+      "longitude": -79.0558
     },
     {
       "id": "2cfad94f43ea",
@@ -1904,6 +2201,17 @@
       "longitude": -79.0521
     },
     {
+      "id": "e532d781bd35",
+      "title": "Macrame Plant Hangers for Teens",
+      "date": "2026-05-30T14:00:00",
+      "location": "Museum Park, Welcome Center",
+      "description": "/ Events / Events Events Overview Adults $25 Members $20 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/macrame-plant-hangers-for-teens/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
       "id": "7b8525de4059",
       "title": "Mars: The Ultimate Voyage",
       "date": "2026-05-30T15:00:00",
@@ -1924,6 +2232,50 @@
       "url": "https://moreheadplanetarium.org/calendar/carolina-skies-508/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "09703a2ff169",
+      "title": "Young the Giant",
+      "date": "2026-05-30T18:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/young-the-giant",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
+      "id": "db7f3544f12f",
+      "title": "Epic Film Scores",
+      "date": "2026-05-30T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events/detail/epic-film-scores",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "547f2232b409",
+      "title": "UNC Health Summerfest with the North Carolina Symphony",
+      "date": "2026-05-30T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "bf3aca214301",
+      "title": "In the End - Linkin Park Experience",
+      "date": "2026-05-30T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/in-the-end-linkin-park-experience-raleigh-north-carolina-05-30-2026/event/2D00648AF3186757",
+      "latitude": 35.8468,
+      "longitude": -78.6379
     },
     {
       "id": "afcf08a7aa71",
@@ -1959,6 +2311,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "4c3e6bbef8f5",
+      "title": "Insane Clown Posse",
+      "date": "2026-05-31T18:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/insane-clown-posse-raleigh-north-carolina-05-31-2026/event/2D006489AEE9307F",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "1090b5327980",
       "title": "Tommy Prine",
       "date": "2026-05-31T20:00:00",
@@ -1968,6 +2331,17 @@
       "url": "https://catscradle.com/event/tommy-prine/cats-cradle-back-room/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "3bbc1bbff6cd",
+      "title": "Corbyn Besson and Soulidified: The Pop'n Out Tour",
+      "date": "2026-06-02T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/corbyn-besson-and-soulidified-the-popn-raleigh-north-carolina-06-02-2026/event/2D0064921A0E8B55",
+      "latitude": 35.8468,
+      "longitude": -78.6379
     },
     {
       "id": "0ed48daab685",
@@ -1992,6 +2366,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "061bf7d6b164",
+      "title": "Ari Lennox - The Vacancy Tour",
+      "date": "2026-06-03T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/ari-lennox-the-vacancy-tour-raleigh-north-carolina-06-03-2026/event/2D00643E19022CCE",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "0c805b2a3cd2",
       "title": "Oliver Anthony Music",
       "date": "2026-06-03T20:00:00",
@@ -2012,6 +2397,17 @@
       "url": "https://www.milb.com/durham",
       "latitude": 35.9883,
       "longitude": -78.8986
+    },
+    {
+      "id": "c9c110e26c95",
+      "title": "Sam Barber",
+      "date": "2026-06-04T19:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/sam-barber",
+      "latitude": 35.7737,
+      "longitude": -78.6383
     },
     {
       "id": "7075f7a43110",
@@ -2045,6 +2441,28 @@
       "url": "https://www.milb.com/durham",
       "latitude": 35.9883,
       "longitude": -78.8986
+    },
+    {
+      "id": "a3207c7618ec",
+      "title": "Swan Lake Selections",
+      "date": "2026-06-05T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events/detail/swan-lake-selections",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "8ba23812d5fb",
+      "title": "UNC Health Summerfest with the North Carolina Symphony",
+      "date": "2026-06-05T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events",
+      "latitude": 35.7916,
+      "longitude": -78.8152
     },
     {
       "id": "d9e18bace996",
@@ -2113,6 +2531,39 @@
       "longitude": -78.8986
     },
     {
+      "id": "a6ef4e22ebf0",
+      "title": "A Space Spectacular: Star Wars & More",
+      "date": "2026-06-06T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events/detail/a-space-spectacular-star-wars-more",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "01831a702af8",
+      "title": "UNC Health Summerfest with the North Carolina Symphony",
+      "date": "2026-06-06T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "7c54ef845382",
+      "title": "Khalid",
+      "date": "2026-06-06T19:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/khalid-its-always-summer-somewhere-tour",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "0145b49c80e2",
       "title": "Morgan St. Jean",
       "date": "2026-06-06T20:00:00",
@@ -2168,6 +2619,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "393a7fc024c8",
+      "title": "Killswitch Engage",
+      "date": "2026-06-09T17:30:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/killswitch-engage-raleigh-north-carolina-06-09-2026/event/2D006459DAB2C37F",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "755ba57847ac",
       "title": "Geordie Greep",
       "date": "2026-06-09T20:00:00",
@@ -2177,6 +2639,17 @@
       "url": "https://catscradle.com/event/geordie-greep/cats-cradle/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "9017c3c15651",
+      "title": "Lauren Daigle",
+      "date": "2026-06-10T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events/detail/lauren-daigle",
+      "latitude": 35.7916,
+      "longitude": -78.8152
     },
     {
       "id": "087b05289076",
@@ -2212,6 +2685,17 @@
       "longitude": -79.0758
     },
     {
+      "id": "e211ef510c15",
+      "title": "Sleeping With Sirens",
+      "date": "2026-06-11T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/sleeping-with-sirens-raleigh-north-carolina-06-11-2026/event/2D006475DBA941C2",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "e16ead058c18",
       "title": "Bad Cop Bad Cop",
       "date": "2026-06-11T20:00:00",
@@ -2234,6 +2718,39 @@
       "longitude": -79.0758
     },
     {
+      "id": "cb131d6cd61e",
+      "title": "Patriotic Pops",
+      "date": "2026-06-12T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events/detail/patriotic-pops",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "346d07ba2823",
+      "title": "UNC Health Summerfest with the North Carolina Symphony",
+      "date": "2026-06-12T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "f7987b4d1e18",
+      "title": "Joyce Manor",
+      "date": "2026-06-12T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/joyce-manor-raleigh-north-carolina-06-12-2026/event/2D00645AEFCB3DA8",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "b20bcab0ffaa",
       "title": "MAKE Album Release Show",
       "date": "2026-06-12T20:00:00",
@@ -2245,15 +2762,48 @@
       "longitude": -79.0758
     },
     {
-      "id": "d7e26256ddaa",
-      "title": "Jess Ray \u2013 Bless It All Tour w/ TBA",
+      "id": "1d582859d093",
+      "title": "Jess Ray \u2013 Bless It All Tour w/ Ethan Nathaniel / Emma-Elaine",
       "date": "2026-06-12T20:00:00",
       "location": "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
       "description": "",
       "source": "Lincoln Theatre",
-      "url": "https://lincolntheatre.com/event/jess-ray-bless-it-all-tour-w-tba/lincoln-theatre/raleigh-north-carolina/",
+      "url": "https://lincolntheatre.com/event/jess-ray-bless-it-all-tour-w-ethan-nathaniel-emma-elaine/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "2a55fd8975ec",
+      "title": "Under the Sea",
+      "date": "2026-06-13T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events/detail/under-the-sea",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "12fa13b7fc4d",
+      "title": "UNC Health Summerfest with the North Carolina Symphony",
+      "date": "2026-06-13T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "322103ef9a97",
+      "title": "Fake Happy!: A Tribute to Paramore",
+      "date": "2026-06-13T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/fake-happy-a-tribute-to-paramore-raleigh-north-carolina-06-13-2026/event/2D006463189C13AD",
+      "latitude": 35.8468,
+      "longitude": -78.6379
     },
     {
       "id": "271fd4976db2",
@@ -2344,6 +2894,17 @@
       "longitude": -79.0758
     },
     {
+      "id": "bf78281f5074",
+      "title": "Cinderella's Tom Keifer",
+      "date": "2026-06-18T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/cinderellas-tom-keifer-raleigh-north-carolina-06-18-2026/event/2D006429A742A15C",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "d97dbcee9dc8",
       "title": "Billy Allen + The Pollies",
       "date": "2026-06-18T20:00:00",
@@ -2388,6 +2949,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "dbd8ca7abf00",
+      "title": "Babyface Ray X 42 Dugg - 4 The Streets Tour",
+      "date": "2026-06-19T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/babyface-ray-x-42-dugg-4-raleigh-north-carolina-06-19-2026/event/2D00648ED320DD67",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "78bcc4bb96f3",
       "title": "Robyn Hitchcock \u201cLive And Electric \u2013 Full Band Shows\u201d",
       "date": "2026-06-19T20:00:00",
@@ -2419,6 +2991,28 @@
       "url": "https://www.milb.com/durham",
       "latitude": 35.9883,
       "longitude": -78.8986
+    },
+    {
+      "id": "ca16f3ede133",
+      "title": "Mozart by Moonlight",
+      "date": "2026-06-20T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events/detail/mozart-by-moonlight",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "a7ce7a1d1c40",
+      "title": "UNC Health Summerfest with the North Carolina Symphony",
+      "date": "2026-06-20T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events",
+      "latitude": 35.7916,
+      "longitude": -78.8152
     },
     {
       "id": "9fd22f932136",
@@ -2542,6 +3136,28 @@
       "longitude": -79.0758
     },
     {
+      "id": "d4fe77bfc97b",
+      "title": "Classics Under the Stars",
+      "date": "2026-06-26T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events/detail/classics-under-the-stars-2",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
+      "id": "ef403c584b42",
+      "title": "UNC Health Summerfest with the North Carolina Symphony",
+      "date": "2026-06-26T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
       "id": "7d11411ee08f",
       "title": "Dex Fest Night One",
       "date": "2026-06-26T20:00:00",
@@ -2564,6 +3180,28 @@
       "longitude": -78.6376
     },
     {
+      "id": "5157d9c1385a",
+      "title": "Emo Nite (18+)",
+      "date": "2026-06-26T20:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/emo-nite-18-raleigh-north-carolina-06-26-2026/event/2D0064AB1732D978",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
+      "id": "83266167f317",
+      "title": "GAG, Queen x Doll Domination (18+)",
+      "date": "2026-06-27T18:30:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/gag-queen-x-doll-domination-18-raleigh-north-carolina-06-27-2026/event/2D0064969972D0D0",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "45f52185fd88",
       "title": "Dex Fest Night Two",
       "date": "2026-06-27T20:00:00",
@@ -2584,6 +3222,17 @@
       "url": "https://lincolntheatre.com/event/pigeons-playing-ping-pong-2/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "70e636561310",
+      "title": "Trap Bingo Party - Afternoon Games (21+)",
+      "date": "2026-06-28T12:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/trap-bingo-party-afternoon-games-21-raleigh-north-carolina-06-28-2026/event/2D00648C13563C2D",
+      "latitude": 35.8468,
+      "longitude": -78.6379
     },
     {
       "id": "a3148f93101a",
@@ -2674,6 +3323,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "ebfdcd9e43da",
+      "title": "Madison Beer",
+      "date": "2026-07-05T19:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/madison-beer",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "87a776c6eaa5",
       "title": "Durham Bulls vs. Gwinnett Stripers",
       "date": "2026-07-05T21:05:00",
@@ -2707,6 +3367,17 @@
       "longitude": -79.0758
     },
     {
+      "id": "4717d036113c",
+      "title": "The Pretty Reckless: Dear God Tour",
+      "date": "2026-07-10T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/the-pretty-reckless-dear-god-tour-raleigh-north-carolina-07-10-2026/event/2D00646AEC95B84F",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "427c8bbd684b",
       "title": "The White Buffalo",
       "date": "2026-07-10T20:00:00",
@@ -2718,6 +3389,28 @@
       "longitude": -78.6376
     },
     {
+      "id": "6e8a526addd3",
+      "title": "Bingo Loco - 21+ (Afternoon Game)",
+      "date": "2026-07-11T14:30:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/bingo-loco-21-afternoon-game-raleigh-north-carolina-07-11-2026/event/2D00649994DFEBD4",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
+      "id": "64aa8c539c32",
+      "title": "Bingo Loco - 21+ (EVENING GAME)",
+      "date": "2026-07-11T19:30:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/bingo-loco-21-evening-game-raleigh-north-carolina-07-11-2026/event/2D00649994DCEBCC",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "3a9fdf7671cb",
       "title": "United We Dance",
       "date": "2026-07-11T20:00:00",
@@ -2727,6 +3420,28 @@
       "url": "https://lincolntheatre.com/event/united-we-dance/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "cf4f8a61b6f9",
+      "title": "Lindsey Stirling",
+      "date": "2026-07-17T19:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/lindsey-stirling",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
+      "id": "379b1a05f291",
+      "title": "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
+      "date": "2026-07-17T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-raleigh-north-carolina-07-17-2026/event/2D006464D655945A",
+      "latitude": 35.8468,
+      "longitude": -78.6379
     },
     {
       "id": "47198af3621d",
@@ -2828,6 +3543,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "cbd2f3204973",
+      "title": "Buju Banton & Stephen Marley",
+      "date": "2026-07-23T18:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/buju-banton-stephen-marley",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "fa928c99bfc4",
       "title": "Clue (High School Edition)",
       "date": "2026-07-24T19:30:00",
@@ -2872,6 +3598,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "ebf544cd0474",
+      "title": "Bob Dylan",
+      "date": "2026-07-28T19:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/bob-dylan",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "b5ccd02d32a7",
       "title": "Durham Bulls vs. Gwinnett Stripers",
       "date": "2026-07-28T22:45:00",
@@ -2881,6 +3618,17 @@
       "url": "https://www.milb.com/durham",
       "latitude": 35.9883,
       "longitude": -78.8986
+    },
+    {
+      "id": "b0fa91109b6e",
+      "title": "O.A.R.",
+      "date": "2026-07-29T18:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/oar-three-decades-tour",
+      "latitude": 35.7737,
+      "longitude": -78.6383
     },
     {
       "id": "47c40fa22b0f",
@@ -3180,6 +3928,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "4adcbf7bbf28",
+      "title": "West 22nd: Places To Be",
+      "date": "2026-08-28T20:00:00",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
+      "description": "",
+      "source": "Cat's Cradle",
+      "url": "https://catscradle.com/event/west-22nd-places-to-be/cats-cradle/carrboro-north-carolina/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
+    },
+    {
       "id": "3782e985d0c7",
       "title": "Billy and the Jets: An electrifying tribute to Billy Joel and Elton John",
       "date": "2026-08-28T20:00:00",
@@ -3367,6 +4126,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "fb3a34b2b811",
+      "title": "Durham Bulls vs. Nashville Sounds",
+      "date": "2026-09-12T22:45:00",
+      "location": "Durham Bulls Athletic Park, Durham, NC",
+      "description": "Durham Bulls minor league baseball \u2014 Triple-A affiliate of the Tampa Bay Rays.",
+      "source": "Durham Bulls",
+      "url": "https://www.milb.com/durham",
+      "latitude": 35.9883,
+      "longitude": -78.8986
+    },
+    {
       "id": "44edd5ec094f",
       "title": "Devon Gilfillian \u2013 Time Will Tell Tour",
       "date": "2026-09-14T20:00:00",
@@ -3530,6 +4300,17 @@
       "url": "https://lincolntheatre.com/event/public-image-ltd-this-is-not-the-last-tour/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "5160409b3f90",
+      "title": "Good Moon Festival",
+      "date": "2026-10-08T20:00:00",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
+      "description": "",
+      "source": "Cat's Cradle",
+      "url": "https://catscradle.com/event/good-moon-festival/durham-performing-arts-center/durham-north-carolina/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
     },
     {
       "id": "336ab7c7d4ee",
@@ -3774,8 +4555,8 @@
       "longitude": -79.0505
     }
   ],
-  "last_updated": "2026-05-14T13:59:19.045868",
-  "total_events": 343,
+  "last_updated": "2026-05-15T08:35:52.388083",
+  "total_events": 414,
   "sources": [
     "Manual Events",
     "Visit Raleigh",
@@ -3796,6 +4577,11 @@
     "PlayMakers Rep",
     "Artspace Raleigh",
     "Durham Bulls",
+    "Carolina Hurricanes",
+    "Booth Amphitheatre",
+    "Red Hat Amphitheater",
+    "The Ritz",
+    "Motorco Music Hall",
     "AmericanTowns Triangle",
     "Eventbrite Triangle"
   ],
@@ -3807,18 +4593,23 @@
     "Chapelboro": 0,
     "DPAC": 0,
     "NC Museum of Art": 28,
-    "Cat's Cradle": 93,
-    "Lincoln Theatre": 52,
+    "Cat's Cradle": 95,
+    "Lincoln Theatre": 51,
     "Raleigh Arts": 0,
-    "Duke Events": 33,
+    "Duke Events": 39,
     "UNC Events": 14,
-    "NC State Events": 14,
-    "Marbles Kids Museum": 27,
+    "NC State Events": 18,
+    "Marbles Kids Museum": 28,
     "Morehead Planetarium": 30,
     "Raleigh Little Theatre": 3,
     "PlayMakers Rep": 6,
     "Artspace Raleigh": 0,
-    "Durham Bulls": 49,
+    "Durham Bulls": 50,
+    "Carolina Hurricanes": 0,
+    "Booth Amphitheatre": 22,
+    "Red Hat Amphitheater": 11,
+    "The Ritz": 25,
+    "Motorco Music Hall": 0,
     "AmericanTowns Triangle": 0,
     "Eventbrite Triangle": 0
   },
@@ -3842,6 +4633,11 @@
     "PlayMakers Rep": 0,
     "Artspace Raleigh": 0,
     "Durham Bulls": 0,
+    "Carolina Hurricanes": 0,
+    "Booth Amphitheatre": 0,
+    "Red Hat Amphitheater": 0,
+    "The Ritz": 0,
+    "Motorco Music Hall": 0,
     "AmericanTowns Triangle": 0,
     "Eventbrite Triangle": 0
   }
