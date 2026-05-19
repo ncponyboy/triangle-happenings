@@ -528,6 +528,7 @@ async def scrape_indy_week(session: aiohttp.ClientSession) -> List[Dict]:
     source_name = "Indy Week"
     base_url = "https://indyweek.com"
     urls = [
+        f"{base_url}/events/calendar/",
         f"{base_url}/calendar/",
         f"{base_url}/events/",
     ]
@@ -705,6 +706,54 @@ async def scrape_visit_durham(session: aiohttp.ClientSession) -> List[Dict]:
         if not events:
             # Full month name date regex fallback for CVB-style HTML
             events = _parse_tribe_events(soup, source_name, f"{base_url}/events/", "Durham, NC", 35.9940, -78.8986, base_url)
+        if not events:
+            # discoverdurham.com uses concatenated dates like "May192026" as link text
+            concat_date_re = re.compile(
+                r'^(January|February|March|April|May|June|July|August|September|October|November|December)'
+                r'(\d{1,2})(\d{4})$',
+                re.IGNORECASE
+            )
+            for a_tag in soup.find_all('a', href=re.compile(r'/events/')):
+                date_text = clean_text(a_tag.get_text())
+                dm = concat_date_re.match(date_text)
+                if not dm:
+                    continue
+                month = dm.group(1).title()
+                day = dm.group(2)
+                year = int(dm.group(3))
+                event_date = parse_date_time(month, day, year=year, time_str="12:00 pm")
+                if not event_date or event_date < cutoff:
+                    continue
+                # Title is usually in a heading sibling or the href itself
+                card = a_tag.parent
+                title_tag = card.find(['h2', 'h3', 'h4']) if card else None
+                if not title_tag:
+                    card = card.parent if card else None
+                    title_tag = card.find(['h2', 'h3', 'h4']) if card else None
+                if not title_tag:
+                    continue
+                title_link = title_tag.find('a') or title_tag
+                title_text = clean_text(title_link.get_text())
+                if not title_text or len(title_text) < 4:
+                    continue
+                event_url = title_link.get('href', f"{base_url}/events/") if hasattr(title_link, 'get') else f"{base_url}/events/"
+                if event_url.startswith('/'):
+                    event_url = base_url + event_url
+                key = f"{title_text.lower()}_{event_date.date()}"
+                if key in seen:
+                    continue
+                seen.add(key)
+                events.append({
+                    "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                    "title": title_text,
+                    "date": event_date.isoformat(),
+                    "location": "Durham, NC",
+                    "description": "",
+                    "source": source_name,
+                    "url": event_url,
+                    "latitude": 35.9940,
+                    "longitude": -78.8986,
+                })
         log_info(f"  ✓ Found {len(events)} events")
     except Exception as e:
         log_error(f"  ✗ Visit Durham error: {e}")
@@ -718,17 +767,102 @@ async def scrape_chapelboro(session: aiohttp.ClientSession) -> List[Dict]:
     source_name = "Chapelboro"
     base_url = "https://chapelboro.com"
     try:
+        # Try iCal
         ical_raw = await fetch_url(f"{base_url}/events/?ical=1", session)
         if ical_raw and 'BEGIN:VCALENDAR' in ical_raw:
             events = parse_ical_feed(ical_raw, source_name, "Chapel Hill, NC", 35.9132, -79.0558, f"{base_url}/events/")
             if events:
                 log_info(f"  ✓ Found {len(events)} events via iCal")
                 return events
+        # Try RSS
+        for rss_path in ["/events/feed/", "/feed/?post_type=tribe_events", "/events/?feed=rss2"]:
+            rss_raw = await fetch_url(f"{base_url}{rss_path}", session)
+            if rss_raw and '<item>' in rss_raw:
+                cutoff = datetime.now() - timedelta(hours=2)
+                seen = set()
+                title_re = re.compile(r'<title><!\[CDATA\[(.*?)\]\]></title>|<title>(.*?)</title>', re.DOTALL)
+                link_re  = re.compile(r'<link>(.*?)</link>', re.DOTALL)
+                date_re2 = re.compile(r'<pubDate>(.*?)</pubDate>|<startDate>(.*?)</startDate>', re.DOTALL)
+                items = re.split(r'<item>', rss_raw)[1:]
+                for item in items:
+                    tm = title_re.search(item)
+                    lm = link_re.search(item)
+                    dm = date_re2.search(item)
+                    if not tm or not dm:
+                        continue
+                    title_text = clean_text(tm.group(1) or tm.group(2) or "")
+                    link_url = (lm.group(1) or "").strip() if lm else f"{base_url}/events/"
+                    date_str = (dm.group(1) or dm.group(2) or "").strip()
+                    try:
+                        from email.utils import parsedate_to_datetime
+                        event_date = parsedate_to_datetime(date_str).replace(tzinfo=None)
+                    except Exception:
+                        continue
+                    if not title_text or event_date < cutoff:
+                        continue
+                    key = f"{title_text.lower()}_{event_date.date()}"
+                    if key in seen:
+                        continue
+                    seen.add(key)
+                    events.append({
+                        "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                        "title": title_text,
+                        "date": event_date.isoformat(),
+                        "location": "Chapel Hill, NC",
+                        "description": "",
+                        "source": source_name,
+                        "url": link_url,
+                        "latitude": 35.9132,
+                        "longitude": -79.0558,
+                    })
+                if events:
+                    log_info(f"  ✓ Found {len(events)} events via RSS")
+                    return events
+        # HTML fallback
         html = await fetch_url(f"{base_url}/events/", session)
         if not html:
             return events
         soup = BeautifulSoup(html, 'html.parser')
-        events = _parse_tribe_events(soup, source_name, f"{base_url}/events/", "Chapel Hill, NC", 35.9132, -79.0558, base_url)
+        # Try JSON-LD first
+        cutoff = datetime.now() - timedelta(hours=2)
+        seen = set()
+        for script in soup.find_all('script', type='application/ld+json'):
+            try:
+                data = json.loads(script.string or '')
+                items = data if isinstance(data, list) else [data]
+                for item in items:
+                    if 'Event' not in item.get('@type', ''):
+                        continue
+                    title_text = clean_text(item.get('name', ''))
+                    start_date = item.get('startDate', '')
+                    if not title_text or not start_date:
+                        continue
+                    try:
+                        dt_clean = re.sub(r'[+-]\d{2}:\d{2}$', '', start_date)
+                        event_date = datetime.strptime(dt_clean[:16], '%Y-%m-%dT%H:%M')
+                    except Exception:
+                        continue
+                    if event_date < cutoff:
+                        continue
+                    key = f"{title_text.lower()}_{event_date.date()}"
+                    if key in seen:
+                        continue
+                    seen.add(key)
+                    events.append({
+                        "id": create_event_id(title_text, event_date.isoformat(), source_name),
+                        "title": title_text,
+                        "date": event_date.isoformat(),
+                        "location": "Chapel Hill, NC",
+                        "description": clean_text(item.get('description', ''))[:200],
+                        "source": source_name,
+                        "url": item.get('url', f"{base_url}/events/"),
+                        "latitude": 35.9132,
+                        "longitude": -79.0558,
+                    })
+            except Exception:
+                continue
+        if not events:
+            events = _parse_tribe_events(soup, source_name, f"{base_url}/events/", "Chapel Hill, NC", 35.9132, -79.0558, base_url)
         log_info(f"  ✓ Found {len(events)} events")
     except Exception as e:
         log_error(f"  ✗ Chapelboro error: {e}")
@@ -803,32 +937,42 @@ async def scrape_dpac(session: aiohttp.ClientSession) -> List[Dict]:
             events = _parse_tribe_events(soup, source_name, f"{base_url}/events/",
                                          "DPAC, 123 Vivian St, Durham, NC", 35.9942, -78.9030, base_url)
         if not events:
-            # DPAC uses "Sat, May 16, 2026" short-day format — scan headings near dates
+            # DPAC renders plain <a href="/events/detail/..."> links with sibling <p> date text
             short_full_re = re.compile(
                 r'(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s+'
                 r'(January|February|March|April|May|June|July|August|September|October|November|December)'
                 r'\s+(\d{1,2}),?\s+(\d{4})',
                 re.IGNORECASE
             )
-            for heading in soup.find_all(['h2', 'h3', 'h4', 'h5']):
-                link = heading.find('a')
-                if not link:
-                    continue
-                title_text = clean_text(link.get_text())
+            for a_tag in soup.find_all('a', href=re.compile(r'/events/detail/')):
+                title_text = clean_text(a_tag.get_text())
+                # fall back to img alt "More Info for <Title>"
+                if not title_text or len(title_text) < 4:
+                    img = a_tag.find('img')
+                    if img:
+                        alt = img.get('alt', '')
+                        title_text = clean_text(re.sub(r'^More Info for\s+', '', alt, flags=re.IGNORECASE))
                 if not title_text or len(title_text) < 4:
                     continue
-                event_url = link.get('href', f"{base_url}/events/")
+                event_url = a_tag.get('href', f"{base_url}/events/")
                 if event_url.startswith('/'):
                     event_url = base_url + event_url
-                block = heading.parent or heading
-                block_text = block.get_text()
-                dm = short_full_re.search(block_text) or date_re.search(block_text)
+                # Collect text from surrounding context: parent + siblings
+                parent = a_tag.parent or a_tag
+                context_text = parent.get_text()
+                dm = short_full_re.search(context_text) or date_re.search(context_text)
+                if not dm:
+                    # try grandparent
+                    gp = parent.parent
+                    if gp:
+                        context_text = gp.get_text()
+                        dm = short_full_re.search(context_text) or date_re.search(context_text)
                 if not dm:
                     continue
                 month = dm.group(1).title()
                 day = dm.group(2)
                 year = int(dm.group(3)) if dm.lastindex >= 3 and dm.group(3) else datetime.now().year
-                tm = time_re.search(block_text)
+                tm = time_re.search(context_text)
                 event_date = parse_date_time(month, day, year=year, time_str=tm.group(1) if tm else "7:30 pm")
                 if not event_date or event_date < cutoff:
                     continue
@@ -1409,10 +1553,13 @@ async def scrape_artspace_raleigh(session: aiohttp.ClientSession) -> List[Dict]:
             event_url = link.get('href', f"{base_url}/events/")
             if event_url.startswith('/'):
                 event_url = base_url + event_url
-            # Search sibling/parent text for date
+            # Search parent/grandparent text for date (date appears above h4 as preceding sibling)
             block = h4.parent or h4
             block_text = block.get_text()
             dm = day_month_re.search(block_text)
+            if not dm and block.parent:
+                block_text = block.parent.get_text()
+                dm = day_month_re.search(block_text)
             if not dm:
                 continue
             day = dm.group(1)
@@ -1914,9 +2061,6 @@ async def main():
         ("Booth Amphitheatre",      scrape_booth_amphitheatre),
         ("Red Hat Amphitheater",    scrape_red_hat_amphitheater),
         ("The Ritz",                scrape_the_ritz),
-        ("Motorco Music Hall",      scrape_motorco),
-        ("AmericanTowns Triangle",  scrape_americantowns_triangle),
-        ("Eventbrite Triangle",     scrape_eventbrite_triangle),
     ]
 
     # Load previous source counts and zero-strike counts for regression detection
