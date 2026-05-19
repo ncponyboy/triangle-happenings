@@ -1,17 +1,6 @@
 {
   "events": [
     {
-      "id": "9dc52ca3a528",
-      "title": "Story Explorers",
-      "date": "2026-05-19T11:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/44816/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
       "id": "1c9674974827",
       "title": "Faculty and Staff Walking Club",
       "date": "2026-05-19T11:30:00",
@@ -208,6 +197,17 @@
       "url": "https://catscradle.com/event/future-islands-3/cats-cradle/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "5c22bc68242e",
+      "title": "Sting 3.0",
+      "date": "2026-05-19T20:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/sting-30",
+      "latitude": 35.7737,
+      "longitude": -78.6383
     },
     {
       "id": "17846630df47",
@@ -1046,6 +1046,17 @@
       "longitude": -79.0521
     },
     {
+      "id": "1f0b1cb04b59",
+      "title": "Iration",
+      "date": "2026-05-22T18:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/iration-where-it-all-began-summer-tour-2026",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "b3a8714ae985",
       "title": "Star Wars: Mandalorian & Grogu",
       "date": "2026-05-22T18:30:00",
@@ -1728,6 +1739,17 @@
       "longitude": -79.0521
     },
     {
+      "id": "09703a2ff169",
+      "title": "Young the Giant",
+      "date": "2026-05-30T18:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/young-the-giant",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "db7f3544f12f",
       "title": "Epic Film Scores",
       "date": "2026-05-30T19:00:00",
@@ -1970,6 +1992,17 @@
       "longitude": -78.6893
     },
     {
+      "id": "c9c110e26c95",
+      "title": "Sam Barber",
+      "date": "2026-06-04T19:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/sam-barber",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "7075f7a43110",
       "title": "An Evening with Cowboy Junkies",
       "date": "2026-06-04T20:00:00",
@@ -2199,6 +2232,17 @@
       "url": "https://www.boothamphitheatre.com/events",
       "latitude": 35.7916,
       "longitude": -78.8152
+    },
+    {
+      "id": "7c54ef845382",
+      "title": "Khalid",
+      "date": "2026-06-06T19:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/khalid-its-always-summer-somewhere-tour",
+      "latitude": 35.7737,
+      "longitude": -78.6383
     },
     {
       "id": "0145b49c80e2",
@@ -3048,6 +3092,17 @@
       "longitude": -78.903
     },
     {
+      "id": "ebfdcd9e43da",
+      "title": "Madison Beer",
+      "date": "2026-07-05T19:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/madison-beer",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "87a776c6eaa5",
       "title": "Durham Bulls vs. Gwinnett Stripers",
       "date": "2026-07-05T21:05:00",
@@ -3189,6 +3244,17 @@
       "url": "https://catscradle.com/event/hank-sinatra-ramona-the-holy-smokes-charles-latham-the-borrowed-band/cats-cradle-back-room/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "cf4f8a61b6f9",
+      "title": "Lindsey Stirling",
+      "date": "2026-07-17T19:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/lindsey-stirling",
+      "latitude": 35.7737,
+      "longitude": -78.6383
     },
     {
       "id": "379b1a05f291",
@@ -3345,6 +3411,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "e2045562fd66",
+      "title": "Buju Banton & Stephen Marley",
+      "date": "2026-07-23T20:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/buju-banton-stephen-marley",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "b6cee6d199ea",
       "title": "Elmiene - Sounds for Someone Tour",
       "date": "2026-07-24T19:00:00",
@@ -3411,6 +3488,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "55b338392a8f",
+      "title": "Bob Dylan",
+      "date": "2026-07-28T18:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/bob-dylan",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "b5ccd02d32a7",
       "title": "Durham Bulls vs. Gwinnett Stripers",
       "date": "2026-07-28T22:45:00",
@@ -3420,6 +3508,17 @@
       "url": "https://www.milb.com/durham",
       "latitude": 35.9883,
       "longitude": -78.8986
+    },
+    {
+      "id": "b0fa91109b6e",
+      "title": "O.A.R.",
+      "date": "2026-07-29T18:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/oar-three-decades-tour",
+      "latitude": 35.7737,
+      "longitude": -78.6383
     },
     {
       "id": "47c40fa22b0f",
@@ -3554,6 +3653,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "d102514c9ce0",
+      "title": "Deep Purple",
+      "date": "2026-08-04T18:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/deep-purple",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "40ccfac96c59",
       "title": "Duane Betts & Palmetto Motel",
       "date": "2026-08-05T20:00:00",
@@ -3574,6 +3684,17 @@
       "url": "https://catscradle.com/event/diggy-graves-the-no-vacancy-tour/cats-cradle/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "e376ecf9ccfb",
+      "title": "Stephen Wilson Jr.",
+      "date": "2026-08-08T19:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/stephen-wilson-jr",
+      "latitude": 35.7737,
+      "longitude": -78.6383
     },
     {
       "id": "8cbe184dcbae",
@@ -3664,6 +3785,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "21289f8ea187",
+      "title": "Simple Plan",
+      "date": "2026-08-15T18:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/simple-plan",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "637071866ce6",
       "title": "Durham Bulls vs. Memphis Redbirds",
       "date": "2026-08-15T22:45:00",
@@ -3686,6 +3818,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "960a569e704b",
+      "title": "Ella Mai",
+      "date": "2026-08-18T19:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/ella-mai",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "409bd89127fb",
       "title": "Happy Landing",
       "date": "2026-08-20T20:00:00",
@@ -3706,6 +3849,17 @@
       "url": "https://lincolntheatre.com/event/guardians-of-the-jukebox-the-greatest-80s-show-on-earth/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "fb93cc41eca2",
+      "title": "Jordan Davis",
+      "date": "2026-08-21T20:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/jordan-davis",
+      "latitude": 35.7737,
+      "longitude": -78.6383
     },
     {
       "id": "4a1509d0cc89",
@@ -3774,6 +3928,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "68cbd7cb5203",
+      "title": "Chance the Rapper",
+      "date": "2026-08-29T19:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/chance-the-rapper",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "795103502c0f",
       "title": "Sincere Engineer: The Probable Claws Tour",
       "date": "2026-08-29T20:00:00",
@@ -3838,6 +4003,17 @@
       "url": "https://lincolntheatre.com/event/mostley-crue-a-tribute-to-motley-crue-w-sickman-alice-in-chains-tribute/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "62ce347d280e",
+      "title": "Grupo Frontera",
+      "date": "2026-09-05T20:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/grupo-frontera",
+      "latitude": 35.7737,
+      "longitude": -78.6383
     },
     {
       "id": "caa893d2db7a",
@@ -3928,6 +4104,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "855eafe03e57",
+      "title": "Marcus King",
+      "date": "2026-09-11T18:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/marcus-king",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "1a9d47017666",
       "title": "Durham Bulls vs. Nashville Sounds",
       "date": "2026-09-11T22:45:00",
@@ -4016,6 +4203,17 @@
       "longitude": -79.0758
     },
     {
+      "id": "a22ef6c03613",
+      "title": "Shaboozey",
+      "date": "2026-09-22T19:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/shaboozey",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "83ef1de448e6",
       "title": "Son Little",
       "date": "2026-09-23T20:00:00",
@@ -4071,6 +4269,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "35d8349f5a29",
+      "title": "Rise Against",
+      "date": "2026-09-27T18:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/rise-against",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "301d8ab3591a",
       "title": "\u201cAnthem of the Sundays\u201d Feat: Bring out Yer Dead",
       "date": "2026-09-27T20:00:00",
@@ -4082,6 +4291,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "127accfb9045",
+      "title": "Dylan Gossett & Charles Wesley Godwin",
+      "date": "2026-10-01T19:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/dylan-gossett-charles-wesley-godwin",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
       "id": "7873f13d2459",
       "title": "The Format",
       "date": "2026-10-01T20:00:00",
@@ -4091,6 +4311,28 @@
       "url": "https://catscradle.com/event/the-format/cats-cradle/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "09ae0c978463",
+      "title": "Dermot Kennedy",
+      "date": "2026-10-04T19:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/dermot-kennedy",
+      "latitude": 35.7737,
+      "longitude": -78.6383
+    },
+    {
+      "id": "07a2b86bd9f1",
+      "title": "Amyl and the Sniffers",
+      "date": "2026-10-05T19:30:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/amyl-and-the-sniffers",
+      "latitude": 35.7737,
+      "longitude": -78.6383
     },
     {
       "id": "72e1377aaa8b",
@@ -4390,8 +4632,8 @@
       "longitude": -79.0505
     }
   ],
-  "last_updated": "2026-05-19T12:58:15.253906",
-  "total_events": 399,
+  "last_updated": "2026-05-19T13:05:25.880226",
+  "total_events": 421,
   "sources": [
     "Manual Events",
     "Visit Raleigh",
@@ -4431,7 +4673,7 @@
     "Duke Events": 34,
     "UNC Events": 12,
     "NC State Events": 12,
-    "Marbles Kids Museum": 26,
+    "Marbles Kids Museum": 25,
     "Morehead Planetarium": 22,
     "Raleigh Little Theatre": 3,
     "PlayMakers Rep": 6,
@@ -4439,7 +4681,7 @@
     "Durham Bulls": 51,
     "Carolina Hurricanes": 4,
     "Booth Amphitheatre": 22,
-    "Red Hat Amphitheater": 0,
+    "Red Hat Amphitheater": 23,
     "The Ritz": 25
   },
   "zero_strikes": {
