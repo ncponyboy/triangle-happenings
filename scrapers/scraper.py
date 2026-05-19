@@ -1670,7 +1670,7 @@ async def scrape_booth_amphitheatre(session: aiohttp.ClientSession) -> List[Dict
     base_url = "https://www.boothamphitheatre.com"
     location = "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC"
     try:
-        html = await fetch_url(f"{base_url}/events", session)
+        html = await fetch_url(f"{base_url}/events", session) or await fetch_with_geekflare(f"{base_url}/events", session)
         if not html:
             return events
         soup = BeautifulSoup(html, 'html.parser')
@@ -1733,7 +1733,7 @@ async def scrape_red_hat_amphitheater(session: aiohttp.ClientSession) -> List[Di
     base_url = "https://www.redhatamphitheater.com"
     location = "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC"
     try:
-        html = await fetch_url(f"{base_url}/events", session)
+        html = await fetch_url(f"{base_url}/events", session) or await fetch_with_geekflare(f"{base_url}/events", session)
         if not html:
             return events
         soup = BeautifulSoup(html, 'html.parser')
@@ -1800,7 +1800,7 @@ async def scrape_the_ritz(session: aiohttp.ClientSession) -> List[Dict]:
     base_url = "https://www.ritzraleigh.com"
     location = "The Ritz, 2820 Industrial Dr, Raleigh, NC"
     try:
-        html = await fetch_url(base_url, session)
+        html = await fetch_url(base_url, session) or await fetch_with_geekflare(base_url, session)
         if not html:
             return events
         soup = BeautifulSoup(html, 'html.parser')
