@@ -1684,7 +1684,6 @@ async def scrape_booth_amphitheatre(session: aiohttp.ClientSession) -> List[Dict
         time_re = re.compile(r'(\d{1,2}(?::\d{2})?\s*(?:am|pm))', re.IGNORECASE)
         skip = {'events', 'more info', 'buy tickets', 'all events'}
         for heading in soup.find_all(['h2', 'h3', 'h4']):
-            link = heading.find('a') or heading
             a = heading.find('a')
             title_text = clean_text(heading.get_text())
             if not title_text or len(title_text) < 4 or title_text.lower() in skip:
@@ -1695,6 +1694,9 @@ async def scrape_booth_amphitheatre(session: aiohttp.ClientSession) -> List[Dict
             block = heading.parent or heading
             block_text = block.get_text()
             dm = date_re.search(block_text)
+            if not dm and block.parent:
+                block_text = block.parent.get_text()
+                dm = date_re.search(block_text)
             if not dm:
                 continue
             month, day, year = dm.group(1).title(), dm.group(2), int(dm.group(3))
@@ -1754,9 +1756,13 @@ async def scrape_red_hat_amphitheater(session: aiohttp.ClientSession) -> List[Di
             event_url = (a.get('href', '') if a else '') or f"{base_url}/events"
             if event_url.startswith('/'):
                 event_url = base_url + event_url
+            # Date is often in a sibling element — try parent then grandparent
             block = heading.parent or heading
             block_text = block.get_text()
             dm = date_re.search(block_text)
+            if not dm and block.parent:
+                block_text = block.parent.get_text()
+                dm = date_re.search(block_text)
             if not dm:
                 continue
             month = _MONTH_ABBR.get(dm.group(1)[:3].lower(), dm.group(1).title())
@@ -1837,32 +1843,35 @@ async def scrape_the_ritz(session: aiohttp.ClientSession) -> List[Dict]:
             except Exception:
                 continue
         if not events:
-            # HTML fallback: "Sat 11 Jul 2026" date format
+            # HTML fallback: date split as "Fri\n24\nJul" across sibling divs above the title link
             date_re = re.compile(
-                r'(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s+(\d{1,2})\s+'
-                r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{4})',
+                r'(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)[\s\n]+(\d{1,2})[\s\n]+'
+                r'(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)(?:[\s\n]+(\d{4}))?',
                 re.IGNORECASE
             )
             time_re = re.compile(r'(\d{1,2}(?::\d{2})?\s*(?:am|pm))', re.IGNORECASE)
-            for heading in soup.find_all(['h2', 'h3', 'h4']):
-                a = heading.find('a')
-                title_text = clean_text(heading.get_text())
+            for a_tag in soup.find_all('a', href=re.compile(r'ritzraleigh\.com|/event')):
+                title_text = clean_text(a_tag.get_text())
                 if not title_text or len(title_text) < 4:
                     continue
-                event_url = (a.get('href', '') if a else '') or base_url
+                event_url = a_tag.get('href', base_url)
                 if event_url.startswith('/'):
                     event_url = base_url + event_url
-                block = heading.parent or heading
-                block_text = block.get_text()
+                # Walk up to find the event card container that includes the date
+                block = a_tag.parent
+                block_text = block.get_text() if block else ''
                 dm = date_re.search(block_text)
+                if not dm and block and block.parent:
+                    block_text = block.parent.get_text()
+                    dm = date_re.search(block_text)
                 if not dm:
                     continue
                 day = dm.group(1)
                 month = _MONTH_ABBR.get(dm.group(2)[:3].lower(), dm.group(2).title())
-                year = int(dm.group(3))
+                year = int(dm.group(3)) if dm.group(3) else datetime.now().year
                 tm = time_re.search(block_text)
                 event_date = parse_date_time(month, day, year=year, time_str=tm.group(1) if tm else "8:00 pm")
-                if not event_date or event_date < cutoff or event_date.year != year:
+                if not event_date or event_date < cutoff:
                     continue
                 key = f"{title_text.lower()}_{event_date.date()}"
                 if key in seen:
