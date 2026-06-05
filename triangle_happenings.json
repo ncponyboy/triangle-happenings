@@ -1,490 +1,6 @@
 {
   "events": [
     {
-      "id": "76f98c01cada",
-      "title": "N.C. Democratic Party Chair, Pollster Break Down Chances of a \u2018Blue Wave\u2019 Midterm",
-      "date": "2026-06-03T09:00:15",
-      "location": "Chapel Hill, NC",
-      "description": "",
-      "source": "Chapelboro",
-      "url": "https://chapelboro.com/news/election/n-c-democratic-party-chair-pollster-break-down-chances-of-a-blue-wave-midterm",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "fc33d8537366",
-      "title": "What\u2019s in the Box?",
-      "date": "2026-06-03T10:00:00",
-      "location": "Museum Park, Welcome Center",
-      "description": "/ Events / Events Events Overview General Admission $12 Members $10 Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/whats-in-the-box/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "16d0fe3a6e42",
-      "title": "Mobile Health Assessment",
-      "date": "2026-06-03T10:00:00",
-      "location": "None",
-      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
-      "source": "Duke Events",
-      "url": "https://hr.duke.edu/wellness/health-assessments/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "54fe1dd52384",
-      "title": "On-Site Fitness Consultations",
-      "date": "2026-06-03T10:00:00",
-      "location": "None",
-      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
-      "source": "Duke Events",
-      "url": "https://hr.duke.edu/wellness/health-assessments/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "9c95ed52230b",
-      "title": "Journey to Space 3D",
-      "date": "2026-06-03T10:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45693/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "c5c667621be7",
-      "title": "The Morning News: The Rescue of Mr. Pickles",
-      "date": "2026-06-03T10:20:27",
-      "location": "Chapel Hill, NC",
-      "description": "",
-      "source": "Chapelboro",
-      "url": "https://chapelboro.com/the-aaron-keck-show/6-o-clock-news/the-rescue-of-mr-pickles",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "101ba2942c00",
-      "title": "Cities of the Future 3D",
-      "date": "2026-06-03T11:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/42808/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "d1931457a22a",
-      "title": "Animal Kingdom 3D",
-      "date": "2026-06-03T12:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45713/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "8b7dfdde6a9d",
-      "title": "T. REX 3D",
-      "date": "2026-06-03T13:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46365/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "763ed3ae33c4",
-      "title": "Nature Navigators",
-      "date": "2026-06-03T14:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46247/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "8aa05ce213ad",
-      "title": "Wild Rescue 3D",
-      "date": "2026-06-03T14:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46366/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "7a12cb647be7",
-      "title": "Dissertation Announcement: Boyao Li",
-      "date": "2026-06-03T15:00:00",
-      "location": "None",
-      "description": "Advisor: David Page Dissertation Title: Understanding Neural Networks from a Probabilistic and Statistical Perspective",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "13bd82ae5aaa",
-      "title": "Weekday Carillon Recital",
-      "date": "2026-06-03T17:00:00",
-      "location": "Duke Chapel Quad",
-      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "6b2a43a2617f",
-      "title": "Duke Law Alumni & Students Summer Gathering in Dallas",
-      "date": "2026-06-03T17:00:00",
-      "location": "None",
-      "description": "Duke Law alumni and students are invited to join us for a summer reception in Dallas. This is a great opportunity for students and alumni to meet, connect, and celebrate the local Duke Law community. ",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "60dc095536e8",
-      "title": "Duke Law Alumni & Students Summer Gathering in Washington, DC",
-      "date": "2026-06-03T17:30:00",
-      "location": "None",
-      "description": "Duke Law alumni and students are invited to join us for a summer reception in Washington, D.C. This is a great opportunity for students and alumni to meet, connect, and celebrate the local Duke Law co",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "e40f606881e4",
-      "title": "Arts on East: Lua Project",
-      "date": "2026-06-03T19:00:00",
-      "location": "East Campus",
-      "description": "Lua Project moves like a story carried across generations, bridging Mexican song forms with Appalachian traditions and narratives. They describe themselves as \"cultural pollinators,\" creating music th",
-      "source": "Duke Events",
-      "url": "https://arts.duke.edu/events/arts-on-east-lua-project/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "eecaad70dba8",
-      "title": "Museum Admission",
-      "date": "2026-06-03T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46155/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "061bf7d6b164",
-      "title": "Ari Lennox - The Vacancy Tour",
-      "date": "2026-06-03T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/ari-lennox-the-vacancy-tour-raleigh-north-carolina-06-03-2026/event/2D00643E19022CCE",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
-      "id": "0c805b2a3cd2",
-      "title": "Oliver Anthony Music",
-      "date": "2026-06-03T20:00:00",
-      "location": "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
-      "description": "",
-      "source": "Lincoln Theatre",
-      "url": "https://lincolntheatre.com/event/oliver-anthony-music/",
-      "latitude": 35.774,
-      "longitude": -78.6376
-    },
-    {
-      "id": "0ee0e9a87358",
-      "title": "Durham Bulls vs. Charlotte Knights",
-      "date": "2026-06-03T22:45:00",
-      "location": "Durham Bulls Athletic Park, Durham, NC",
-      "description": "Durham Bulls minor league baseball \u2014 Triple-A affiliate of the Tampa Bay Rays.",
-      "source": "Durham Bulls",
-      "url": "https://www.milb.com/durham",
-      "latitude": 35.9883,
-      "longitude": -78.8986
-    },
-    {
-      "id": "0152fe67ca58",
-      "title": "Git Real : Collaborating with Git & GitHub",
-      "date": "2026-06-04T09:00:00",
-      "location": "SSRI-Gross Hall 230E",
-      "description": "Everything You Wanted To Know About Collaborating Using Git and GitHub But Were Afraid to Ask! Interested in learning how to use Git and GitHub to manage collaborations? Curious what this whole GitHub",
-      "source": "Duke Events",
-      "url": "https://datascience.duke.edu/about/news/git-real-collaborating-with-git-github/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "d7073355d13f",
-      "title": "Mobile Health Assessment",
-      "date": "2026-06-04T10:00:00",
-      "location": "None",
-      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
-      "source": "Duke Events",
-      "url": "https://hr.duke.edu/wellness/health-assessments/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "f4ef12c5841e",
-      "title": "Animal Kingdom 3D",
-      "date": "2026-06-04T10:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46367/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "0d3022159284",
-      "title": "Duke Farmers Market",
-      "date": "2026-06-04T11:00:00",
-      "location": "None",
-      "description": "Join us for the Duke Farmers Market! Here you can: Find farm fresh fruits, vegetables, and other local goods at a convenient location. Enjoy a relaxed atmosphere while learning about local food system",
-      "source": "Duke Events",
-      "url": "https://hr.duke.edu/wellness/farmers-market/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "e4ea99444693",
-      "title": "Flight of the Butterflies 3D",
-      "date": "2026-06-04T11:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46368/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "a184ddd33572",
-      "title": "Critical Care Grand Rounds",
-      "date": "2026-06-04T12:00:00",
-      "location": "None",
-      "description": "Critical Care Grand Rounds occurs via Zoom on Thursdays from 12:00 pm - 1:00 pm EST, and is led by Drs. Vijay Krishnamoorthy and Nazish Hashmi.",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "a926e2871d1b",
-      "title": "Food and Nutrition Security, Diet Quality, and Healthy Eating Tips for Mental Health Professionals and Their Clients",
-      "date": "2026-06-04T12:00:00",
-      "location": "Online",
-      "description": "Sponsored by the Hans Lowenbach, MD Memorial Endowment Fund Michael T. Compton, M.D., M.P.H. is Professor of Psychiatry at Columbia University and a Research Psychiatrist at the New York State Psychia",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "8a8fcb477c98",
-      "title": "Cities of the Future 3D",
-      "date": "2026-06-04T12:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46369/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "2723b1c4e212",
-      "title": "Cell Bio Distinguished Lecturer",
-      "date": "2026-06-04T12:30:00",
-      "location": "Nanaline Duke 147",
-      "description": "Thomas Lecuit, Ph.D., College de France Host: Akankshi Munjal",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "deab81bf808b",
-      "title": "Oceans: Our Blue Planet 3D",
-      "date": "2026-06-04T13:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46370/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "6bddea71493d",
-      "title": "OIE 101",
-      "date": "2026-06-04T14:00:00",
-      "location": "None",
-      "description": "In this interactive session, you'll get an up-close look at the Office for Institutional Equity, our mission, our programs, and the individuals and communities at the center of everything we do. Come ",
-      "source": "Duke Events",
-      "url": "https://oie.duke.edu/education-outreach/summer-virtual-workshop-series/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "e0e45b8955ff",
-      "title": "AI in Action: Practical Strategies for Recruitment and Retention",
-      "date": "2026-06-04T14:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/ai-in-action-practical-strategies-for-recruitment-and-retention",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "6c9bb0a93e42",
-      "title": "Artrageous",
-      "date": "2026-06-04T14:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46251/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "61b1ec85f2da",
-      "title": "The Blue Angels 3D",
-      "date": "2026-06-04T14:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46371/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "7590484bb258",
-      "title": "Star Wars: Mandalorian & Grogu",
-      "date": "2026-06-04T15:30:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45661/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "c2e66cbeaf15",
-      "title": "Weekday Carillon Recital",
-      "date": "2026-06-04T17:00:00",
-      "location": "Duke Chapel Quad",
-      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "4d2ee746a048",
-      "title": "Adaptive Tai Chi in the Park: Mindful Movement for Everyone",
-      "date": "2026-06-04T18:00:00",
-      "location": "Museum Park, Welcome Center",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/adaptive-tai-chi-in-the-park-mindful-movement-for-everyone-21/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "de1179dbe82a",
-      "title": "Duke Law Alumni & Students Summer Gathering in New York",
-      "date": "2026-06-04T18:00:00",
-      "location": "None",
-      "description": "Duke Law alumni and students are invited to join us for a summer reception in New York. This is a great opportunity for students and alumni to meet, connect, and celebrate the local Duke Law community",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "e747252239a0",
-      "title": "Museum Admission",
-      "date": "2026-06-04T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46175/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "c9c110e26c95",
-      "title": "Sam Barber",
-      "date": "2026-06-04T19:00:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/sam-barber",
-      "latitude": 35.7737,
-      "longitude": -78.6383
-    },
-    {
-      "id": "7075f7a43110",
-      "title": "An Evening with Cowboy Junkies",
-      "date": "2026-06-04T20:00:00",
-      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
-      "description": "",
-      "source": "Cat's Cradle",
-      "url": "https://catscradle.com/event/an-evening-with-cowboy-junkies-2/haw-river-ballroom/saxapahaw-north-carolina/",
-      "latitude": 35.9094,
-      "longitude": -79.0758
-    },
-    {
-      "id": "ff788a1902dd",
-      "title": "Bayside",
-      "date": "2026-06-04T20:00:00",
-      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
-      "description": "",
-      "source": "Cat's Cradle",
-      "url": "https://catscradle.com/event/bayside-2/cats-cradle/carrboro-north-carolina/",
-      "latitude": 35.9094,
-      "longitude": -79.0758
-    },
-    {
-      "id": "9d78818482e3",
-      "title": "Carolina Hurricanes Playoff Game Vegas",
-      "date": "2026-06-04T20:00:00",
-      "location": "Lenovo Center, Raleigh, NC",
-      "description": "Carolina Hurricanes NHL hockey game.",
-      "source": "Carolina Hurricanes",
-      "url": "https://www.nhl.com/hurricanes/schedule",
-      "latitude": 35.8033,
-      "longitude": -78.7228
-    },
-    {
-      "id": "366865a05bdf",
-      "title": "Durham Bulls vs. Charlotte Knights",
-      "date": "2026-06-04T22:45:00",
-      "location": "Durham Bulls Athletic Park, Durham, NC",
-      "description": "Durham Bulls minor league baseball \u2014 Triple-A affiliate of the Tampa Bay Rays.",
-      "source": "Durham Bulls",
-      "url": "https://www.milb.com/durham",
-      "latitude": 35.9883,
-      "longitude": -78.8986
-    },
-    {
       "id": "52f20b67dbf9",
       "title": "Medicine Grand Rounds: Designing Educational Experiences for a Modern Residency",
       "date": "2026-06-05T08:00:00",
@@ -991,6 +507,17 @@
       "longitude": -79.0521
     },
     {
+      "id": "03676871062b",
+      "title": "SW: Mandalorian & Grogu 3D",
+      "date": "2026-06-06T16:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45672/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "fb157fbbd063",
       "title": "Carolina Skies",
       "date": "2026-06-06T16:30:00",
@@ -1101,6 +628,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "12c56fa84542",
+      "title": "Science Solvers",
+      "date": "2026-06-07T10:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46262/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "848b5a9cd678",
       "title": "Art on the Dot",
       "date": "2026-06-07T11:00:00",
@@ -1123,6 +661,28 @@
       "longitude": -78.8986
     },
     {
+      "id": "62bb73422aeb",
+      "title": "Oceans: Our Blue Planet 3D",
+      "date": "2026-06-07T11:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46405/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "86d7c0430962",
+      "title": "Wild Rescue 3D",
+      "date": "2026-06-07T12:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46406/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "e30846d20c33",
       "title": "Public Tour of Duke Chapel",
       "date": "2026-06-07T13:00:00",
@@ -1132,6 +692,17 @@
       "url": "https://ncartmuseum.org/event/public-tour-2/2026-06-07/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "23112bc90dfd",
+      "title": "Cities of the Future 3D",
+      "date": "2026-06-07T13:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46407/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "a0e0f2043658",
@@ -1145,6 +716,28 @@
       "longitude": -79.0521
     },
     {
+      "id": "9b65fb61da40",
+      "title": "The Blue Angels 3D",
+      "date": "2026-06-07T14:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46408/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "8479a1ae480d",
+      "title": "MakeShop",
+      "date": "2026-06-07T15:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46266/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "787ef3be1230",
       "title": "Supermassive Black Holes",
       "date": "2026-06-07T15:00:00",
@@ -1156,6 +749,17 @@
       "longitude": -79.0521
     },
     {
+      "id": "b71250118d38",
+      "title": "SW: Mandalorian & Grogu 3D",
+      "date": "2026-06-07T15:30:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45673/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "9fa66b13236e",
       "title": "Carolina Skies",
       "date": "2026-06-07T16:30:00",
@@ -1165,6 +769,28 @@
       "url": "https://moreheadplanetarium.org/calendar/carolina-skies-511/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "c9ffe147147e",
+      "title": "Star Wars: Mandalorian & Grogu",
+      "date": "2026-06-07T18:30:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45667/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "80b5d8ca2936",
+      "title": "Museum Admission",
+      "date": "2026-06-07T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46168/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "76f43775331d",
@@ -1255,6 +881,94 @@
       "longitude": -78.8986
     },
     {
+      "id": "28451c3e30dd",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-06-08T17:00:00",
+      "location": "Duke Chapel Quad",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "7d7a5aa27767",
+      "title": "ADF presents BODYTRAFFIC Unplugged",
+      "date": "2026-06-08T19:00:00",
+      "location": "Bryan Center Reynolds Industries Theater",
+      "description": "Program: Schachmatt, Coalescence, Incense Burning on a Saturday Morning: The Maestro Running time: 60 minutes, no intermission Tickets: Sliding scale of $10 / $20 / $30 Experience this ADF performance",
+      "source": "Duke Events",
+      "url": "https://americandancefestival.org/event/bodytraffic-unplugged/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "670cc3bc15ca",
+      "title": "Hematology Case Conference:",
+      "date": "2026-06-09T08:00:00",
+      "location": "Duke South, Room M224",
+      "description": "This weekly conference is held each Tuesday from 8-9 a.m. and includes case-based presentations on a wide variety of topics in hematology. In general, discussion will cover inpatient and outpatient pr",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "1e1390db327b",
+      "title": "Baby Time Meet-up",
+      "date": "2026-06-09T10:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46238/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "b8e92ebbdc6b",
+      "title": "Story Explorers",
+      "date": "2026-06-09T11:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46243/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "8ba819f33e61",
+      "title": "Webinar: Learn More About the Duke Advantage HDHP and Health Savings Account",
+      "date": "2026-06-09T13:00:00",
+      "location": "None",
+      "description": "In January of 2026, the Duke Health Plans introduced a new High Deductible Health Plan (HDHP)- Duke Advantage plan that is paired with a Health Savings Account (HSA) administered by Fidelity Investmen",
+      "source": "Duke Events",
+      "url": "https://duke.zoom.us/meeting/register/vCi7pUx8TvatbCoOfaNQ4g",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "a2bb4deefbff",
+      "title": "Mindful Moment",
+      "date": "2026-06-09T14:00:00",
+      "location": "Webcast",
+      "description": "Every Tuesday at 2 p.m., take a moment to relax, recharge, and re-center yourself with Mindful Moment, a group mindfulness program offered by LIVE FOR LIFE. During these quick, 15-minute sessions, you",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/webinars/mindfulness/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "ba0f1b0de1c3",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-06-09T17:00:00",
+      "location": "Duke Chapel Quad",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "393a7fc024c8",
       "title": "Killswitch Engage",
       "date": "2026-06-09T17:30:00",
@@ -1264,6 +978,39 @@
       "url": "https://www.ticketmaster.com/killswitch-engage-raleigh-north-carolina-06-09-2026/event/2D006459DAB2C37F",
       "latitude": 35.8468,
       "longitude": -78.6379
+    },
+    {
+      "id": "0abdc659f74c",
+      "title": "UNC Postdoctoral Association's Research Cafe",
+      "date": "2026-06-09T18:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/unc-postdoctoral-associations-research-cafe-9413",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
+      "id": "65775f0668db",
+      "title": "WHAT IS THE GOSPEL? A Four Week Study in Isaiah",
+      "date": "2026-06-09T19:00:00",
+      "location": "None",
+      "description": "When we think of the Gospel, or the \"Good News,\" we might think of Jesus in the book of Mark, preaching throughout Galilee: \"Repent and believe the good news...\" In some Christian traditions, the Gosp",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "74308b8422a8",
+      "title": "Museum Admission",
+      "date": "2026-06-09T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46157/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "755ba57847ac",
@@ -1288,6 +1035,39 @@
       "longitude": -79.0521
     },
     {
+      "id": "d2619500f7b4",
+      "title": "Duke Anesthesiology Grand Rounds - \"Anesthesiology Morbidity & Mortality Conference\"",
+      "date": "2026-06-10T07:00:00",
+      "location": "Duke North, Room 2001",
+      "description": "Department of Anesthesiology Grand Rounds on Wednesdays from 7 to 8am. | This activity has been planned and implemented by the Duke University Health System Department of Clinical Education and Profes",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "d8efda21d4d5",
+      "title": "Duke GI Grand Rounds",
+      "date": "2026-06-10T08:00:00",
+      "location": "Virtual",
+      "description": "Duke GI Grand Rounds is a weekly educational conference with a focus on clinical and research topics, issues and advances related to Gastroenterology and Hepatology.",
+      "source": "Duke Events",
+      "url": "https://medicine.duke.edu/gigr",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "8a8d24dfb150",
+      "title": "M&M Cases",
+      "date": "2026-06-10T08:00:00",
+      "location": "None",
+      "description": "Guest speakers and discussion of cases relevant to the Duke Department of Dermatology.",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "3e2b23ea4b98",
       "title": "AI Unfiltered",
       "date": "2026-06-10T09:00:00",
@@ -1297,6 +1077,116 @@
       "url": "https://calendar.unc.edu/event/ai-unfiltered",
       "latitude": 35.9132,
       "longitude": -79.0558
+    },
+    {
+      "id": "4e8eea7e8f3d",
+      "title": "Mobile Health Assessment",
+      "date": "2026-06-10T10:00:00",
+      "location": "None",
+      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/health-assessments/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "196c23b53f98",
+      "title": "Oceans: Our Blue Planet 3D",
+      "date": "2026-06-10T10:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45543/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "a374afb83ab3",
+      "title": "Mini Mental Makeover",
+      "date": "2026-06-10T12:00:00",
+      "location": "Webcast",
+      "description": "Duke Personal Assistance Service (PAS) provides a Mini Mental Makeover session each month through Health Matters. These sessions allow you space to slow down, reflect, and grow in gratitude in an onli",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/health-wellness/webinars/mini-mental-makeover/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "ca6e7e4ab459",
+      "title": "Duke University School of Medicine State of the School Address: Advancing Health Through AI: The Future at Duke",
+      "date": "2026-06-10T12:00:00",
+      "location": "Trent Semans Center for Health Education - Great Hall",
+      "description": "How is AI reshaping the future of health discovery, education, and care at Duke? At this year's State of the School address, Dean Mary Klotman will explore how our community is harnessing artificial i",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "7edd70da776a",
+      "title": "Dissertation Announcement: John Wang",
+      "date": "2026-06-10T12:00:00",
+      "location": "None",
+      "description": "Dissertation Title: Development of a Immunostimulatory ADC Platform for Synergistic Tumor Targeting and Immune Activation",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "1ef6c38b9168",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-06-10T17:00:00",
+      "location": "Duke Chapel Quad",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "e33658ce2070",
+      "title": "Duke Law Alumni & Students Summer Gathering in Chicago",
+      "date": "2026-06-10T17:00:00",
+      "location": "None",
+      "description": "Duke Law alumni and students are invited to join us for a summer reception in Chicago. This is a great opportunity for students and alumni to meet, connect, and celebrate the local Duke Law community.",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "192a1b21d74c",
+      "title": "Last day to withdraw with W from Term 1 classes (undergraduates only)",
+      "date": "2026-06-10T19:00:00",
+      "location": "None",
+      "description": "Last day to withdraw with W from Term 1 classes (undergraduates only)",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "e6c1dc85e316",
+      "title": "Arts on East: Brandon Woody\u2019s UPENDO",
+      "date": "2026-06-10T19:00:00",
+      "location": "East Campus",
+      "description": "Trumpeter, composer, and bandleader Brandon Woody brings a set shaped by the rich lineage of Black music, drawing from gospel and jazz to explore themes of love, resilience, and community. Hailed by T",
+      "source": "Duke Events",
+      "url": "https://arts.duke.edu/events/arts-on-east-brandon-woodys-upendo/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "721d14ec550f",
+      "title": "Museum Admission",
+      "date": "2026-06-10T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46158/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "9017c3c15651",
@@ -1341,6 +1231,39 @@
       "url": "https://catscradle.com/event/vundabar-gawk-10-year-anniversary-tour/motorco-music-hall/durham-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "b2795f44cc4e",
+      "title": "Personality & Effective Communication (In-Person)",
+      "date": "2026-06-11T09:00:00",
+      "location": "None",
+      "description": "For employees of Duke University and DUHS. Continuing Education Credits (CEUs): 0.3 Using social capital as a focusing concept, the class highlights the importance of communication for building positi",
+      "source": "Duke Events",
+      "url": "https://duke.qualtrics.com/jfe/form/SV_9yippRH1wyDRphttps://duke.sabacloud.com/Saba/Web_spf/NA7P2PRD024/common/ledetail/LOD-I-ONLINE-1140/latestversionat",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "298bd3de2ab0",
+      "title": "Community Work Day",
+      "date": "2026-06-11T09:00:00",
+      "location": "Duke Campus Farm",
+      "description": "Come join us in the fields to lose track of time, be outdoors, practice embodied work, and experience profound community with plants, soil, and humans! Our students, volunteers, and staff consistently",
+      "source": "Duke Events",
+      "url": "https://docs.google.com/spreadsheets/d/1egSCE36jlZVnv1VHq_M105fGkoFyxGVVdGTNFEArTRc/edit?gid=226814629#gid=226814629",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "635f86361725",
+      "title": "Summer Research Workshop: How to Read a Scientific Paper",
+      "date": "2026-06-11T09:00:00",
+      "location": "Perkins Library, Korman Assembly Room, 217",
+      "description": "Reading scientific literature can feel overwhelming when you're first getting started. In this workshop, you'll learn practical strategies for breaking down research articles, identifying key takeaway",
+      "source": "Duke Events",
+      "url": "https://undergraduateresearch.duke.edu/events",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "3fca09217af3",
@@ -1937,6 +1860,28 @@
       "longitude": -78.6893
     },
     {
+      "id": "ac348548c310",
+      "title": "Broadway at DPAC's Open House",
+      "date": "2026-06-17T19:30:00",
+      "location": "DPAC, 123 Vivian St, Durham, NC",
+      "description": "",
+      "source": "DPAC",
+      "url": "https://www.dpacnc.com/events/detail/open-house-26",
+      "latitude": 35.9942,
+      "longitude": -78.903
+    },
+    {
+      "id": "53196d875717",
+      "title": "More Info",
+      "date": "2026-06-17T19:30:00",
+      "location": "DPAC, 123 Vivian St, Durham, NC",
+      "description": "",
+      "source": "DPAC",
+      "url": "https://www.dpacnc.com/events/detail/open-house-26",
+      "latitude": 35.9942,
+      "longitude": -78.903
+    },
+    {
       "id": "cdd5cf13a282",
       "title": "Leanna Firestone",
       "date": "2026-06-17T20:00:00",
@@ -1968,6 +1913,28 @@
       "url": "https://www.nhl.com/hurricanes/schedule",
       "latitude": 35.8033,
       "longitude": -78.7228
+    },
+    {
+      "id": "f5fc80482e89",
+      "title": "RAPP Study Group: Lessons Learned from Training Grants",
+      "date": "2026-06-18T12:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/rapp-study-group-lessons-learned-from-training-grants",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
+      "id": "4968db9a76c0",
+      "title": "Special Public Tour: World Cup",
+      "date": "2026-06-18T13:00:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/special-public-tour-world-cup/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
     },
     {
       "id": "bf78281f5074",
@@ -2089,6 +2056,17 @@
       "url": "https://www.milb.com/durham",
       "latitude": 35.9883,
       "longitude": -78.8986
+    },
+    {
+      "id": "e3dfe8bb2f0c",
+      "title": "Park Tour: Art and Sculpture",
+      "date": "2026-06-20T09:00:00",
+      "location": "Museum Park, Welcome Center",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/park-tour-art-and-sculpture/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
     },
     {
       "id": "ca16f3ede133",
@@ -2694,17 +2672,6 @@
       "url": "https://www.redhatamphitheater.com/events/detail/lindsey-stirling",
       "latitude": 35.7737,
       "longitude": -78.6383
-    },
-    {
-      "id": "379b1a05f291",
-      "title": "Earl Sweatshirt & MIKE Home on the Range Tour 2026",
-      "date": "2026-07-17T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/earl-sweatshirt-mike-home-on-the-raleigh-north-carolina-07-17-2026/event/2D006464D655945A",
-      "latitude": 35.8468,
-      "longitude": -78.6379
     },
     {
       "id": "47198af3621d",
@@ -3389,6 +3356,17 @@
       "longitude": -79.0758
     },
     {
+      "id": "88849dd83171",
+      "title": "FattMack",
+      "date": "2026-08-20T20:00:00",
+      "location": "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
+      "description": "",
+      "source": "Lincoln Theatre",
+      "url": "https://lincolntheatre.com/event/fattmack-the-mckenzie-tour-2-0/lincoln-theatre/raleigh-north-carolina/",
+      "latitude": 35.774,
+      "longitude": -78.6376
+    },
+    {
       "id": "8c228e6364c6",
       "title": "Guardians of the Jukebox (The Greatest 80s Show on Earth)",
       "date": "2026-08-21T20:00:00",
@@ -3398,6 +3376,17 @@
       "url": "https://lincolntheatre.com/event/guardians-of-the-jukebox-the-greatest-80s-show-on-earth/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "fb93cc41eca2",
+      "title": "Jordan Davis",
+      "date": "2026-08-21T20:00:00",
+      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "description": "",
+      "source": "Red Hat Amphitheater",
+      "url": "https://www.redhatamphitheater.com/events/detail/jordan-davis",
+      "latitude": 35.7737,
+      "longitude": -78.6383
     },
     {
       "id": "c9dc54ba2791",
@@ -3807,6 +3796,28 @@
       "longitude": -79.0758
     },
     {
+      "id": "a7a91e3a424b",
+      "title": "Margaret Glaspy \u2013 The I Am Both Tour",
+      "date": "2026-09-22T20:00:00",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
+      "description": "",
+      "source": "Cat's Cradle",
+      "url": "https://catscradle.com/event/margaret-glaspy-the-i-am-both-tour/cats-cradle/carrboro-north-carolina/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
+    },
+    {
+      "id": "16b84d873300",
+      "title": "Taste Of Chaos",
+      "date": "2026-09-23T16:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/taste-of-chaos-raleigh-north-carolina-09-23-2026/event/2D0064BCB15847FA",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "83ef1de448e6",
       "title": "Son Little",
       "date": "2026-09-23T20:00:00",
@@ -3827,6 +3838,17 @@
       "url": "https://catscradle.com/event/damien-jurado/cats-cradle-back-room/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "16d2afaa2190",
+      "title": "W.A.S.P. -1984 TO HEADLESS",
+      "date": "2026-09-25T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/wasp-1984-to-headless-raleigh-north-carolina-09-25-2026/event/2D00643DD04D4551",
+      "latitude": 35.8468,
+      "longitude": -78.6379
     },
     {
       "id": "962136b26a23",
@@ -4038,6 +4060,17 @@
       "longitude": -79.0758
     },
     {
+      "id": "6894f8024013",
+      "title": "Dana and Alden",
+      "date": "2026-10-30T20:00:00",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
+      "description": "",
+      "source": "Cat's Cradle",
+      "url": "https://catscradle.com/event/dana-and-alden/cats-cradle-back-room/carrboro-north-carolina/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
+    },
+    {
       "id": "00d6da0567df",
       "title": "Saxsquatch",
       "date": "2026-10-31T20:00:00",
@@ -4078,6 +4111,17 @@
       "description": "",
       "source": "Cat's Cradle",
       "url": "https://catscradle.com/event/aaron-lee-tasjan-2/cats-cradle-back-room/carrboro-north-carolina/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
+    },
+    {
+      "id": "cd2ff12dbaac",
+      "title": "The Afghan Whigs",
+      "date": "2026-11-07T20:00:00",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
+      "description": "",
+      "source": "Cat's Cradle",
+      "url": "https://catscradle.com/event/the-afghan-whigs-2/cats-cradle/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
     },
@@ -4291,8 +4335,8 @@
       "longitude": -79.0505
     }
   ],
-  "last_updated": "2026-06-03T10:29:12.797501",
-  "total_events": 390,
+  "last_updated": "2026-06-05T09:01:10.536819",
+  "total_events": 394,
   "sources": [
     "Manual Events",
     "Visit Raleigh",
@@ -4323,22 +4367,22 @@
     "Visit Raleigh": 0,
     "Indy Week": 0,
     "Visit Durham": 0,
-    "Chapelboro": 2,
-    "DPAC": 16,
+    "Chapelboro": 0,
+    "DPAC": 18,
     "NC Museum of Art": 29,
-    "Cat's Cradle": 91,
+    "Cat's Cradle": 92,
     "Lincoln Theatre": 48,
     "Raleigh Arts": 0,
-    "Duke Events": 35,
-    "UNC Events": 3,
+    "Duke Events": 39,
+    "UNC Events": 4,
     "NC State Events": 1,
     "Marbles Kids Museum": 29,
     "Morehead Planetarium": 30,
     "Raleigh Little Theatre": 2,
     "PlayMakers Rep": 6,
     "Artspace Raleigh": 0,
-    "Durham Bulls": 44,
-    "Carolina Hurricanes": 3,
+    "Durham Bulls": 42,
+    "Carolina Hurricanes": 2,
     "Booth Amphitheatre": 20,
     "Red Hat Amphitheater": 11,
     "The Ritz": 25
