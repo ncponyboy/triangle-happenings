@@ -1,479 +1,6 @@
 {
   "events": [
     {
-      "id": "46fd04a7c6de",
-      "title": "Chemistry Defense: Yueqi Chen:\"Mass spectrometry-based proteomic approach for thermodynamic analysis of both global and local protein unfolding\"",
-      "date": "2026-07-15T09:30:00",
-      "location": "None",
-      "description": "Mass spectrometry-based proteomic approach for thermodynamic analysis of both global and local protein unfolding Mass spectrometry-based protein stability measurements have become powerful tools for a",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "cb2c56e9db5a",
-      "title": "Mobile Health Assessment",
-      "date": "2026-07-15T10:00:00",
-      "location": "None",
-      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
-      "source": "Duke Events",
-      "url": "https://hr.duke.edu/wellness/health-assessments/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "1adf63549d12",
-      "title": "DukeALERT Test",
-      "date": "2026-07-15T10:00:00",
-      "location": "None",
-      "description": "As part of Duke's ongoing emergency management efforts, the DukeALERT notification system is tested regularly every year to assess technical and operational capabilities and help shape expectations an",
-      "source": "Duke Events",
-      "url": "https://today.duke.edu/2026/07/dukealert-emergency-test-scheduled-july-15-2026",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "7ef4688db286",
-      "title": "Magic Tree House Space Mission",
-      "date": "2026-07-15T10:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/magic-tree-house-space-mission-289/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "18175c30e8ca",
-      "title": "Journey to Space 3D",
-      "date": "2026-07-15T11:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45593/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "9461c98e0980",
-      "title": "MMCi - Talk to the Director",
-      "date": "2026-07-15T12:00:00",
-      "location": "Virtual",
-      "description": "Learn about the MMCi program format and career impact. Register at: https://duke.zoom.us/meeting/register/UHLluRbaQIaILwWejjgENg",
-      "source": "Duke Events",
-      "url": "https://duke.zoom.us/meeting/register/UHLluRbaQIaILwWejjgENg",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "015725201ca3",
-      "title": "Intention-Setting to Transform Your Life",
-      "date": "2026-07-15T12:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/intention-setting-to-transform-your-life-2340",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "157e28f68694",
-      "title": "Superpower Dogs 3D",
-      "date": "2026-07-15T12:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45843/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "6908ec5eb281",
-      "title": "Astronaut",
-      "date": "2026-07-15T12:00:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/astronaut-183/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "cb5f5bab3f33",
-      "title": "3-Minute Thesis Preliminary Round",
-      "date": "2026-07-15T13:00:00",
-      "location": "Teer 203",
-      "description": "Duke PhD students will present their research in 3 minutes. A panel of judges will score them on a rubric. The Top 10 finalists will compete for cash prizes on Aug. 4.",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "4fe89b92ba7c",
-      "title": "Moana Live Action",
-      "date": "2026-07-15T13:30:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46706/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "d03926e26c94",
-      "title": "Earthquakes, Volcanoes, and Tsunamis",
-      "date": "2026-07-15T13:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/earthquakes-volcanoes-and-tsunamis-182/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "9a11d7c21661",
-      "title": "Nature Navigators",
-      "date": "2026-07-15T14:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46284/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "7fec0f667856",
-      "title": "World Cup Watch Party at Hunt Library",
-      "date": "2026-07-15T15:00:00",
-      "location": "NC State University, Raleigh, NC",
-      "description": "",
-      "source": "NC State Events",
-      "url": "https://calendar.ncsu.edu/event/world-cup-watch-party-at-hunt-library",
-      "latitude": 35.7847,
-      "longitude": -78.6821
-    },
-    {
-      "id": "f1a9a16e34df",
-      "title": "Mars: The Ultimate Voyage",
-      "date": "2026-07-15T15:00:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/mars-the-ultimate-voyage-218/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "f69c50b8463a",
-      "title": "GI Research Conference",
-      "date": "2026-07-15T17:00:00",
-      "location": "Virtual",
-      "description": "The GI Research Conference is a monthly conference that highlights ongoing research by various Duke and external investigators, including fellows, to allow discussion of both specific goals and long-t",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "5839661ced83",
-      "title": "Sensory Friendly Playtime",
-      "date": "2026-07-15T17:30:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46808/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "544de16c132c",
-      "title": "Mindful Museum: Summer Meditative Moments with Art",
-      "date": "2026-07-15T18:00:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission $18 Members $16 Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/mindful-museum-summer-meditative-moments-with-art/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "35be2d160742",
-      "title": "2026-2027 Ignite Makers Program Application Deadline",
-      "date": "2026-07-15T19:00:00",
-      "location": "None",
-      "description": "The Ignite Makers Program is a free program that runs from September through April each year for high school students. This program challenges students to use Human-Centered and Engineering Design pro",
-      "source": "Duke Events",
-      "url": "https://www.gwht-ignite-learning.com/makers-program",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "e962b0d10c92",
-      "title": "Museum Admission",
-      "date": "2026-07-15T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46200/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "c31fb4aec39c",
-      "title": "ADF presents Paul Taylor Dance Company",
-      "date": "2026-07-15T19:30:00",
-      "location": "Page Auditorium",
-      "description": "ADF Co-commissioned World Premiere Program: Clair de Lune by Jody Sperling, New work by Pam Tanowitz, ...Byzantium by Paul Taylor, Under the Rhythm by Robert Battle Running time: 95 minutes, includes ",
-      "source": "Duke Events",
-      "url": "https://americandancefestival.org/event/paul-taylor-dance-company-4/2026-07-15/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "2db23ade4cbb",
-      "title": "Summer Research Workshop: Self-Efficacy in Research",
-      "date": "2026-07-16T09:00:00",
-      "location": "Perkins Library, Korman Assembly Room, 217",
-      "description": "Building confidence in your abilities is key to navigating setbacks and staying motivated as a researcher. This workshop will explore strategies for developing self-efficacy in research, including goa",
-      "source": "Duke Events",
-      "url": "https://undergraduateresearch.duke.edu/events",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "9a0834b5a986",
-      "title": "Community Work Day",
-      "date": "2026-07-16T09:00:00",
-      "location": "Duke Campus Farm",
-      "description": "Come join us in the fields to lose track of time, be outdoors, practice embodied work, and experience profound community with plants, soil, and humans! Our students, volunteers, and staff consistently",
-      "source": "Duke Events",
-      "url": "https://docs.google.com/spreadsheets/d/1egSCE36jlZVnv1VHq_M105fGkoFyxGVVdGTNFEArTRc/edit?gid=226814629#gid=226814629",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "4807d81e8a03",
-      "title": "Mentor Morning",
-      "date": "2026-07-16T09:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/mentor-morning",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "fcbd336c6667",
-      "title": "Mindful Movement",
-      "date": "2026-07-16T10:00:00",
-      "location": "Webcast",
-      "description": "Every Thursday at 10 a.m., add some movement to your mindfulness practice with Mindful Movement. The 15-minute Zoom sessions will combine movement, breathwork, visualization and intention to create a ",
-      "source": "Duke Events",
-      "url": "https://hr.duke.edu/wellness/webinars/mindfulness/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "e96b85b62f13",
-      "title": "Earth, Moon and Sun",
-      "date": "2026-07-16T10:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/earth-moon-and-sun-207/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "e10d302a7671",
-      "title": "Mobile Health Assessment",
-      "date": "2026-07-16T11:00:00",
-      "location": "None",
-      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
-      "source": "Duke Events",
-      "url": "https://hr.duke.edu/wellness/health-assessments/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "ed506c58e6dc",
-      "title": "Duke Farmers Market",
-      "date": "2026-07-16T11:00:00",
-      "location": "None",
-      "description": "Join us for the Duke Farmers Market! Here you can: Find farm fresh fruits, vegetables, and other local goods at a convenient location. Enjoy a relaxed atmosphere while learning about local food system",
-      "source": "Duke Events",
-      "url": "https://hr.duke.edu/wellness/farmers-market/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "728d92b6cbf2",
-      "title": "Wild Rescue 3D",
-      "date": "2026-07-16T11:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46734/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "73df0abe474a",
-      "title": "T. REX 3D",
-      "date": "2026-07-16T12:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/45547/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "585de0897486",
-      "title": "Solar System Odyssey",
-      "date": "2026-07-16T12:00:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/solar-system-odyssey-102/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "600fbf82d0ed",
-      "title": "Public Tour",
-      "date": "2026-07-16T13:00:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/public-tour-3/2026-07-16/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "c5af60631a2d",
-      "title": "Dissertation Defense: Trevor Alston: O-SPLAT! Uncovering latent structure in Oscillatory Neural Data",
-      "date": "2026-07-16T13:00:00",
-      "location": "Bryan Research 103",
-      "description": "Trevor Alston is in John Pearson Lab. O-SPLAT! Uncovering latent structure in Oscillatory Neural Data",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "5ba3209eb197",
-      "title": "Cities of the Future 3D",
-      "date": "2026-07-16T13:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46735/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "0042e7b621e3",
-      "title": "Mysteries of Your Brain",
-      "date": "2026-07-16T13:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/mysteries-of-your-brain-98/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "25339a376272",
-      "title": "Artrageous",
-      "date": "2026-07-16T14:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46326/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "f16313e45b62",
-      "title": "The Odyssey",
-      "date": "2026-07-16T14:10:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46488/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "4abdb79e7421",
-      "title": "Supermassive Black Holes",
-      "date": "2026-07-16T15:00:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/supermassive-black-holes-125/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "38bc2da10bed",
-      "title": "NCMA After Hours",
-      "date": "2026-07-16T17:30:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share: Thank you to our After Hours Lead Sponsor, First Citizens Bank",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/ncma-after-hours/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "d18d93e5bca8",
-      "title": "Garden Gourmet",
-      "date": "2026-07-16T17:30:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46402/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "f059503d2725",
-      "title": "Museum Admission",
-      "date": "2026-07-16T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46717/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "e825da309d1a",
-      "title": "ADF presents Paul Taylor Dance Company",
-      "date": "2026-07-16T19:30:00",
-      "location": "Page Auditorium",
-      "description": "ADF Co-commissioned World Premiere Program: Clair de Lune by Jody Sperling, New work by Pam Tanowitz, ...Byzantium by Paul Taylor, Under the Rhythm by Robert Battle Running time: 95 minutes, includes ",
-      "source": "Duke Events",
-      "url": "https://americandancefestival.org/event/paul-taylor-dance-company-4/2026-07-15/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "2515b62c9e1e",
-      "title": "Hank Sinatra, Ramona & the Holy Smokes, Charles Latham & the Borrowed Band",
-      "date": "2026-07-16T20:00:00",
-      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
-      "description": "",
-      "source": "Cat's Cradle",
-      "url": "https://catscradle.com/event/hank-sinatra-ramona-the-holy-smokes-charles-latham-the-borrowed-band/cats-cradle-back-room/carrboro-north-carolina/",
-      "latitude": 35.9094,
-      "longitude": -79.0758
-    },
-    {
       "id": "05f735b525c2",
       "title": "Buena Vista Social Club",
       "date": "2026-07-17T10:00:00",
@@ -540,17 +67,6 @@
       "longitude": -78.635
     },
     {
-      "id": "e48e5254beb0",
-      "title": "Blue Devil Toastmasters Online Meeting",
-      "date": "2026-07-17T12:00:00",
-      "location": "Virtual",
-      "description": "Toastmasters provides a supportive environment to practice the skills you need to communicate with confidence. It all starts with a fun club atmosphere where members learn and practice together. You a",
-      "source": "Duke Events",
-      "url": "https://bluedevil.toastmastersclubs.org/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
       "id": "9af776bd4caf",
       "title": "Pathology Grand Rounds - Modernizing Pathology: Implementing Digital Pathology to Enhance Duke's Tripartite Mission",
       "date": "2026-07-17T12:00:00",
@@ -558,6 +74,17 @@
       "description": "At the conclusion of this activity, learners should be able to: * Describe the components that interact to create a digital pathology ecosystem * Identify digital pathology resources at Duke for resea",
       "source": "Duke Events",
       "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "e48e5254beb0",
+      "title": "Blue Devil Toastmasters Online Meeting",
+      "date": "2026-07-17T12:00:00",
+      "location": "Virtual",
+      "description": "Toastmasters provides a supportive environment to practice the skills you need to communicate with confidence. It all starts with a fun club atmosphere where members learn and practice together. You a",
+      "source": "Duke Events",
+      "url": "https://bluedevil.toastmastersclubs.org/",
       "latitude": 35.994,
       "longitude": -78.8986
     },
@@ -661,6 +188,17 @@
       "longitude": -78.6893
     },
     {
+      "id": "fae992a86ae9",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-07-17T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "35c73526c86c",
       "title": "Museum Admission",
       "date": "2026-07-17T19:00:00",
@@ -747,17 +285,6 @@
       "url": "https://moreheadplanetarium.org/calendar/magic-tree-house-space-mission-291/",
       "latitude": 35.9133,
       "longitude": -79.0521
-    },
-    {
-      "id": "5ce0bd426e32",
-      "title": "Art on the Dot",
-      "date": "2026-07-18T11:00:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/art-on-the-dot-3/2026-07-18/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
     },
     {
       "id": "d383cb372cc6",
@@ -958,15 +485,15 @@
       "longitude": -78.8986
     },
     {
-      "id": "527cec3dba25",
-      "title": "Art on the Dot",
-      "date": "2026-07-19T11:00:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/art-on-the-dot-3/2026-07-19/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
+      "id": "9050f567be00",
+      "title": "Guest Star: Art",
+      "date": "2026-07-19T10:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46615/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "ad9f9e3bf968",
@@ -980,6 +507,28 @@
       "longitude": -78.8986
     },
     {
+      "id": "e3ffc7ff6fcd",
+      "title": "Guest Star: Fitness",
+      "date": "2026-07-19T11:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/47310/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "56eff6179ff8",
+      "title": "Superpower Dogs 3D",
+      "date": "2026-07-19T11:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46739/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "139056349864",
       "title": "Pop-Up Art: Figure Drawing",
       "date": "2026-07-19T12:00:00",
@@ -989,6 +538,28 @@
       "url": "https://ncartmuseum.org/event/pop-up-art-figure-drawing-2/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "f6b898cfc353",
+      "title": "T. REX 3D",
+      "date": "2026-07-19T12:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46740/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "58efde235508",
+      "title": "Science Solvers",
+      "date": "2026-07-19T12:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46358/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "862d36f223ea",
@@ -1002,6 +573,17 @@
       "longitude": -78.6893
     },
     {
+      "id": "184924c6db3d",
+      "title": "The Blue Angels 3D",
+      "date": "2026-07-19T13:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46741/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "f9405082d316",
       "title": "We Are Stars",
       "date": "2026-07-19T13:30:00",
@@ -1011,6 +593,39 @@
       "url": "https://moreheadplanetarium.org/calendar/we-are-stars-212/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "b1d6ab20fbf9",
+      "title": "FIFA Men's World Cup Final Watch Party at Witherspoon",
+      "date": "2026-07-19T14:00:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/fifa-mens-world-cup-final-watch-party",
+      "latitude": 35.7847,
+      "longitude": -78.6821
+    },
+    {
+      "id": "db2652a2b2ab",
+      "title": "The Odyssey",
+      "date": "2026-07-19T14:10:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46640/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "93cc49785b42",
+      "title": "Art on the Dot",
+      "date": "2026-07-19T14:30:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/art-on-the-dot-3/2026-07-19/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
     },
     {
       "id": "ddfb8b7b848e",
@@ -1033,6 +648,17 @@
       "url": "https://moreheadplanetarium.org/calendar/one-sky-many-eyes-180/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "57d180fb0acc",
+      "title": "Museum Admission",
+      "date": "2026-07-19T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46224/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "0bba5235be94",
@@ -1134,6 +760,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "c0791c2746dd",
+      "title": "Baby Time Meet-up",
+      "date": "2026-07-20T10:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46295/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "28378483231b",
       "title": "3-Minute Thesis Preliminary Rounds",
       "date": "2026-07-20T11:00:00",
@@ -1143,6 +780,17 @@
       "url": "https://calendar.duke.edu",
       "latitude": 35.994,
       "longitude": -78.8986
+    },
+    {
+      "id": "a0c5da64303a",
+      "title": "Story Explorers",
+      "date": "2026-07-20T11:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46312/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "48f93c5542e8",
@@ -1165,6 +813,28 @@
       "url": "https://calendar.duke.edu",
       "latitude": 35.994,
       "longitude": -78.8986
+    },
+    {
+      "id": "b7cf1c659f5e",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-07-20T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "4307fd25a926",
+      "title": "Museum Admission",
+      "date": "2026-07-20T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46188/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "4ce1fd092a76",
@@ -1288,6 +958,17 @@
       "longitude": -79.0521
     },
     {
+      "id": "851b7db6e7d0",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-07-21T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "562b634eb76f",
       "title": "5th North American Conference on Trapped Ions",
       "date": "2026-07-21T19:00:00",
@@ -1346,7 +1027,7 @@
       "id": "757f1fd53a16",
       "title": "Mindful Story Time",
       "date": "2026-07-22T10:30:00",
-      "location": "West Building",
+      "location": "Museum Park",
       "description": "/ Events / Events Events Overview General Admission Free Share:",
       "source": "NC Museum of Art",
       "url": "https://ncartmuseum.org/event/mindful-story-time/",
@@ -1363,6 +1044,17 @@
       "url": "https://moreheadplanetarium.org/calendar/magic-tree-house-space-mission-292/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "2d978815f11e",
+      "title": "Managing Data, Writing and Publishing your Review (Class 6 of 8 in the Systematic Review Summer Workshop Series)",
+      "date": "2026-07-22T12:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/managing-data-writing-and-publishing-your-review-class-6-of-8-in-the-systematic-review-summer-workshop-series",
+      "latitude": 35.9132,
+      "longitude": -79.0558
     },
     {
       "id": "0f704ea8beb7",
@@ -1398,6 +1090,28 @@
       "longitude": -79.0521
     },
     {
+      "id": "1c8003f16945",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-07-22T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "8f9b51a36b63",
+      "title": "ADF presents Li Chiao-Ping Dance",
+      "date": "2026-07-22T19:30:00",
+      "location": "Bryan Center Reynolds Industries Theater",
+      "description": "ADF Debut Program: Dirty Laundry Running time: 65 minutes, no intermission Tickets: $30 Tickets are purchased through Duke University's Box Office. Post-Performance Discussion Company Website: https:/",
+      "source": "Duke Events",
+      "url": "https://americandancefestival.org/event/li-chiao-ping-dance/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "fb506394a6ac",
       "title": "Willis w/ Pretty Jane / The Flooks",
       "date": "2026-07-22T20:00:00",
@@ -1407,6 +1121,39 @@
       "url": "https://lincolntheatre.com/event/willis-w-pretty-jane-the-flooks/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "d304271678bc",
+      "title": "Summer Research Workshop: Science Careers/PhD Student Panel",
+      "date": "2026-07-23T09:00:00",
+      "location": "Perkins Library, Korman Assembly Room, 217",
+      "description": "Considering applying to Grad School? Want to see explore science career pathways? We'll bring in folks with first-hand experience. Bring your questions about grad school admissions, finding the perfec",
+      "source": "Duke Events",
+      "url": "https://undergraduateresearch.duke.edu/events",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "81a74d1082b4",
+      "title": "Community Work Day",
+      "date": "2026-07-23T09:00:00",
+      "location": "Duke Campus Farm",
+      "description": "Come join us in the fields to lose track of time, be outdoors, practice embodied work, and experience profound community with plants, soil, and humans! Our students, volunteers, and staff consistently",
+      "source": "Duke Events",
+      "url": "https://docs.google.com/spreadsheets/d/1egSCE36jlZVnv1VHq_M105fGkoFyxGVVdGTNFEArTRc/edit?gid=226814629#gid=226814629",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "54ad79bbb64b",
+      "title": "Mindful Movement",
+      "date": "2026-07-23T10:00:00",
+      "location": "Webcast",
+      "description": "Every Thursday at 10 a.m., add some movement to your mindfulness practice with Mindful Movement. The 15-minute Zoom sessions will combine movement, breathwork, visualization and intention to create a ",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/webinars/mindfulness/",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "0a61aa991eae",
@@ -1420,6 +1167,39 @@
       "longitude": -79.0521
     },
     {
+      "id": "dfb096469f98",
+      "title": "Mobile Health Assessment",
+      "date": "2026-07-23T11:00:00",
+      "location": "None",
+      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/health-assessments/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "08e51ed356fc",
+      "title": "Duke Farmers Market",
+      "date": "2026-07-23T11:00:00",
+      "location": "None",
+      "description": "Join us for the Duke Farmers Market! Here you can: Find farm fresh fruits, vegetables, and other local goods at a convenient location. Enjoy a relaxed atmosphere while learning about local food system",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/farmers-market/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "91b5ab87b1bb",
+      "title": "Solar System Odyssey",
+      "date": "2026-07-23T12:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/solar-system-odyssey-104/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
       "id": "f5cd90b05ab6",
       "title": "Public Tour",
       "date": "2026-07-23T13:00:00",
@@ -1429,6 +1209,50 @@
       "url": "https://ncartmuseum.org/event/public-tour-3/2026-07-23/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "80576096c149",
+      "title": "Mysteries of Your Brain",
+      "date": "2026-07-23T13:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/mysteries-of-your-brain-100/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "9914d2af69ae",
+      "title": "Supermassive Black Holes",
+      "date": "2026-07-23T15:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/supermassive-black-holes-128/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "ea5800111ff1",
+      "title": "Duke CTPM Seminar Series",
+      "date": "2026-07-23T16:00:00",
+      "location": "None",
+      "description": "Presenter: Adam Goode PhD, Duke Department of Orthopedics | Hosted by: Dr. Shad Smith | Duke CTPM Seminar Series *note: special 4th week seminar @4pm*",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "797cbee773da",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-07-23T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "364b9cc564a1",
@@ -1462,6 +1286,72 @@
       "url": "https://www.redhatamphitheater.com/events/detail/buju-banton-stephen-marley",
       "latitude": 35.7737,
       "longitude": -78.6383
+    },
+    {
+      "id": "5005aac4855f",
+      "title": "Magic Tree House Space Mission",
+      "date": "2026-07-24T10:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/magic-tree-house-space-mission-293/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "b2113305f8f9",
+      "title": "Pathology Grand Rounds",
+      "date": "2026-07-24T12:00:00",
+      "location": "None",
+      "description": "Pathology Grand Rounds",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "eba49733a698",
+      "title": "Astronaut",
+      "date": "2026-07-24T12:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/astronaut-186/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "511454743e9b",
+      "title": "Earthquakes, Volcanoes, and Tsunamis",
+      "date": "2026-07-24T13:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/earthquakes-volcanoes-and-tsunamis-185/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "14d7051e48e9",
+      "title": "+Programs Poster Session and Finale",
+      "date": "2026-07-24T14:00:00",
+      "location": "Energy Hub Lobby, Gross Hall 100",
+      "description": "Come see the work participants in Data+, Climate+, Code+, CS+, Climate+, and Applied Ethics+ at our end of summer poster session finale! Each project team will share their 10 weeks of work over the su",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "8f95731032d7",
+      "title": "Mars: The Ultimate Voyage en Espa\u00f1ol",
+      "date": "2026-07-24T15:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/mars-the-ultimate-voyage-en-espanol/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
     },
     {
       "id": "7c8cb6448f88",
@@ -1541,6 +1431,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "e34d96d5b056",
+      "title": "Magic Tree House Space Mission",
+      "date": "2026-07-25T10:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/magic-tree-house-space-mission-294/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
       "id": "c5cfe5694852",
       "title": "Notes on View: Lynnette Barber and Will Ellis Blues Duo",
       "date": "2026-07-25T11:00:00",
@@ -1548,17 +1449,6 @@
       "description": "/ Events / Events Events Overview General Admission Free Share:",
       "source": "NC Museum of Art",
       "url": "https://ncartmuseum.org/event/notes-on-view-lynnette-barber-and-will-ellis-blues-duo/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "e960c85c8052",
-      "title": "Art on the Dot",
-      "date": "2026-07-25T11:00:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/art-on-the-dot-3/2026-07-25/",
       "latitude": 35.8027,
       "longitude": -78.6893
     },
@@ -1581,6 +1471,17 @@
       "description": "/ Events / Events Events Overview General Admission $10 Members $5 Share:",
       "source": "NC Museum of Art",
       "url": "https://ncartmuseum.org/event/intro-to-art-entrepreneurship/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "b735ce5148fa",
+      "title": "Art on the Dot",
+      "date": "2026-07-25T14:30:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/art-on-the-dot-3/2026-07-25/",
       "latitude": 35.8027,
       "longitude": -78.6893
     },
@@ -1618,17 +1519,6 @@
       "longitude": -78.6376
     },
     {
-      "id": "f803638c2e42",
-      "title": "Art on the Dot",
-      "date": "2026-07-26T11:00:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/art-on-the-dot-3/2026-07-26/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
       "id": "67e0ec6627a4",
       "title": "Public Tour",
       "date": "2026-07-26T13:00:00",
@@ -1636,6 +1526,17 @@
       "description": "/ Events / Events Events Overview General Admission Free Share:",
       "source": "NC Museum of Art",
       "url": "https://ncartmuseum.org/event/public-tour-2/2026-07-26/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "3b735476887d",
+      "title": "Art on the Dot",
+      "date": "2026-07-26T14:30:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/art-on-the-dot-3/2026-07-26/",
       "latitude": 35.8027,
       "longitude": -78.6893
     },
@@ -1662,8 +1563,41 @@
       "longitude": -78.6376
     },
     {
-      "id": "54df7ce1597a",
-      "title": "23rd Annual Qualitative Research Summer Intensisve",
+      "id": "6bd35d501b5e",
+      "title": "Summer Camp: Micro to Macro, ages 10\u201311",
+      "date": "2026-07-27T09:00:00",
+      "location": "East Building",
+      "description": "/ Events / Events Events Overview Tuition: $375 Members $350 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/summer-camp-micro-to-macro-ages-10-11/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "8242924d11b5",
+      "title": "Summer Camp: Micro to Macro, ages 8\u20139",
+      "date": "2026-07-27T09:00:00",
+      "location": "East Building",
+      "description": "/ Events / Events Events Overview Tuition: $375 Members $350 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/summer-camp-micro-to-macro-ages-8-9/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "095cd1fcbb2c",
+      "title": "Summer Camp: Micro to Macro, ages 6\u20137",
+      "date": "2026-07-27T09:00:00",
+      "location": "East Building",
+      "description": "/ Events / Events Events Overview Tuition: $375 Members $350 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/summer-camp-micro-to-macro-ages-6-7/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "9e6a662f2dee",
+      "title": "23rd Annual Qualitative Research Summer Intensive",
       "date": "2026-07-27T10:30:00",
       "location": "UNC Chapel Hill, Chapel Hill, NC",
       "description": "",
@@ -2718,17 +2652,6 @@
       "longitude": -78.6376
     },
     {
-      "id": "0f08ce0e362a",
-      "title": "Malcolm Todd",
-      "date": "2026-09-16T20:00:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/malcolm-todd",
-      "latitude": 35.7737,
-      "longitude": -78.6383
-    },
-    {
       "id": "66b55aec7252",
       "title": "Circle Jerks & Municipal Waste",
       "date": "2026-09-17T20:00:00",
@@ -2784,17 +2707,6 @@
       "longitude": -79.0758
     },
     {
-      "id": "6016df8db2f0",
-      "title": "YSL Records & Young Thug Presents: The New Generation Tour",
-      "date": "2026-09-19T19:30:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/ysl-records-young-thug-presents-the-new-generation-tour",
-      "latitude": 35.7737,
-      "longitude": -78.6383
-    },
-    {
       "id": "a1ccffc49756",
       "title": "Love Spells \u2013 LOVE IS THE LAW WORLD TOUR",
       "date": "2026-09-19T20:00:00",
@@ -2817,6 +2729,17 @@
       "longitude": -79.0758
     },
     {
+      "id": "0c52943c0213",
+      "title": "Ripe",
+      "date": "2026-09-19T20:00:00",
+      "location": "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
+      "description": "",
+      "source": "Lincoln Theatre",
+      "url": "https://lincolntheatre.com/event/ripe/lincoln-theatre/raleigh-north-carolina/",
+      "latitude": 35.774,
+      "longitude": -78.6376
+    },
+    {
       "id": "afe95e52c1b7",
       "title": "Son Volt",
       "date": "2026-09-20T20:00:00",
@@ -2837,17 +2760,6 @@
       "url": "https://www.ticketmaster.com/goldford-space-of-the-heart-tour-raleigh-north-carolina-09-22-2026/event/2D0064D0EF103E13",
       "latitude": 35.8468,
       "longitude": -78.6379
-    },
-    {
-      "id": "a22ef6c03613",
-      "title": "Shaboozey",
-      "date": "2026-09-22T19:30:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/shaboozey",
-      "latitude": 35.7737,
-      "longitude": -78.6383
     },
     {
       "id": "a7a91e3a424b",
@@ -2949,17 +2861,6 @@
       "longitude": -78.6376
     },
     {
-      "id": "821002b5354c",
-      "title": "Gov't Mule & Ziggy Marley",
-      "date": "2026-09-26T19:00:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/govt-mule-ziggy-marley",
-      "latitude": 35.7737,
-      "longitude": -78.6383
-    },
-    {
       "id": "2d88de875553",
       "title": "Sawyer Hill",
       "date": "2026-09-26T20:00:00",
@@ -2980,17 +2881,6 @@
       "url": "https://lincolntheatre.com/event/lincoln-theatre-presents-jgbcb-kings/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
-    },
-    {
-      "id": "35d8349f5a29",
-      "title": "Rise Against",
-      "date": "2026-09-27T18:30:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/rise-against",
-      "latitude": 35.7737,
-      "longitude": -78.6383
     },
     {
       "id": "b3a43f1922d2",
@@ -3015,15 +2905,26 @@
       "longitude": -78.6376
     },
     {
-      "id": "22aa1954f0ca",
-      "title": "Turnstile",
+      "id": "19f6bef63379",
+      "title": "Carolina Hurricanes vs. Florida",
+      "date": "2026-09-29T17:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "a4d7589996e7",
+      "title": "Cole Barnhill",
       "date": "2026-09-29T20:00:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
       "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/turnstile",
-      "latitude": 35.7737,
-      "longitude": -78.6383
+      "source": "Cat's Cradle",
+      "url": "https://catscradle.com/event/cole-barnhill/cats-cradle-back-room/carrboro-north-carolina/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
     },
     {
       "id": "bd1e38619ae2",
@@ -3035,17 +2936,6 @@
       "url": "https://www.ticketmaster.com/jose-madero-usa-tour-2026-raleigh-north-carolina-09-30-2026/event/2D0064D2B29A3592",
       "latitude": 35.8468,
       "longitude": -78.6379
-    },
-    {
-      "id": "127accfb9045",
-      "title": "Dylan Gossett & Charles Wesley Godwin",
-      "date": "2026-10-01T19:00:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/dylan-gossett-charles-wesley-godwin",
-      "latitude": 35.7737,
-      "longitude": -78.6383
     },
     {
       "id": "7873f13d2459",
@@ -3079,6 +2969,17 @@
       "url": "https://lincolntheatre.com/event/honestav-the-sweet-american-boy-tour/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "d89b906af702",
+      "title": "Carolina Hurricanes vs. Washington",
+      "date": "2026-10-02T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
     },
     {
       "id": "a0b67c614c60",
@@ -3158,17 +3059,6 @@
       "longitude": -79.0758
     },
     {
-      "id": "09ae0c978463",
-      "title": "Dermot Kennedy",
-      "date": "2026-10-04T19:00:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/dermot-kennedy",
-      "latitude": 35.7737,
-      "longitude": -78.6383
-    },
-    {
       "id": "971f4dede335",
       "title": "Grupo Duelo",
       "date": "2026-10-04T19:00:00",
@@ -3213,17 +3103,6 @@
       "longitude": -78.6376
     },
     {
-      "id": "07a2b86bd9f1",
-      "title": "Amyl and the Sniffers",
-      "date": "2026-10-05T19:30:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/amyl-and-the-sniffers",
-      "latitude": 35.7737,
-      "longitude": -78.6383
-    },
-    {
       "id": "72e1377aaa8b",
       "title": "Black Country, New Road",
       "date": "2026-10-05T20:00:00",
@@ -3233,17 +3112,6 @@
       "url": "https://catscradle.com/event/black-country-new-road-2/cats-cradle/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
-    },
-    {
-      "id": "74a8379d3f27",
-      "title": "Bleachers Forever",
-      "date": "2026-10-06T19:00:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/bleachers",
-      "latitude": 35.7737,
-      "longitude": -78.6383
     },
     {
       "id": "911d37955fc4",
@@ -3312,6 +3180,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "3530027c89e8",
+      "title": "Carolina Hurricanes vs. Vancouver",
+      "date": "2026-10-08T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
       "id": "3d12bc35904f",
       "title": "Ravyn Lenae Presents: Blue Island",
       "date": "2026-10-08T19:00:00",
@@ -3356,17 +3235,6 @@
       "longitude": -78.6379
     },
     {
-      "id": "c32622a2a44b",
-      "title": "Turnpike Troubadours",
-      "date": "2026-10-10T19:00:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/turnpike-troubadours",
-      "latitude": 35.7737,
-      "longitude": -78.6383
-    },
-    {
       "id": "5507c515bef6",
       "title": "Brian Fallon & The Painkillers",
       "date": "2026-10-10T20:00:00",
@@ -3400,15 +3268,15 @@
       "longitude": -79.0758
     },
     {
-      "id": "62ed0621ad33",
-      "title": "Polyphia Tour MMXXVI",
-      "date": "2026-10-13T18:30:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/polyphia",
-      "latitude": 35.7737,
-      "longitude": -78.6383
+      "id": "8f8d17e537ac",
+      "title": "Carolina Hurricanes vs. Washington",
+      "date": "2026-10-13T18:45:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
     },
     {
       "id": "d711038155cd",
@@ -3664,6 +3532,28 @@
       "longitude": -79.0758
     },
     {
+      "id": "5461e135504e",
+      "title": "Coming Soon",
+      "date": "2026-10-26T19:00:00",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
+      "description": "",
+      "source": "Cat's Cradle",
+      "url": "https://motorcomusic.com/event/dev-lemons/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
+    },
+    {
+      "id": "9032df299719",
+      "title": "Dev Lemons \u2013 Eat The Pavement Tour",
+      "date": "2026-10-26T20:00:00",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
+      "description": "",
+      "source": "Cat's Cradle",
+      "url": "https://catscradle.com/event/dev-lemons-eat-the-pavement-tour/motorco-music-hall/durham-north-carolina/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
+    },
+    {
       "id": "21c13689ad41",
       "title": "The Hails \u2013 Duckpond Tour",
       "date": "2026-10-27T20:00:00",
@@ -3671,6 +3561,39 @@
       "description": "",
       "source": "Cat's Cradle",
       "url": "https://catscradle.com/event/the-hails-duckpond-tour/cats-cradle/carrboro-north-carolina/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
+    },
+    {
+      "id": "a59a4fb1ce90",
+      "title": "Carolina Hurricanes vs. Boston",
+      "date": "2026-10-27T20:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "259a41a49c6a",
+      "title": "Carolina Hurricanes vs. Columbus",
+      "date": "2026-10-29T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "08dc13184803",
+      "title": "Magoo",
+      "date": "2026-10-29T20:00:00",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
+      "description": "",
+      "source": "Cat's Cradle",
+      "url": "https://catscradle.com/event/magoo/cats-cradle-back-room/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
     },
@@ -3695,6 +3618,17 @@
       "url": "https://catscradle.com/event/saxsquatch-2/cats-cradle/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "073dacca5b41",
+      "title": "Carolina Hurricanes vs. Winnipeg",
+      "date": "2026-11-01T13:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
     },
     {
       "id": "fb0369c0db07",
@@ -3796,6 +3730,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "276910e13546",
+      "title": "Carolina Hurricanes vs. Chicago",
+      "date": "2026-11-07T20:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
       "id": "43043f493a57",
       "title": "Deer Tick",
       "date": "2026-11-08T20:00:00",
@@ -3882,6 +3827,17 @@
       "url": "https://lincolntheatre.com/event/an-evening-with-shadowgrass/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "333fecafed71",
+      "title": "Carolina Hurricanes vs. Seattle",
+      "date": "2026-11-14T13:00:00",
+      "location": "Veikkaus Arena, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
     },
     {
       "id": "5a51f5180b90",
@@ -3983,6 +3939,17 @@
       "longitude": -79.0758
     },
     {
+      "id": "7ab2c5301581",
+      "title": "Carolina Hurricanes vs. Montr\u00e9al",
+      "date": "2026-11-19T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
       "id": "d9135afece2c",
       "title": "Die Spitz",
       "date": "2026-11-19T20:00:00",
@@ -4025,6 +3992,17 @@
       "url": "https://catscradle.com/event/the-war-and-treaty-2/haw-river-ballroom/saxapahaw-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "f7d839a05d68",
+      "title": "Carolina Hurricanes vs. Edmonton",
+      "date": "2026-11-21T13:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
     },
     {
       "id": "bb1f8a7d5da5",
@@ -4071,6 +4049,17 @@
       "longitude": -79.0758
     },
     {
+      "id": "0e7a2be54160",
+      "title": "Carolina Hurricanes vs. Ottawa",
+      "date": "2026-11-28T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
       "id": "2dadfc06d1e7",
       "title": "Crazy Chester: A Very Carrboro Tribute To The Band & The Last Waltz 50th Anniversary Tour",
       "date": "2026-11-28T20:00:00",
@@ -4080,6 +4069,17 @@
       "url": "https://catscradle.com/event/crazy-chester-a-very-carrboro-tribute-to-the-band-the-last-waltz-50th-anniversary-tour/cats-cradle/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "1fc682358216",
+      "title": "Carolina Hurricanes vs. Columbus",
+      "date": "2026-12-03T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
     },
     {
       "id": "f23407711ba4",
@@ -4093,6 +4093,17 @@
       "longitude": -78.658
     },
     {
+      "id": "709c96462643",
+      "title": "Carolina Hurricanes vs. Toronto",
+      "date": "2026-12-05T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
       "id": "638133eb316c",
       "title": "Temples",
       "date": "2026-12-05T20:00:00",
@@ -4102,6 +4113,17 @@
       "url": "https://catscradle.com/event/temples/cats-cradle/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "6c6c03a2db9a",
+      "title": "Carolina Hurricanes vs. New York",
+      "date": "2026-12-08T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
     },
     {
       "id": "bd37641b3b4f",
@@ -4115,6 +4137,17 @@
       "longitude": -79.0758
     },
     {
+      "id": "4f95366b9d15",
+      "title": "Carolina Hurricanes vs. New York",
+      "date": "2026-12-11T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
       "id": "a818fe5098f8",
       "title": "Southern Culture on the Skids",
       "date": "2026-12-12T20:00:00",
@@ -4124,6 +4157,17 @@
       "url": "https://catscradle.com/event/southern-culture-on-the-skids-6/cats-cradle/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "fc73e4312591",
+      "title": "Carolina Hurricanes vs. Boston",
+      "date": "2026-12-13T13:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
     },
     {
       "id": "e50bac440121",
@@ -4148,6 +4192,94 @@
       "longitude": -79.0758
     },
     {
+      "id": "34b1fc7d7f9d",
+      "title": "Carolina Hurricanes vs. Pittsburgh",
+      "date": "2026-12-26T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "8cd00ab86cd8",
+      "title": "Carolina Hurricanes vs. Tampa Bay",
+      "date": "2026-12-28T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "a6f764b8895c",
+      "title": "Carolina Hurricanes vs. Nashville",
+      "date": "2027-01-02T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "14de06c85b11",
+      "title": "Carolina Hurricanes vs. St. Louis",
+      "date": "2027-01-05T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "6d10714e3e11",
+      "title": "Carolina Hurricanes vs. Pittsburgh",
+      "date": "2027-01-07T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "5e93fc206db9",
+      "title": "Carolina Hurricanes vs. Philadelphia",
+      "date": "2027-01-15T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "8b2243257cee",
+      "title": "Carolina Hurricanes vs. Vegas",
+      "date": "2027-01-17T18:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "7641c26b91d9",
+      "title": "Carolina Hurricanes vs. Anaheim",
+      "date": "2027-01-23T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
       "id": "3705c051ae97",
       "title": "The Piano Lesson",
       "date": "2027-01-27T19:30:00",
@@ -4157,6 +4289,72 @@
       "url": "https://playmakersrep.org/show/the-piano-lesson/",
       "latitude": 35.9052,
       "longitude": -79.0505
+    },
+    {
+      "id": "c939520b5bab",
+      "title": "Carolina Hurricanes vs. New York",
+      "date": "2027-01-28T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "c62cd0c7fb99",
+      "title": "Carolina Hurricanes vs. Los Angeles",
+      "date": "2027-01-30T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "3e1ad2331d84",
+      "title": "Carolina Hurricanes vs. Colorado",
+      "date": "2027-02-09T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "34f6beb5711f",
+      "title": "Carolina Hurricanes vs. Minnesota",
+      "date": "2027-02-11T19:30:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "da0504ec6228",
+      "title": "Carolina Hurricanes vs. Buffalo",
+      "date": "2027-02-13T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "c64cb01a81bd",
+      "title": "Carolina Hurricanes vs. Detroit",
+      "date": "2027-02-19T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
     },
     {
       "id": "c6e9751fc852",
@@ -4170,6 +4368,39 @@
       "longitude": -78.658
     },
     {
+      "id": "7fd24b2495c3",
+      "title": "Carolina Hurricanes vs. New York",
+      "date": "2027-02-21T13:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "d02570a31369",
+      "title": "Carolina Hurricanes vs. San Jose",
+      "date": "2027-02-25T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "c5ce12d31ba1",
+      "title": "Carolina Hurricanes vs. Tampa Bay",
+      "date": "2027-02-27T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
       "id": "c1e88d4e1ee4",
       "title": "John Proctor is the Villain",
       "date": "2027-03-03T19:30:00",
@@ -4179,6 +4410,61 @@
       "url": "https://playmakersrep.org/show/john-proctor-is-the-villain/",
       "latitude": 35.9052,
       "longitude": -79.0505
+    },
+    {
+      "id": "765d3bb78480",
+      "title": "Carolina Hurricanes vs. Toronto",
+      "date": "2027-03-05T20:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "09db965b0ce8",
+      "title": "Carolina Hurricanes vs. Utah",
+      "date": "2027-03-07T14:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "619c22c094c6",
+      "title": "Carolina Hurricanes vs. Calgary",
+      "date": "2027-03-12T20:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "474994690b0a",
+      "title": "Carolina Hurricanes vs. New Jersey",
+      "date": "2027-03-13T20:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
+    },
+    {
+      "id": "ace67eb5394d",
+      "title": "Carolina Hurricanes vs. Dallas",
+      "date": "2027-03-25T19:00:00",
+      "location": "Lenovo Center, Raleigh, NC",
+      "description": "Carolina Hurricanes NHL hockey game.",
+      "source": "Carolina Hurricanes",
+      "url": "https://www.nhl.com/hurricanes/schedule",
+      "latitude": 35.8033,
+      "longitude": -78.7228
     },
     {
       "id": "e06c13d418e4",
@@ -4214,8 +4500,8 @@
       "longitude": -78.658
     }
   ],
-  "last_updated": "2026-07-15T07:46:11.342248",
-  "total_events": 383,
+  "last_updated": "2026-07-17T07:48:20.330040",
+  "total_events": 409,
   "sources": [
     "Manual Events",
     "Visit Raleigh",
@@ -4248,22 +4534,22 @@
     "Visit Durham": 0,
     "Chapelboro": 0,
     "DPAC": 6,
-    "NC Museum of Art": 25,
-    "Cat's Cradle": 109,
-    "Lincoln Theatre": 55,
+    "NC Museum of Art": 24,
+    "Cat's Cradle": 112,
+    "Lincoln Theatre": 56,
     "Raleigh Arts": 0,
-    "Duke Events": 38,
-    "UNC Events": 4,
+    "Duke Events": 37,
+    "UNC Events": 3,
     "NC State Events": 1,
-    "Marbles Kids Museum": 25,
+    "Marbles Kids Museum": 23,
     "Morehead Planetarium": 30,
     "Raleigh Little Theatre": 7,
     "PlayMakers Rep": 6,
     "Artspace Raleigh": 0,
     "Durham Bulls": 27,
-    "Carolina Hurricanes": 0,
+    "Carolina Hurricanes": 39,
     "Booth Amphitheatre": 2,
-    "Red Hat Amphitheater": 24,
+    "Red Hat Amphitheater": 12,
     "The Ritz": 25
   },
   "zero_strikes": {
