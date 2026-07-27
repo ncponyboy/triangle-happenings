@@ -1,380 +1,6 @@
 {
   "events": [
     {
-      "id": "e45c688295d0",
-      "title": "Artrageous",
-      "date": "2026-07-25T10:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46343/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "e34d96d5b056",
-      "title": "Magic Tree House Space Mission",
-      "date": "2026-07-25T10:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/magic-tree-house-space-mission-294/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "c5cfe5694852",
-      "title": "Notes on View: Lynnette Barber and Will Ellis Blues Duo",
-      "date": "2026-07-25T11:00:00",
-      "location": "East Building, Level B",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/notes-on-view-lynnette-barber-and-will-ellis-blues-duo/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "009df4cbbe84",
-      "title": "Animal Kingdom 3D",
-      "date": "2026-07-25T11:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46790/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "dd8aa5d1d5d3",
-      "title": "Cities of the Future 3D",
-      "date": "2026-07-25T12:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46791/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "2cd211d96db0",
-      "title": "The Sun: Our Living Star",
-      "date": "2026-07-25T12:00:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/the-sun-our-living-star-65/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "e216e9b8bec7",
-      "title": "Public Tour",
-      "date": "2026-07-25T13:00:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/public-tour-2/2026-07-25/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "cf0efb5c6487",
-      "title": "Intro to Art Entrepreneurship",
-      "date": "2026-07-25T13:00:00",
-      "location": "East Building, Studios",
-      "description": "/ Events / Events Events Overview General Admission $10 Members $5 Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/intro-to-art-entrepreneurship/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "5b252fda013f",
-      "title": "Pandas 3D",
-      "date": "2026-07-25T13:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46792/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "504a3698f6e4",
-      "title": "Saturday Science Sparks: Coastal Frequencies",
-      "date": "2026-07-25T13:00:00",
-      "location": "Morehead Planetarium and Science Center, 250 E Franklin St, Chapel Hill, North Carolina, 27516, Unit",
-      "description": "Coastal Frequencies: Explore the underwater sonic ecology of North Carolina\u2019s coast! What does it sound like under the ocean? On Saturday, July 25, join artist Madeleine Popkin in a special Saturday S",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/saturday-science-sparks-july2026/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "edc0caf6e4f8",
-      "title": "Phantom of the Universe",
-      "date": "2026-07-25T13:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/phantom-of-the-universe-69/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "ae52a8bdcd4e",
-      "title": "The Odyssey",
-      "date": "2026-07-25T14:10:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46654/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "b735ce5148fa",
-      "title": "Art on the Dot",
-      "date": "2026-07-25T14:30:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/art-on-the-dot-3/2026-07-25/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "675dea8eef6d",
-      "title": "Supermassive Black Holes",
-      "date": "2026-07-25T15:00:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/supermassive-black-holes-129/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "4895adca6a80",
-      "title": "Carolina Skies",
-      "date": "2026-07-25T16:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/carolina-skies-519/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "a7e1e199a879",
-      "title": "Museum Admission",
-      "date": "2026-07-25T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46225/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "6feb0c6caa81",
-      "title": "Matt Maeson: Watch My Step Tour",
-      "date": "2026-07-25T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/matt-maeson-watch-my-step-tour-raleigh-north-carolina-07-25-2026/event/2D006473CA8390B8",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
-      "id": "d4dc281967e3",
-      "title": "School of Rock Chapel Hill House Band Senior Sendoff",
-      "date": "2026-07-25T20:00:00",
-      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
-      "description": "",
-      "source": "Cat's Cradle",
-      "url": "https://catscradle.com/event/school-of-rock-chapel-hill-house-band-senior-sendoff/cats-cradle-back-room/carrboro-north-carolina/",
-      "latitude": 35.9094,
-      "longitude": -79.0758
-    },
-    {
-      "id": "426c6f6be820",
-      "title": "Earlybirds Club",
-      "date": "2026-07-25T20:00:00",
-      "location": "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
-      "description": "",
-      "source": "Lincoln Theatre",
-      "url": "https://lincolntheatre.com/event/earlybirds-club-2/lincoln-theatre/raleigh-north-carolina/",
-      "latitude": 35.774,
-      "longitude": -78.6376
-    },
-    {
-      "id": "969ab87923f2",
-      "title": "Guest Star: Fitness",
-      "date": "2026-07-26T11:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/47312/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "f39a943a962c",
-      "title": "Superpower Dogs 3D",
-      "date": "2026-07-26T11:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46793/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "b29dab6b6d63",
-      "title": "Oceans: Our Blue Planet 3D",
-      "date": "2026-07-26T12:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46794/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "ecccde25c980",
-      "title": "Science Solvers",
-      "date": "2026-07-26T12:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46359/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "67e0ec6627a4",
-      "title": "Public Tour",
-      "date": "2026-07-26T13:00:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/public-tour-2/2026-07-26/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "fc8b96ad176d",
-      "title": "The Blue Angels 3D",
-      "date": "2026-07-26T13:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46795/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "b84de0d99fd5",
-      "title": "We Are Stars",
-      "date": "2026-07-26T13:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/we-are-stars-213/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "a5c064bad950",
-      "title": "Superhuman Body 3D",
-      "date": "2026-07-26T14:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46847/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "3b735476887d",
-      "title": "Art on the Dot",
-      "date": "2026-07-26T14:30:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/art-on-the-dot-3/2026-07-26/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "33ed6d41f777",
-      "title": "From Earth to the Universe",
-      "date": "2026-07-26T15:00:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/from-earth-to-the-universe-174/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "ed203e7e0e6e",
-      "title": "The Odyssey",
-      "date": "2026-07-26T15:30:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46657/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "e56650382787",
-      "title": "One Sky, Many Eyes",
-      "date": "2026-07-26T16:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/one-sky-many-eyes-181/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "b7243a94b13f",
-      "title": "Museum Admission",
-      "date": "2026-07-26T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/46226/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "8ff6eaf235b5",
-      "title": "Grrrlbands Showcase",
-      "date": "2026-07-26T20:00:00",
-      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
-      "description": "",
-      "source": "Cat's Cradle",
-      "url": "https://catscradle.com/event/grrrlbands-showcase-2/cats-cradle/carrboro-north-carolina/",
-      "latitude": 35.9094,
-      "longitude": -79.0758
-    },
-    {
-      "id": "5d5d0b00d928",
-      "title": "\u201cAnthem of the Sundays\u201d Feat: Bring out Yer Dead",
-      "date": "2026-07-26T20:00:00",
-      "location": "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
-      "description": "",
-      "source": "Lincoln Theatre",
-      "url": "https://lincolntheatre.com/event/anthem-of-the-sundays-feat-bring-out-yer-dead-2/lincoln-theatre/raleigh-north-carolina/",
-      "latitude": 35.774,
-      "longitude": -78.6376
-    },
-    {
       "id": "6bd35d501b5e",
       "title": "Summer Camp: Micro to Macro, ages 10\u201311",
       "date": "2026-07-27T09:00:00",
@@ -406,6 +32,28 @@
       "url": "https://ncartmuseum.org/event/summer-camp-micro-to-macro-ages-6-7/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "9effb7a5e942",
+      "title": "\u2018Too Little, Too Late\u2019: NCAE President Talks Teacher Pay Raises in State Budget",
+      "date": "2026-07-27T09:00:53",
+      "location": "Chapel Hill, NC",
+      "description": "",
+      "source": "Chapelboro",
+      "url": "https://chapelboro.com/news/pre-k-12-education/too-little-too-late-ncae-president-talks-teacher-pay-raises-in-state-budget",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
+      "id": "87b66c9ae2ed",
+      "title": "Mobile Health Assessment",
+      "date": "2026-07-27T10:00:00",
+      "location": "None",
+      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/health-assessments/",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "5aac848f7ede",
@@ -441,6 +89,39 @@
       "longitude": -78.635
     },
     {
+      "id": "c220d3bb8aae",
+      "title": "Expressive Writing Webinar",
+      "date": "2026-07-27T12:00:00",
+      "location": "Webcast",
+      "description": "Writing is a brief, structured practice of responding to a writing prompt, followed by time for individual and group reflection. The writing is for you-the participant. This practice is for everyone. ",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/webinars/expressive-writing/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "8cdf6bfc1940",
+      "title": "2026 State of Real-World Evidence Policy",
+      "date": "2026-07-27T12:00:00",
+      "location": "None",
+      "description": "The Duke-Margolis Institute for Health Policy engages stakeholders through the Real-World Evidence (RWE) Collaborative to guide high-priority efforts aimed at improving the development and use of real",
+      "source": "Duke Events",
+      "url": "https://duke.is/2/ynaf",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "ddfe63e50258",
+      "title": "Monday Moves",
+      "date": "2026-07-27T12:30:00",
+      "location": "Webcast",
+      "description": "Make the most of your lunch break with Monday Moves! From 12:30-12:50 PM every Monday, you can participate in online guided stretch breaks with the LIVE FOR LIFE Fitness Team to benefit your mental an",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "97e158ee9514",
       "title": "The Odyssey",
       "date": "2026-07-27T15:30:00",
@@ -450,6 +131,39 @@
       "url": "https://marbleskidsmuseum.org/event/47440/",
       "latitude": 35.776,
       "longitude": -78.635
+    },
+    {
+      "id": "6463882c8e98",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-07-27T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "399dca83b0b7",
+      "title": "Last day to withdraw with W from Term 2 classes (undergraduates only)",
+      "date": "2026-07-27T19:00:00",
+      "location": "None",
+      "description": "Last day to withdraw with W from Term 2 classes (undergraduates only)",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "743c89084824",
+      "title": "2026 Gene Golub SIAM Summer School on Fault-Tolerant Algorithms in Quantum Computing",
+      "date": "2026-07-27T19:00:00",
+      "location": "Gross Hall 103",
+      "description": "Quantum computing stands at the forefront of scientific innovation, captivating broad interest as a dynamically evolving field. Recent years have witnessed remarkable progress in developing and analyz",
+      "source": "Duke Events",
+      "url": "https://duke.kualibuild.com/app/68e014a29a7e95028b74c400/start",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "86d723934fd3",
@@ -463,6 +177,17 @@
       "longitude": -78.635
     },
     {
+      "id": "c23d7c7a21b2",
+      "title": "Hematology Case Conference:",
+      "date": "2026-07-28T08:00:00",
+      "location": "Duke South, Room M224",
+      "description": "This weekly conference is held each Tuesday from 8-9 a.m. and includes case-based presentations on a wide variety of topics in hematology. In general, discussion will cover inpatient and outpatient pr",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "839d04f6255b",
       "title": "Summer Skills Series",
       "date": "2026-07-28T08:45:00",
@@ -472,6 +197,17 @@
       "url": "https://calendar.ncsu.edu/event/summer-skills-series",
       "latitude": 35.7847,
       "longitude": -78.6821
+    },
+    {
+      "id": "9e62c1e2f84b",
+      "title": "Mobile Health Assessment",
+      "date": "2026-07-28T10:00:00",
+      "location": "None",
+      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/health-assessments/",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "a26a8a2ba07b",
@@ -540,6 +276,17 @@
       "longitude": -79.0521
     },
     {
+      "id": "15c9677a2128",
+      "title": "Mindful Moment",
+      "date": "2026-07-28T14:00:00",
+      "location": "Webcast",
+      "description": "Every Tuesday at 2 p.m., take a moment to relax, recharge, and re-center yourself with Mindful Moment, a group mindfulness program offered by LIVE FOR LIFE. During these quick, 15-minute sessions, you",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/webinars/mindfulness/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "979671a7a74a",
       "title": "T. REX 3D",
       "date": "2026-07-28T14:00:00",
@@ -584,6 +331,17 @@
       "longitude": -78.635
     },
     {
+      "id": "4d8d6878908a",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-07-28T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "55b338392a8f",
       "title": "Bob Dylan",
       "date": "2026-07-28T18:30:00",
@@ -617,6 +375,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "3d84dd16c438",
+      "title": "Educational Cases",
+      "date": "2026-07-29T08:00:00",
+      "location": "None",
+      "description": "Guest speakers and discussion of cases relevant to the Duke Department of Dermatology.",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "05957b355756",
       "title": "Board of Trustees Committee Meetings",
       "date": "2026-07-29T09:00:00",
@@ -639,6 +408,28 @@
       "longitude": -79.0521
     },
     {
+      "id": "75f40b08daa7",
+      "title": "Animal Kingdom 3D",
+      "date": "2026-07-29T11:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45738/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "da04525d9976",
+      "title": "Great Bear Rainforest 3D",
+      "date": "2026-07-29T12:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45626/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "28daee310251",
       "title": "Astronaut",
       "date": "2026-07-29T12:00:00",
@@ -648,6 +439,17 @@
       "url": "https://moreheadplanetarium.org/calendar/astronaut-187/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "af538a4554e7",
+      "title": "The Blue Angels 3D",
+      "date": "2026-07-29T13:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/45567/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "59926b8bb1a4",
@@ -661,6 +463,28 @@
       "longitude": -79.0521
     },
     {
+      "id": "45e3de928b03",
+      "title": "Cities of the Future 3D",
+      "date": "2026-07-29T14:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46810/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "f4d92aa2554d",
+      "title": "Nature Navigators",
+      "date": "2026-07-29T14:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46286/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "895badc8b0d9",
       "title": "Mars: The Ultimate Voyage",
       "date": "2026-07-29T15:00:00",
@@ -670,6 +494,28 @@
       "url": "https://moreheadplanetarium.org/calendar/mars-the-ultimate-voyage-221/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "6672f2a7ea63",
+      "title": "The Odyssey",
+      "date": "2026-07-29T15:30:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46659/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "70cffce31169",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-07-29T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "274eaca43778",
@@ -694,6 +540,17 @@
       "longitude": -78.6383
     },
     {
+      "id": "071477598aa2",
+      "title": "Museum Admission",
+      "date": "2026-07-29T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46206/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "ae71add7207a",
       "title": "Eleni Mandell and Dawn Landes",
       "date": "2026-07-29T20:00:00",
@@ -716,6 +573,28 @@
       "longitude": -78.8986
     },
     {
+      "id": "0cc08398e881",
+      "title": "Community Work Day",
+      "date": "2026-07-30T09:00:00",
+      "location": "Duke Campus Farm",
+      "description": "Come join us in the fields to lose track of time, be outdoors, practice embodied work, and experience profound community with plants, soil, and humans! Our students, volunteers, and staff consistently",
+      "source": "Duke Events",
+      "url": "https://docs.google.com/spreadsheets/d/1egSCE36jlZVnv1VHq_M105fGkoFyxGVVdGTNFEArTRc/edit?gid=226814629#gid=226814629",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "2d4f7a526ae1",
+      "title": "Mindful Movement",
+      "date": "2026-07-30T10:00:00",
+      "location": "Webcast",
+      "description": "Every Thursday at 10 a.m., add some movement to your mindfulness practice with Mindful Movement. The 15-minute Zoom sessions will combine movement, breathwork, visualization and intention to create a ",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/webinars/mindfulness/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "dbe4fac2074b",
       "title": "Earth, Moon and Sun",
       "date": "2026-07-30T10:30:00",
@@ -725,6 +604,50 @@
       "url": "https://moreheadplanetarium.org/calendar/earth-moon-and-sun-211/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "15762fb2a652",
+      "title": "Mobile Health Assessment",
+      "date": "2026-07-30T11:00:00",
+      "location": "None",
+      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/health-assessments/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "24ff6145135e",
+      "title": "Duke Farmers Market",
+      "date": "2026-07-30T11:00:00",
+      "location": "None",
+      "description": "Join us for the Duke Farmers Market! Here you can: Find farm fresh fruits, vegetables, and other local goods at a convenient location. Enjoy a relaxed atmosphere while learning about local food system",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/farmers-market/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "2c34c8e0b8bf",
+      "title": "Oceans: Our Blue Planet 3D",
+      "date": "2026-07-30T11:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46812/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "99f752bd872a",
+      "title": "T. REX 3D",
+      "date": "2026-07-30T12:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46816/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "cbc4a374c281",
@@ -749,6 +672,17 @@
       "longitude": -78.6893
     },
     {
+      "id": "8fa20c5ca861",
+      "title": "Wild Rescue 3D",
+      "date": "2026-07-30T13:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46431/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "6067798eda28",
       "title": "Mysteries of Your Brain",
       "date": "2026-07-30T13:30:00",
@@ -760,6 +694,28 @@
       "longitude": -79.0521
     },
     {
+      "id": "e6a3de8cb3cc",
+      "title": "Superpower Dogs 3D",
+      "date": "2026-07-30T14:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46818/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "3b83fd20c70e",
+      "title": "Artrageous",
+      "date": "2026-07-30T14:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46328/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "be6d84e40724",
       "title": "Supermassive Black Holes",
       "date": "2026-07-30T15:00:00",
@@ -769,6 +725,39 @@
       "url": "https://moreheadplanetarium.org/calendar/supermassive-black-holes-131/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "a70d31e5a4bf",
+      "title": "The Odyssey",
+      "date": "2026-07-30T15:30:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46661/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "8ffc901edb3d",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-07-30T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "42d24fffce41",
+      "title": "Museum Admission",
+      "date": "2026-07-30T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46719/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "28a597fb3e12",
@@ -793,6 +782,28 @@
       "longitude": -78.8986
     },
     {
+      "id": "04e4d576d221",
+      "title": "Mobile Health Assessment",
+      "date": "2026-07-31T10:00:00",
+      "location": "None",
+      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/health-assessments/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "bd41bae19caa",
+      "title": "Athena Seminar Series: Edge AI acceleration: From efficient models to efficient circuits",
+      "date": "2026-07-31T10:00:00",
+      "location": "None",
+      "description": "In the landscape of Artificial Intelligence (AI), two complementary paradigms have emerged: cloud AI, which relies on centralized computing infrastructure, and edge AI, which performs intelligence dir",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "283b366a7c6c",
       "title": "Magic Tree House Space Mission",
       "date": "2026-07-31T10:30:00",
@@ -802,6 +813,28 @@
       "url": "https://moreheadplanetarium.org/calendar/magic-tree-house-space-mission-296/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "c3eccf9114c4",
+      "title": "Open Scholarship: Data Transparency, Accessibility, and Security",
+      "date": "2026-07-31T12:00:00",
+      "location": "None",
+      "description": "REGISTRATION: Click Here NOTE: Registration closes 24 hours before event start. Please register ahead of the event. Registrants will receive Zoom information and related materials by email one week an",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "e8e1ee79d7ca",
+      "title": "Pathology Grand Rounds - Obesity and Asthma: Leptin Influences on Airway Eosinophilia",
+      "date": "2026-07-31T12:00:00",
+      "location": "None",
+      "description": "At the conclusion of this activity, learners should be able to: * Recognize the pathologic features of asthma * Discuss the impact of obesity on asthma outcomes * Understand the role of leptin signali",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "ccf309f384d6",
@@ -835,6 +868,28 @@
       "url": "https://moreheadplanetarium.org/calendar/mars-the-ultimate-voyage-222/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "4da4ce3ff491",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-07-31T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "762e7a066aa4",
+      "title": "Museum Admission",
+      "date": "2026-07-31T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/46624/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "57e9220bc469",
@@ -1002,11 +1057,44 @@
       "longitude": -78.6376
     },
     {
+      "id": "7b045cc1e304",
+      "title": "ADULT SUMMER BIBLE STUDY",
+      "date": "2026-08-02T09:45:00",
+      "location": "Westbrook 0013",
+      "description": "This summer, the Congregation at Duke Chapel invites you to join a 10-week adult Bible study, Being Church, led by Pastor Ryan Wilson. This series will explore what it means to be the church in today'",
+      "source": "Duke Events",
+      "url": "https://congregation.chapel.duke.edu/children",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "0f9ae8be9aa8",
+      "title": "MINISTRIES FOR CHILDREN - 9:45am",
+      "date": "2026-08-02T09:45:00",
+      "location": "Divinity School",
+      "description": "Children's Christian education classes are available for all ages from 9:45 - 10:45 a.m. in the lowest level of the Divinity School Buildings. New participants are welcome to attend at any time. WEE P",
+      "source": "Duke Events",
+      "url": "https://congregation.chapel.duke.edu/children",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "078f88a3dd07",
+      "title": "University Worship",
+      "date": "2026-08-02T11:00:00",
+      "location": "Duke Chapel",
+      "description": "Join us in worship that offers stirring preaching, inspiring sacred music, and faithful prayer. Held year-round amid the beautiful, soaring architecture of Duke Chapel, this interdenominational Christ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "b00ba3eab26b",
-      "title": "Public Tour",
+      "title": "Public Tour of Duke Chapel",
       "date": "2026-08-02T13:00:00",
       "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "description": "Learn about the history, architecture, and life of Duke Chapel on this tour, which is free and open to the public. The tour begins at 12:15 p.m., or immediately following the conclusion of the Sunday ",
       "source": "NC Museum of Art",
       "url": "https://ncartmuseum.org/event/public-tour-2/2026-08-02/",
       "latitude": 35.8027,
@@ -1079,6 +1167,39 @@
       "longitude": -78.6893
     },
     {
+      "id": "3e46467079df",
+      "title": "Mobile Health Assessment",
+      "date": "2026-08-03T10:00:00",
+      "location": "None",
+      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/health-assessments/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "b2727c845f98",
+      "title": "Monday Moves",
+      "date": "2026-08-03T12:30:00",
+      "location": "Webcast",
+      "description": "Make the most of your lunch break with Monday Moves! From 12:30-12:50 PM every Monday, you can participate in online guided stretch breaks with the LIVE FOR LIFE Fitness Team to benefit your mental an",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "d9fd77666004",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-08-03T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "ae22b96d7134",
       "title": "Hex Files",
       "date": "2026-08-03T20:00:00",
@@ -1088,6 +1209,83 @@
       "url": "https://catscradle.com/event/hex-files/cats-cradle-back-room/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "15e75d21ded0",
+      "title": "Hematology Case Conference:",
+      "date": "2026-08-04T08:00:00",
+      "location": "Duke South, Room M224",
+      "description": "This weekly conference is held each Tuesday from 8-9 a.m. and includes case-based presentations on a wide variety of topics in hematology. In general, discussion will cover inpatient and outpatient pr",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "57917644707d",
+      "title": "Disability and Inclusive Excellence: Definitions, Context, and Best Practices",
+      "date": "2026-08-04T10:00:00",
+      "location": "None",
+      "description": "This interactive session will discuss how disability shows up in the workplace and how we can ensure that everyone in our community is supported in their work. Participants will be invited to explore ",
+      "source": "Duke Events",
+      "url": "https://oie.duke.edu/education-outreach/summer-virtual-workshop-series/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "23e70d5655bc",
+      "title": "Integrative Immunobiology Dissertation Defense",
+      "date": "2026-08-04T10:00:00",
+      "location": "Jones 143",
+      "description": "\"Uncovering a role for neutrophil remodeling in the immunopathogenesis of meibomian gland dysfunction\"",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "35a87865e553",
+      "title": "The Role of Data Management in Research Integrity",
+      "date": "2026-08-04T13:00:00",
+      "location": "None",
+      "description": "REGISTRATION: Click Here NOTE: Registration closes 24 hours before event start. Please register ahead of the event. Registrants will receive Zoom information and related materials by email one week an",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "5a2efb81a4ee",
+      "title": "Mindful Moment",
+      "date": "2026-08-04T14:00:00",
+      "location": "Webcast",
+      "description": "Every Tuesday at 2 p.m., take a moment to relax, recharge, and re-center yourself with Mindful Moment, a group mindfulness program offered by LIVE FOR LIFE. During these quick, 15-minute sessions, you",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/webinars/mindfulness/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "e68c986598c8",
+      "title": "3-Minute Thesis Competition Final Round",
+      "date": "2026-08-04T15:00:00",
+      "location": "None",
+      "description": "Ten PhD students will present their research in 3 minutes to compete for prize money.",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "f729437fea35",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-08-04T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "d102514c9ce0",
@@ -1101,6 +1299,17 @@
       "longitude": -78.6383
     },
     {
+      "id": "19ec7059d5c1",
+      "title": "Duke Anesthesiology Grand Rounds - TBA",
+      "date": "2026-08-05T07:00:00",
+      "location": "Duke North, Room 2001",
+      "description": "Department of Anesthesiology Grand Rounds on Wednesdays from 7 to 8am. | This activity has been planned and implemented by the Duke University Health System Department of Clinical Education and Profes",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "ee5eb2c2bf6a",
       "title": "What\u2019s in the Box?",
       "date": "2026-08-05T10:00:00",
@@ -1110,6 +1319,17 @@
       "url": "https://ncartmuseum.org/event/whats-in-the-box-4/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "ef86e55ab344",
+      "title": "Serious Games 2026",
+      "date": "2026-08-05T19:00:00",
+      "location": "None",
+      "description": "Celebrating its 19th year, the Serious Play Conference is North America's largest dedicated games and learning conference. Under a new leadership team, the event is a must-attend for anyone interested",
+      "source": "Duke Events",
+      "url": "https://seriousplayconf.com/homepage/",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "40ccfac96c59",
@@ -1130,6 +1350,17 @@
       "description": "/ Events / Events Events Overview General Admission Free Share:",
       "source": "NC Museum of Art",
       "url": "https://ncartmuseum.org/event/public-tour-3/2026-08-06/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "109573831657",
+      "title": "Mindful Museum: The Art of Rest Workshop",
+      "date": "2026-08-06T18:00:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/mindful-museum-the-art-of-rest-workshop/",
       "latitude": 35.8027,
       "longitude": -78.6893
     },
@@ -1178,6 +1409,50 @@
       "longitude": -78.6376
     },
     {
+      "id": "50994f134692",
+      "title": "Birding with Wake Audubon Society",
+      "date": "2026-08-08T08:00:00",
+      "location": "Museum Park",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/birding-with-wake-audubon-society-2/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "1861bb113d08",
+      "title": "Public Tour",
+      "date": "2026-08-08T13:00:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/public-tour-2/2026-08-08/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "cb24e2c86e89",
+      "title": "Art on the Dot",
+      "date": "2026-08-08T14:30:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/art-on-the-dot-3/2026-08-08/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "173e3846b21a",
+      "title": "Dom Flemons Presents the Bronze Buckaroo Film and Songster Show",
+      "date": "2026-08-08T15:00:00",
+      "location": "East Building, SECU Auditorium",
+      "description": "/ Events / Events Events Overview General Admission $30 Members $25 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/dom-flemons-presents-the-bronze-buckaroo-film-and-songster-show/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
       "id": "e376ecf9ccfb",
       "title": "Stephen Wilson Jr.",
       "date": "2026-08-08T19:00:00",
@@ -1198,6 +1473,28 @@
       "url": "https://lincolntheatre.com/event/cosmic-charlie-11/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "8a3966a4a030",
+      "title": "Notes on View: Eduardo de Rosamaria",
+      "date": "2026-08-09T11:00:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/notes-on-view-eduardo-de-rosamaria/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "5f8325035ecb",
+      "title": "Public Tour",
+      "date": "2026-08-09T13:00:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/public-tour-2/2026-08-09/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
     },
     {
       "id": "116e25185295",
@@ -1275,6 +1572,17 @@
       "url": "https://catscradle.com/event/margot-sinclair/cats-cradle-back-room/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "1d37a8d8e0c2",
+      "title": "Pancake and Booze Art Show",
+      "date": "2026-08-13T20:00:00",
+      "location": "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
+      "description": "",
+      "source": "Lincoln Theatre",
+      "url": "https://lincolntheatre.com/event/pancake-and-booze-art-show-5/",
+      "latitude": 35.774,
+      "longitude": -78.6376
     },
     {
       "id": "44193eeec155",
@@ -2960,6 +3268,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "92286fd16b52",
+      "title": "Arch Enemy & The Black Dahlia Murder: Wrath Across North America 2026",
+      "date": "2026-10-22T17:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/arch-enemy-the-black-dahlia-murder-raleigh-north-carolina-10-22-2026/event/2D0064B20340D57F",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "81947e08ac82",
       "title": "YHWH Nailgun",
       "date": "2026-10-22T20:00:00",
@@ -4060,8 +4379,8 @@
       "longitude": -78.658
     }
   ],
-  "last_updated": "2026-07-25T07:48:23.382717",
-  "total_events": 369,
+  "last_updated": "2026-07-27T09:21:56.975073",
+  "total_events": 398,
   "sources": [
     "Manual Events",
     "Visit Raleigh",
@@ -4092,17 +4411,17 @@
     "Visit Raleigh": 0,
     "Indy Week": 0,
     "Visit Durham": 0,
-    "Chapelboro": 0,
+    "Chapelboro": 1,
     "DPAC": 0,
-    "NC Museum of Art": 23,
-    "Cat's Cradle": 120,
-    "Lincoln Theatre": 57,
+    "NC Museum of Art": 24,
+    "Cat's Cradle": 118,
+    "Lincoln Theatre": 56,
     "Raleigh Arts": 0,
-    "Duke Events": 0,
+    "Duke Events": 39,
     "UNC Events": 4,
     "NC State Events": 1,
-    "Marbles Kids Museum": 25,
-    "Morehead Planetarium": 25,
+    "Marbles Kids Museum": 26,
+    "Morehead Planetarium": 16,
     "Raleigh Little Theatre": 6,
     "PlayMakers Rep": 6,
     "Artspace Raleigh": 0,
@@ -4123,7 +4442,7 @@
     "Cat's Cradle": 0,
     "Lincoln Theatre": 0,
     "Raleigh Arts": 0,
-    "Duke Events": 1,
+    "Duke Events": 0,
     "UNC Events": 0,
     "NC State Events": 0,
     "Marbles Kids Museum": 0,
