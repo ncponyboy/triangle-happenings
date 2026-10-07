@@ -1,609 +1,15 @@
 {
   "events": [
     {
-      "id": "af4a97a426df",
-      "title": "The Morning News: UNC Football, Chapel Hill Shooting, Hedgepeth Jury Selection",
-      "date": "2026-10-05T11:06:28",
-      "location": "Chapel Hill, NC",
-      "description": "",
-      "source": "Chapelboro",
-      "url": "https://chapelboro.com/the-aaron-keck-show/6-o-clock-news/unc-football-chapel-hill-shooting-hedgepeth-jury-selection",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "d607fbdddf1e",
-      "title": "On Air Today: Justice Anita Earls on the NC Supreme Court",
-      "date": "2026-10-05T11:45:35",
-      "location": "Chapel Hill, NC",
-      "description": "",
-      "source": "Chapelboro",
-      "url": "https://chapelboro.com/the-aaron-keck-show/on-air-today/on-air-today-justice-anita-earls-on-the-nc-supreme-court",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "9ca03010c24d",
-      "title": "What\u2019s Trending: Working Class, Whatever That Is",
-      "date": "2026-10-05T11:58:00",
-      "location": "Chapel Hill, NC",
-      "description": "",
-      "source": "Chapelboro",
-      "url": "https://chapelboro.com/the-aaron-keck-show/whats-trending-with-victor-lewis/working-class-whatever-that-is",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "9723383a73fd",
-      "title": "CEE Seminar - Adaptability through control in robotic and active systems",
-      "date": "2026-10-05T12:00:00",
+      "id": "c02dafd02750",
+      "title": "Pets At Duke",
+      "date": "2026-10-07T10:15:00",
       "location": "None",
-      "description": "One of the hallmarks of adaptive matter is the ability to sense and respond to the environment. How can we engineer soft matter systems to exhibit such behavior? In this talk, I will present our recen",
-      "source": "Duke Events",
-      "url": "http://cee.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "96fe9e49439a",
-      "title": "AI in Health: What Tools are You Using \u2014 and What Actually Works?",
-      "date": "2026-10-05T12:00:00",
-      "location": "None",
-      "description": "Join students, clinicians, educators, and researchers for our Community of Practice discussion on AI in health.",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "913f8cee644f",
-      "title": "Computational and Experimental Methods for Genomics",
-      "date": "2026-10-05T12:00:00",
-      "location": "None",
-      "description": "The Pachter Lab focuses on the development of single-cell genomics technologies and their application to RNA biology. The computational challenges we are addressing involve the analysis of high-dimens",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "1dccdbc98715",
-      "title": "Monday Moves",
-      "date": "2026-10-05T12:30:00",
-      "location": "Webcast",
-      "description": "Make the most of your lunch break with Monday Moves! From 12:30-12:50 PM every Monday, you can participate in online guided stretch breaks with the LIVE FOR LIFE Fitness Team to benefit your mental an",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "2c3f50bb0efd",
-      "title": "The Story of an Escape: Resistance in the Penal Colony Archive in the 19th-century Philippines.",
-      "date": "2026-10-05T14:00:00",
-      "location": "None",
-      "description": "Aur\u00e9lie Vialette will give a talk on archival research.",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "63d4b0a14da8",
-      "title": "Career Expo Readiness In-Person Workshop",
-      "date": "2026-10-05T14:00:00",
-      "location": "NC State University, Raleigh, NC",
-      "description": "",
-      "source": "NC State Events",
-      "url": "https://calendar.ncsu.edu/event/career-expo-readiness-in-person-workshop",
-      "latitude": 35.7847,
-      "longitude": -78.6821
-    },
-    {
-      "id": "eb9d7c6cca1f",
-      "title": "ID Grand Rounds: \"Not All Outcomes Are Created Equal: Hierarchical Composite Endpoints in Infectious Disease Clinical Trials\"",
-      "date": "2026-10-05T16:00:00",
-      "location": "Virtual",
-      "description": "Global Learning Objectives: Review and discuss diagnostic and treatment plans for diseases seen in Infectious Diseases. Discuss clinical research findings and advances in therapy as appropriate for th",
-      "source": "Duke Events",
-      "url": "https://duke.zoom.us/j/92640504548?pwd=nRQFLdXBaAUNYava3VgmzUWEJHbh0w.1",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "26eadefe95cf",
-      "title": "Indigenous Languages Workshop: Nahuatl",
-      "date": "2026-10-05T16:15:00",
-      "location": "Languages 320",
-      "description": "Spanish-language workshop on Nahuatl.",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "a07892478698",
-      "title": "Starting a Company Using AI",
-      "date": "2026-10-05T16:30:00",
-      "location": "Fuqua School of Business-Duke I&E Bullpen",
-      "description": "How anyone can start a company using AI with Shep Moyle, Monday, October 5th at 4:30PM in the Bullpen. This is perfect for students curious about entrepreneurship, innovation, and practical AI!",
-      "source": "Duke Events",
-      "url": "https://duke.qualtrics.com/jfe/form/SV_5hB3ifXvpb3HReS",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "ca8260c61dce",
-      "title": "Weekday Carillon Recital",
-      "date": "2026-10-05T17:00:00",
-      "location": "Duke Chapel",
-      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "74bdb72463e3",
-      "title": "Chamber Music Masterclass: Camerata Nordica",
-      "date": "2026-10-05T17:00:00",
-      "location": "Biddle Music Building 19, Bone Hall",
-      "description": "Experience chamber music up close as students from the Duke Chamber Music Program receive coaching from the acclaimed musicians of Camerata Nordica. Known for its dynamic, almost theatrical approach t",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "e78c6e35f5fd",
-      "title": "Hindu Perspectives on the Good Life in Comparative Context",
-      "date": "2026-10-05T17:30:00",
-      "location": "Gray 229, York Reading Room",
-      "description": "Guest lecture by Gavin Flood, Professor of Hindu Studies and Comparative Religion at Oxford University.",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "dca94715bfaf",
-      "title": "AGS International Staff Ride Virtual Information Session",
-      "date": "2026-10-05T17:30:00",
-      "location": "None",
-      "description": "A virtual information session for the 2027 AGS International Staff Ride to Malta and Sicily. Learn more about a what a staff ride is, where we will be going, and what we will be doing.",
-      "source": "Duke Events",
-      "url": "https://duke.zoom.us/j/9977984364?pwd=Yg2oOqCbNKNTojiBt6gkOj6MKaLDiO.1",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "0405e378cbc9",
-      "title": "Inhale As One",
-      "date": "2026-10-05T17:30:00",
-      "location": "Morehead Planetarium and Science Center, 250 E Franklin St, Chapel Hill, North Carolina, 27516, Unit",
-      "description": "A fulldome experience exploring consciousness, potential, and awe.",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/inhale-as-one/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "f270dd3815f2",
-      "title": "Duke Arts Create: Ofrenda Screen Printing",
-      "date": "2026-10-05T18:00:00",
-      "location": "Arts Annex",
-      "description": "This event is part of a series of workshops associated with the D\u00eda de los Muertos Ofrenda, installed at Duke Chapel from October 2 - November 5. Visitors can make contributions to this altar at any t",
-      "source": "Duke Events",
-      "url": "https://arts.duke.edu/events/ofrenda-screen-printing-2/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "7fc58b3002db",
-      "title": "Democrats, the Midterms and the Meaning of Patriotism: A Conversation with Rep. Jake Auchincloss",
-      "date": "2026-10-05T18:00:00",
-      "location": "Bryan Center Reynolds Industries Theater",
-      "description": "An \"Independent Thinkers\" Conversation with U.S. Rep Jake Auchincloss hosted by Frank Bruni, Duke professor and New York Times columnist Has the Democratic Party learned the lessons of its 2024 defeat",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "d501034f1873",
-      "title": "Amyl and the Sniffers - MOVED TO THE RITZ",
-      "date": "2026-10-05T18:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/amyl-and-the-sniffers-raleigh-north-carolina-10-05-2026/event/2D00652FB0F71162",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
-      "id": "34bd96fe91e5",
-      "title": "Museum Admission",
-      "date": "2026-10-05T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/47567/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "45877a44da22",
-      "title": "Remembering David Nelson",
-      "date": "2026-10-05T20:00:00",
-      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
-      "description": "",
-      "source": "Cat's Cradle",
-      "url": "https://catscradle.com/event/remembering-david-nelson/cats-cradle-back-room/carrboro-north-carolina/",
-      "latitude": 35.9094,
-      "longitude": -79.0758
-    },
-    {
-      "id": "72e1377aaa8b",
-      "title": "Black Country, New Road",
-      "date": "2026-10-05T20:00:00",
-      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
-      "description": "",
-      "source": "Cat's Cradle",
-      "url": "https://catscradle.com/event/black-country-new-road-2/cats-cradle/carrboro-north-carolina/",
-      "latitude": 35.9094,
-      "longitude": -79.0758
-    },
-    {
-      "id": "a37a5c07a3e2",
-      "title": "Educator Online Course: Art and SEL",
-      "date": "2026-10-06T00:00:00",
-      "location": "Virtual",
-      "description": "/ Events / Events Events Overview General Admission $20 Members $18 Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/educator-online-course-art-and-sel/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "605dfc4bd462",
-      "title": "Hematology Case Conference: \"Case Presentation\"",
-      "date": "2026-10-06T08:00:00",
-      "location": "Duke South, Room M224",
-      "description": "This weekly conference is held each Tuesday from 8-9 a.m. and includes case-based presentations on a wide variety of topics in hematology. In general, discussion will cover inpatient and outpatient pr",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "8033f908164f",
-      "title": "Project Management (by Durham Tech Community College)",
-      "date": "2026-10-06T09:00:00",
-      "location": "None",
-      "description": "For employees of Duke University and DUHS Continuing Education Credits (CEUs): 0.7 This project management course is offered by Learning & Organization Development in partnership with Durham Technical",
-      "source": "Duke Events",
-      "url": "https://duke.sabacloud.com/Saba/Web_spf/NA7P2PRD024/common/ledetail/cours000000000015977/latestversion",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "a6887a64e870",
-      "title": "Immunology Seminar Series - Aravind Askohan, PhD",
-      "date": "2026-10-06T09:00:00",
-      "location": "Jones 143",
-      "description": "Aravind Askohan, PhD Professor in Surgery Duke University Host: Raphael Valdivia, PhD",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "6ff15e7fff85",
-      "title": "Immunology Seminar Series - Aravind Asokan, PhD: \"Molecular & Viral Toolkits for Engineering Immunity\"",
-      "date": "2026-10-06T09:00:00",
-      "location": "Jones 143",
-      "description": "Aravind Asokan, PhD Professor in Surgery Duke University \"Molecular & Viral Toolkits for Engineering Immunity\" Host: Raphael Valdivia, PhD",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "97ae5fa928f0",
-      "title": "Lessons Learned from Research Misconduct Cases",
-      "date": "2026-10-06T09:30:00",
-      "location": "None",
-      "description": "REGISTRATION: Click Here NOTE: Registration closes 24 hours before event start. Please register ahead of the event. Registrants will receive Zoom information and related materials by email one week an",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "140752068c00",
-      "title": "Gastronauts",
-      "date": "2026-10-06T10:00:00",
-      "location": "None",
-      "description": "Gastronauts is a focused group of researchers passionate about gut-brain matters. From food to mood, we are always thinking about how to tap into the gut to improve human health and the world in which",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "a5568198be57",
-      "title": "CDVS Workshop: Visualizing data with ChatGPT",
-      "date": "2026-10-06T10:00:00",
-      "location": "Online",
-      "description": "AI has become a reasonable tool for producing data visualizations without coding or learning Excel, Tableau, or other software, but expertise is still required to guide it to an effective chart that's",
-      "source": "Duke Events",
-      "url": "https://duke.libcal.com/event/17242198",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "f18509344cc6",
-      "title": "OIE 101",
-      "date": "2026-10-06T10:00:00",
-      "location": "None",
-      "description": "In this (virtual) interactive session, you'll get an up-close look at the Office for Institutional Equity, our mission, our programs, and the individuals and communities at the center of everything we",
-      "source": "Duke Events",
-      "url": "https://oie.duke.edu/education-outreach/workshop-series/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "8485d561065d",
-      "title": "Neurobiology Seminar: Maria Tosches: \"Lessons on brain evolution and plasticity from a new vertebrate model\"",
-      "date": "2026-10-06T10:00:00",
-      "location": "Bryan Research 103",
-      "description": "Maria Tosches is Assistant Professor of Biological Sciences, Dept of Biological Sciences at Columbia Doctoral Program in Neurobiology and Behavior at Columbia University.",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "16c0a829409a",
-      "title": "Mobile Health Assessment",
-      "date": "2026-10-06T10:00:00",
-      "location": "None",
-      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
+      "description": "In partnership with Pets at Duke, LIVE FOR LIFE offers therapy dog visits for staff! Take a break to get some puppy cuddles or to enjoy the relaxing atmosphere to paw-sitively impact your mental healt",
       "source": "Duke Events",
       "url": "https://hr.duke.edu/wellness/health-assessments/",
       "latitude": 35.994,
       "longitude": -78.8986
-    },
-    {
-      "id": "079c2f9bc123",
-      "title": "Dream Big 3D",
-      "date": "2026-10-06T10:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/48095/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "569dccf826fb",
-      "title": "Engineering Master's Career Drop-In Hours",
-      "date": "2026-10-06T11:00:00",
-      "location": "None",
-      "description": "Attend drop-in hours for quick advice and feedback that lasts 10-15 minutes. Career Drop-In Hours take place Tuesday-Friday while classes are in session.",
-      "source": "Duke Events",
-      "url": "https://sites.duke.edu/prattgsps/career-communications-team/11-coaching/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "16307a1686dc",
-      "title": "Secrets of Great Salt Lake",
-      "date": "2026-10-06T11:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/48319/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "9c8bbe82ba58",
-      "title": "Writing for Dark Times",
-      "date": "2026-10-06T11:45:00",
-      "location": "Smith Warehouse, Ahmadieh Family Lecture Hall, Bay 4, C105",
-      "description": "Duke English and the Franklin Humanities Institute will host a talk by Hadji Bakara, Associate Professor of English at the University of Michigan. Bakara will explain how writing has shaped the histor",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "797e84fe63c1",
-      "title": "Best Friend or Cybermother? A Confucian Reflection on AI Companionship",
-      "date": "2026-10-06T12:00:00",
-      "location": "Rubenstein Library Carpenter Conference Room 249",
-      "description": "AI companions designed to simulate romantic or friendly intimacy are rapidly expanding, but most critiques remain framed by Western liberal assumptions. I develop an alternative critique grounded in C",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "ebbeb44d5358",
-      "title": "Learning in Networks Reading Group",
-      "date": "2026-10-06T12:00:00",
-      "location": "Gross Hall, Ahmadieh Family Grand Hall, Room 330",
-      "description": "Learning in Networks Reading Group and Seminar Series: Tuesdays, 12pm in 330 Gross Hall; lunch included The institute focuses on fundamental questions in statistical inference, machine learning, causa",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "4316149915fd",
-      "title": "A Fireside Chat with Kenneth Stein, MD",
-      "date": "2026-10-06T12:00:00",
-      "location": "Online",
-      "description": "The Duke Clinical Research Institute Research Forum welcomes Kenneth Stein, MD, senior vice president and global chief medical officer at Boston Scientific, for a fireside chat on the future of clinic",
-      "source": "Duke Events",
-      "url": "https://prodduke.sharepoint.com/sites/DCRI-PULSE-EVENTS/_layouts/15/Event.aspx?ListGuid=43e6fe1b-badd-468d-bf3f-04388b32078e&ItemId=2134",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "85492f689fc9",
-      "title": "Cities of the Future 3D",
-      "date": "2026-10-06T12:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/48320/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "b0ca92803afe",
-      "title": "Novel Justice: Pink Crime with Valena Beety",
-      "date": "2026-10-06T12:30:00",
-      "location": "Law School 4055",
-      "description": "Join Valena Beety, Robert H. McKinney Professor of Law at Indiana University Bloomington, for a discussion of her new book, Pink Crime. An innocence litigator and former federal prosecutor, Professor ",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "b9af8bd2ea33",
-      "title": "Structure, Function, and Evolution of Gene Regulatory Networks in Extreme Stress Response",
-      "date": "2026-10-06T12:30:00",
-      "location": "Nanaline Duke 147",
-      "description": "Research in my lab seeks to elucidate how cells make decisions in response to environmental cues. My particular focus is on how networks of molecules interact within free-living microbial cells. These",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "24d11f97e76b",
-      "title": "Organ Demonstration",
-      "date": "2026-10-06T13:00:00",
-      "location": "Duke Chapel",
-      "description": "This organ demonstration is an opportunity to stop in to hear a Duke Chapel organ or B\u00f6sendorfer grand piano played in the informal atmosphere of an open rehearsal. These demonstrations are typically ",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "0cd57ae37460",
-      "title": "Building Agents in ChatGPT",
-      "date": "2026-10-06T13:00:00",
-      "location": "The TEC - Technology Engagement Center",
-      "description": "Learn to build AI assistants that work for you. This hands-on workshop introduces ChatGPT Workspace Agents - AI that can run multi-step workflows on a schedule, connect to Outlook and SharePoint, and ",
-      "source": "Duke Events",
-      "url": "https://pathways.duke.edu/modulepage/498",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "4b02d27a7507",
-      "title": "Wild Rescue 3D",
-      "date": "2026-10-06T14:15:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/48322/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "a2d6e9d1ba14",
-      "title": "Carolina Science Cafe: Who\u2019s a Journalist in the Age of AI?",
-      "date": "2026-10-06T18:00:00",
-      "location": "Haw River Tap & Table, 300 E Main St C, Carrboro, NC, 27510, United States",
-      "description": "Who\u2019s a Journalist in the Age of AI? Theorizing Distributed Journalistic Authority Amid Newsfluencers, Algorithms, and Generative Systems Who\u2019s a Journalist in the Age of AI? addresses a critical deve",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/carolina-science-cafe-whos-a-journalist-in-the-age-of-ai/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "f6131880c184",
-      "title": "Well-Being Day",
-      "date": "2026-10-06T19:00:00",
-      "location": "UNC Chapel Hill, Chapel Hill, NC",
-      "description": "",
-      "source": "UNC Events",
-      "url": "https://calendar.unc.edu/event/well-being_day",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "da29c6a5b2db",
-      "title": "Museum Admission",
-      "date": "2026-10-06T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/47583/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "74a8379d3f27",
-      "title": "Bleachers Forever",
-      "date": "2026-10-06T19:00:00",
-      "location": "Red Hat Amphitheater, 500 S McDowell St, Raleigh, NC",
-      "description": "",
-      "source": "Red Hat Amphitheater",
-      "url": "https://www.redhatamphitheater.com/events/detail/bleachers",
-      "latitude": 35.7737,
-      "longitude": -78.6383
-    },
-    {
-      "id": "911d37955fc4",
-      "title": "The Takes",
-      "date": "2026-10-06T20:00:00",
-      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
-      "description": "",
-      "source": "Cat's Cradle",
-      "url": "https://catscradle.com/event/the-takes/cats-cradle-back-room/carrboro-north-carolina/",
-      "latitude": 35.9094,
-      "longitude": -79.0758
-    },
-    {
-      "id": "2b706efacddc",
-      "title": "Theo Katzman",
-      "date": "2026-10-06T20:00:00",
-      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
-      "description": "",
-      "source": "Cat's Cradle",
-      "url": "https://catscradle.com/event/theo-katzman-2/cats-cradle/carrboro-north-carolina/",
-      "latitude": 35.9094,
-      "longitude": -79.0758
-    },
-    {
-      "id": "bedb27ceda1f",
-      "title": "Public Image Ltd: This is Not The Last Tour",
-      "date": "2026-10-06T20:00:00",
-      "location": "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
-      "description": "",
-      "source": "Lincoln Theatre",
-      "url": "https://lincolntheatre.com/event/public-image-ltd-this-is-not-the-last-tour/lincoln-theatre/raleigh-north-carolina/",
-      "latitude": 35.774,
-      "longitude": -78.6376
-    },
-    {
-      "id": "321b07cae1ac",
-      "title": "What\u2019s in the Box?",
-      "date": "2026-10-07T10:00:00",
-      "location": "East Building, Studios",
-      "description": "/ Events / Events Events Overview General Admission $12 Members $10 Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/whats-in-the-box-6/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
     },
     {
       "id": "aa53d4d992ed",
@@ -617,6 +23,17 @@
       "longitude": -78.635
     },
     {
+      "id": "d5731c9d50b2",
+      "title": "The Morning News: Trails, Trials, and Property Revaluations",
+      "date": "2026-10-07T10:21:13",
+      "location": "Chapel Hill, NC",
+      "description": "",
+      "source": "Chapelboro",
+      "url": "https://chapelboro.com/the-aaron-keck-show/6-o-clock-news/trails-trials-and-property-revaluations",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
       "id": "971f3287c29a",
       "title": "Cities of the Future 3D",
       "date": "2026-10-07T11:15:00",
@@ -628,6 +45,83 @@
       "longitude": -78.635
     },
     {
+      "id": "f9116f414462",
+      "title": "NIH K Award Workshop",
+      "date": "2026-10-07T11:30:00",
+      "location": "Virtual",
+      "description": "This workshop provides practical, step-by-step guidance for writing faculty- or postdoc-level mentored Career Development (K) Awards.",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "218272c1f27c",
+      "title": "On Air Today: Minoring in AI at UNC, with Rei Sanchez-Arias",
+      "date": "2026-10-07T11:45:32",
+      "location": "Chapel Hill, NC",
+      "description": "",
+      "source": "Chapelboro",
+      "url": "https://chapelboro.com/the-aaron-keck-show/on-air-today/minoring-in-ai-at-unc-with-rei-sanchez-arias",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
+      "id": "4bb0ff48ccba",
+      "title": "What\u2019s Trending: The Great Green Wall",
+      "date": "2026-10-07T11:58:57",
+      "location": "Chapel Hill, NC",
+      "description": "",
+      "source": "Chapelboro",
+      "url": "https://chapelboro.com/the-aaron-keck-show/whats-trending-with-victor-lewis/the-great-green-wall",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
+      "id": "ddedcd02b036",
+      "title": "Community-Engaged Research Made Easier: Tools and Resources for Navigating Administrative Processes",
+      "date": "2026-10-07T12:00:00",
+      "location": "None",
+      "description": "Members of the PERC initiative have partnered with colleagues across research administration and finance to develop practical solutions that address the administrative complexities faced by researcher",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "7c2ad7f2dcdd",
+      "title": "Joint NC BERD Seminar: REDCap Survey Security",
+      "date": "2026-10-07T12:00:00",
+      "location": "Virtual",
+      "description": "Learn practical strategies to protect your REDCap surveys from fraudulent responses, bots, and suspicious activity while maintaining the integrity and reliability of your research data. Register: http",
+      "source": "Duke Events",
+      "url": "https://ctsi.wakehealth.edu/education-and-training/search-educational-offerings/b/biostatistics-epidemiology-and-research-design-berd-lunch-and-learn-series",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "21476b85faf7",
+      "title": "Neurobiology Student Seminar: Angela Liang: Microglia-dependent regulation of fear memory extinction",
+      "date": "2026-10-07T12:00:00",
+      "location": "Bryan Research 103",
+      "description": "Angela is in Staci Bilbo Lab Title: Microglia-dependent regulation of fear memory extinction",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "e86dd95e08c1",
+      "title": "Climate and Health in Asia: Emerging Challenges and Solutions",
+      "date": "2026-10-07T12:00:00",
+      "location": "None",
+      "description": "Dr. Davaalkham's presentation covers climate change, which is warming Mongolia three times faster than the global average, and severe air pollution, estimated to cause 9.7% of all deaths in the city. ",
+      "source": "Duke Events",
+      "url": "https://sites.nicholas.duke.edu/envhealth/fall-2026-seminar-series/october-7-2026-special-seminar-two-talks/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "9b8971e9077f",
       "title": "Secrets of Great Salt Lake",
       "date": "2026-10-07T12:15:00",
@@ -637,6 +131,127 @@
       "url": "https://marbleskidsmuseum.org/event/48341/",
       "latitude": 35.776,
       "longitude": -78.635
+    },
+    {
+      "id": "2517f5bd6511",
+      "title": "Organ Demonstration",
+      "date": "2026-10-07T13:00:00",
+      "location": "Duke Chapel",
+      "description": "This organ demonstration is an opportunity to stop in to hear a Duke Chapel organ or B\u00f6sendorfer grand piano played in the informal atmosphere of an open rehearsal. These demonstrations are typically ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "cb64d43dd650",
+      "title": "What\u2019s in the Box?",
+      "date": "2026-10-07T14:00:00",
+      "location": "East Building, Studios",
+      "description": "/ Events / Events Events Overview General Admission $12 Members $10 Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/whats-in-the-box-7/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "559c7743bde2",
+      "title": "Wearable and Implantable Systems for Seamless High-Fidelity Diagnostics and Therapeutics",
+      "date": "2026-10-07T14:00:00",
+      "location": "None",
+      "description": "Abstract: Advances in materials and fabrication concepts for soft electronics coupled with miniaturization of wireless energy transfer enables the creation of high-performance electronic and optoelect",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "91bdd1bee7c1",
+      "title": "Engineering Master's Career Drop-In Hours",
+      "date": "2026-10-07T15:00:00",
+      "location": "None",
+      "description": "Attend drop-in hours for quick advice and feedback that lasts 10-15 minutes. Career Drop-In Hours take place Tuesday-Friday while classes are in session.",
+      "source": "Duke Events",
+      "url": "https://sites.duke.edu/prattgsps/career-communications-team/11-coaching/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "8f5cc6cb4d30",
+      "title": "Towards Personalizing Assistive Technology in the Real World",
+      "date": "2026-10-07T15:45:00",
+      "location": "Teer 106",
+      "description": "Abstract: Assistive technology offers promise to improve personal mobility for hundreds of millions of people. However, determining how to assist people to accommodate their unique needs across everyd",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "c9f4ff40309f",
+      "title": "Knowing Nature: An exhibit celebration event",
+      "date": "2026-10-07T16:00:00",
+      "location": "Perkins Library Chappell Family Gallery",
+      "description": "The creators of Knowing Nature: Handbooks, Field Guides, & Apps, will host an exhibit tour and Rubenstein Library show and tell of some materials highlighted in the exhibit. Dr. Andrew Griebeler will ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "261566e18d0e",
+      "title": "TMS in Autism Spectrum Disorder: From Pathophysiology to Development of Novel Therapeutic Protocols",
+      "date": "2026-10-07T16:00:00",
+      "location": "None",
+      "description": "Dr. Lindsay Oberman is a staff scientist and directs the Developmental Clinical Neurophysiology and Neurostimulation Research Program within the National Institute of Mental Health Intramural Research",
+      "source": "Duke Events",
+      "url": "https://duke.zoom.us/meeting/register/cGZqDPU-RfW0aV4bgaKozw",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "5dc60b62cd5b",
+      "title": "October 7th Observance for the Duke Community",
+      "date": "2026-10-07T16:30:00",
+      "location": "Bryan Center Plaza",
+      "description": "Join the Duke community as we mark the third anniversary of the October 7, 2023 terror attacks in Israel. Brief remarks will begin at 4:30pm, followed by opportunities to reflect, learn, and connect u",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "02d1d36d093a",
+      "title": "Weekday Carillon Recital",
+      "date": "2026-10-07T17:00:00",
+      "location": "Duke Chapel",
+      "description": "Each weekday at 5:00 p.m., a Duke Chapel carillonneur plays a fifteen-minute recital on the bells in the Duke Chapel tower. The recital begins with an opening excerpt of music, then a bell tolls five ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "644b9f285765",
+      "title": "Duke Arts Create: Paper Making",
+      "date": "2026-10-07T17:30:00",
+      "location": "Duke Campus Farm",
+      "description": "Learn to make paper from recycled materials like junk mail! In this zero-waste workshop, we'll use a blended pulp to create sheets of paper using the dip method with a mold and deckle, and discuss pro",
+      "source": "Duke Events",
+      "url": "https://arts.duke.edu/events/paper-making-4/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "dab0e3561eb0",
+      "title": "How Indigenous Peoples' Actions to Address Climate Change Scale Up",
+      "date": "2026-10-07T17:30:00",
+      "location": "Nasher Museum of Art Auditorium",
+      "description": "Dr. Kyle Whyte is a member of the Citizen Potawatomi Nation. His environmental justice research focuses on the moral and political issues that Indigenous peoples are addressing with regard to climate ",
+      "source": "Duke Events",
+      "url": "https://duke.qualtrics.com/jfe/form/SV_4NnykfvFEC7dN8G",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "9cbff52b3608",
@@ -670,6 +285,17 @@
       "url": "https://marbleskidsmuseum.org/event/48191/",
       "latitude": 35.776,
       "longitude": -78.635
+    },
+    {
+      "id": "84302f82aa90",
+      "title": "Building a Startup as an International Student",
+      "date": "2026-10-07T19:00:00",
+      "location": "None",
+      "description": "Join business development principal and immigration advisor Melissa Harms in learning how founders navigate visas, risk, and opportunity in the U.S.",
+      "source": "Duke Events",
+      "url": "https://duke.qualtrics.com/jfe/form/SV_6AmgnFss0ibwlbU",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "48e44d0f2d73",
@@ -727,6 +353,116 @@
       "longitude": -78.6376
     },
     {
+      "id": "1d4e5d022b45",
+      "title": "Flu Vaccine Clinic: Duke Hospital - Duke Medical Pavilion Clinic",
+      "date": "2026-10-08T07:30:00",
+      "location": "Duke Medical Pavilion",
+      "description": "(Room 2W91) Duke offers locations where faculty, staff and students can receive a free flu vaccination. Vaccinations can also be obtained at Duke Primary Care providers, area pharmacies and other loca",
+      "source": "Duke Events",
+      "url": "https://vaccines.duke.edu/vaccination/employees/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "ad43ce358fcc",
+      "title": "Flu Vaccine Clinic: Duke Health Lake Norman Hospital",
+      "date": "2026-10-08T07:30:00",
+      "location": "None",
+      "description": "(Location: HR Department) Duke offers locations where faculty, staff and students can receive a free flu vaccination. Vaccinations can also be obtained at Duke Primary Care providers, area pharmacies ",
+      "source": "Duke Events",
+      "url": "https://vaccines.duke.edu/vaccination/employees/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "9a2de315efe7",
+      "title": "Flu Vaccine Clinic: Duke Regional Hospital Cafeteria",
+      "date": "2026-10-08T08:00:00",
+      "location": "Duke Regional Hospital",
+      "description": "Location: Duke Regional Hospital Cafeteria Duke offers locations where faculty, staff and students can receive a free flu vaccination. Vaccinations can also be obtained at Duke Primary Care providers,",
+      "source": "Duke Events",
+      "url": "https://vaccines.duke.edu/vaccination/employees/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "25a76409b748",
+      "title": "Flu Vaccine Clinic: Duke Raleigh Hospital North Pavilion",
+      "date": "2026-10-08T08:00:00",
+      "location": "None",
+      "description": "(Location: Duke Raleigh Hospital North Pavilion) Duke offers locations where faculty, staff and students can receive a free flu vaccination. Vaccinations can also be obtained at Duke Primary Care prov",
+      "source": "Duke Events",
+      "url": "https://vaccines.duke.edu/vaccination/employees/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "9bb654719c4d",
+      "title": "Mobile Health Assessment",
+      "date": "2026-10-08T09:30:00",
+      "location": "None",
+      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/health-assessments/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "cbcb2da1aadf",
+      "title": "Mindful Movement",
+      "date": "2026-10-08T10:00:00",
+      "location": "Webcast",
+      "description": "Every Thursday at 10 a.m., add some movement to your mindfulness practice with Mindful Movement. The 15-minute Zoom sessions will combine movement, breathwork, visualization and intention to create a ",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/webinars/mindfulness/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "d0a1efa1fde6",
+      "title": "Compositional Systems Biology: An Executable Framework for Connecting Models Across Scales",
+      "date": "2026-10-08T10:00:00",
+      "location": "None",
+      "description": "Abstract: Biological systems are organized across interacting scales, from molecular networks and metabolic pathways to cells, tissues, microbial communities, and their environments, yet many computat",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "1005872a3f52",
+      "title": "Engineering Master's Career Drop-In Hours",
+      "date": "2026-10-08T10:00:00",
+      "location": "None",
+      "description": "Attend drop-in hours for quick advice and feedback that lasts 10-15 minutes. Career Drop-In Hours take place Tuesday-Friday while classes are in session.",
+      "source": "Duke Events",
+      "url": "https://sites.duke.edu/prattgsps/career-communications-team/11-coaching/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "ada2e346a39f",
+      "title": "Study Abroad Fair 2026",
+      "date": "2026-10-08T10:00:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/study-abroad-fair-2026",
+      "latitude": 35.7847,
+      "longitude": -78.6821
+    },
+    {
+      "id": "ddd559f0be46",
+      "title": "Dissertation Announcement: Satoko Sim",
+      "date": "2026-10-08T10:15:00",
+      "location": "None",
+      "description": "Dissertation Title: Cellular Responses to Influenza Virus Infection: Non-lytic Clearance and the Antiviral State",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "21e310d47b77",
       "title": "Secrets of Great Salt Lake",
       "date": "2026-10-08T10:15:00",
@@ -738,6 +474,28 @@
       "longitude": -78.635
     },
     {
+      "id": "9e3bf513b613",
+      "title": "Duke Farmers Market",
+      "date": "2026-10-08T11:00:00",
+      "location": "None",
+      "description": "Join us for the Duke Farmers Market! Here you can: Find farm fresh fruits, vegetables, and other local goods at a convenient location. Enjoy a relaxed atmosphere while learning about local food system",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/farmers-market/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "7d3e338f82cc",
+      "title": "Alum Zoom: Six Career Questions with Kelli Luginbuhl PhD (Duke BME), Lecturing Fellow in Duke Innovation & Entrepreneurship, Co-Founder of Isolere Bio, and Director of the Duke PhD Innovators Program",
+      "date": "2026-10-08T11:00:00",
+      "location": "Virtual",
+      "description": "As part of a series of short, focused career conversations with former Duke postdocs and PhD students, we'll feature Kelli Luginbuhl PhD. Kelli earned her PhD from Duke Biomedical Engineering, and was",
+      "source": "Duke Events",
+      "url": "https://sites.duke.edu/careersbeyondacademia/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "158f47ce3062",
       "title": "Wild Rescue 3D",
       "date": "2026-10-08T11:15:00",
@@ -747,6 +505,17 @@
       "url": "https://marbleskidsmuseum.org/event/48325/",
       "latitude": 35.776,
       "longitude": -78.635
+    },
+    {
+      "id": "6a4fa88d5883",
+      "title": "Chat with a Chaplain",
+      "date": "2026-10-08T11:30:00",
+      "location": "Bryan Center Plaza",
+      "description": "Students are invited to swing by the Bryan Center Plaza between 11:30 a.m. and 1:30 p.m. The QuadEx Chaplains are holding this \"Chat with a Chaplain\" time for brief (or longer) conversations about mea",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "564b81a4f697",
@@ -813,6 +582,17 @@
       "url": "https://ncartmuseum.org/event/virtual-sensory-journey-through-art/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "4cd111b35bd8",
+      "title": "Duke Summit on AI for Health Innovation",
+      "date": "2026-10-08T19:00:00",
+      "location": "None",
+      "description": "Hosted by Duke AI Health and the Pratt School of Engineering and the Digital Health Innovation at Duke University, this event will bring together experts from healthcare, engineering, industry, and ac",
+      "source": "Duke Events",
+      "url": "https://aihealth.duke.edu/2026-innovation-summit/",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "e786c5aed5be",
@@ -1167,6 +947,17 @@
       "longitude": -79.0521
     },
     {
+      "id": "747d533d6dc9",
+      "title": "Queen Budapest",
+      "date": "2026-10-10T18:30:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48192/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "973bb632e1ab",
       "title": "Marbles Film Festival",
       "date": "2026-10-10T19:00:00",
@@ -1244,6 +1035,28 @@
       "longitude": -78.6379
     },
     {
+      "id": "e5e6ae26f7a3",
+      "title": "Secrets of Great Salt Lake",
+      "date": "2026-10-11T11:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48348/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "102f5d754b2a",
+      "title": "Cities of the Future 3D",
+      "date": "2026-10-11T12:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48339/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "831a25c79624",
       "title": "Public Tour",
       "date": "2026-10-11T13:00:00",
@@ -1264,6 +1077,17 @@
       "url": "https://moreheadplanetarium.org/calendar/solar-system-odyssey-117/",
       "latitude": 35.9133,
       "longitude": -79.0521
+    },
+    {
+      "id": "949202918667",
+      "title": "Wild Rescue 3D",
+      "date": "2026-10-11T14:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48327/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "7c88886e7b5b",
@@ -1299,6 +1123,17 @@
       "longitude": -79.0521
     },
     {
+      "id": "17bced0239e7",
+      "title": "Digger",
+      "date": "2026-10-11T18:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48462/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "dfa4694548d1",
       "title": "Unframed Voices: Art. Theater. No Boundaries.",
       "date": "2026-10-11T19:00:00",
@@ -1308,6 +1143,17 @@
       "url": "https://ncartmuseum.org/event/unframed-voices-art-theater-no-boundaries-2/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "5aff95c3e512",
+      "title": "Museum Admission",
+      "date": "2026-10-11T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/47630/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "6b81ee4952c0",
@@ -1651,6 +1497,17 @@
       "longitude": -79.0521
     },
     {
+      "id": "8e62759e179e",
+      "title": "Global Rhythms: Of Love presented by Big Red Dance Project",
+      "date": "2026-10-17T11:00:00",
+      "location": "East Building, Level B",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/global-rhythms-of-love-presented-by-big-red-dance-project/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
       "id": "dcaf49b38ec5",
       "title": "The Sun: Our Living Star",
       "date": "2026-10-17T12:00:00",
@@ -1827,6 +1684,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "7defcfe1810b",
+      "title": "Research & Discovery Fair",
+      "date": "2026-10-21T11:00:00",
+      "location": "UNC Chapel Hill, Chapel Hill, NC",
+      "description": "",
+      "source": "UNC Events",
+      "url": "https://calendar.unc.edu/event/research-discovery-fair-8410",
+      "latitude": 35.9132,
+      "longitude": -79.0558
+    },
+    {
       "id": "4ca17ac63d27",
       "title": "Yoga Under The Stars",
       "date": "2026-10-21T18:00:00",
@@ -1977,6 +1845,28 @@
       "description": "",
       "source": "Morehead Planetarium",
       "url": "https://moreheadplanetarium.org/calendar/astronaut-197/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "5019f10d87c3",
+      "title": "We Are Stars",
+      "date": "2026-10-24T13:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/we-are-stars-226/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "7a1ad2c72b03",
+      "title": "From Earth to the Universe",
+      "date": "2026-10-24T15:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/from-earth-to-the-universe-187/",
       "latitude": 35.9133,
       "longitude": -79.0521
     },
@@ -2641,6 +2531,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "7c849fdf2fc4",
+      "title": "Level Up",
+      "date": "2026-11-13T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/level-up-raleigh-north-carolina-11-13-2026/event/2D0064F0A3093EE8",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "5ad1b31543a1",
       "title": "Deerhoof",
       "date": "2026-11-13T20:00:00",
@@ -2683,6 +2584,17 @@
       "url": "https://www.nhl.com/hurricanes/schedule",
       "latitude": 35.8033,
       "longitude": -78.7228
+    },
+    {
+      "id": "938c5540964d",
+      "title": "Orville Peck - Man Turned Mule Tour",
+      "date": "2026-11-14T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/orville-peck-man-turned-mule-tour-raleigh-north-carolina-11-14-2026/event/2D0064F0B38E8C60",
+      "latitude": 35.8468,
+      "longitude": -78.6379
     },
     {
       "id": "5a51f5180b90",
@@ -3378,6 +3290,17 @@
       "longitude": -78.7228
     },
     {
+      "id": "02b7055e5ed0",
+      "title": "THE CALIFORNIA HONEYDROPS \u2013 WINTER 2027 TOUR",
+      "date": "2027-01-19T20:00:00",
+      "location": "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
+      "description": "",
+      "source": "Lincoln Theatre",
+      "url": "https://lincolntheatre.com/event/the-california-honeydrops-winter-2027-tour/lincoln-theatre/raleigh-north-carolina/",
+      "latitude": 35.774,
+      "longitude": -78.6376
+    },
+    {
       "id": "71f1ffa98d69",
       "title": "Inside Out and Backwards",
       "date": "2027-01-20T19:30:00",
@@ -3774,6 +3697,17 @@
       "longitude": -78.8152
     },
     {
+      "id": "36f31907bb91",
+      "title": "Latest News",
+      "date": "2027-05-08T19:00:00",
+      "location": "Booth Amphitheatre, 8003 Regency Pkwy, Cary, NC",
+      "description": "",
+      "source": "Booth Amphitheatre",
+      "url": "https://www.boothamphitheatre.com/events",
+      "latitude": 35.7916,
+      "longitude": -78.8152
+    },
+    {
       "id": "59ffda50637f",
       "title": "Baby Shark",
       "date": "2027-05-12T19:30:00",
@@ -3807,8 +3741,8 @@
       "longitude": -78.658
     }
   ],
-  "last_updated": "2026-10-05T12:49:14.538809",
-  "total_events": 346,
+  "last_updated": "2026-10-07T12:09:46.765317",
+  "total_events": 340,
   "sources": [
     "Manual Events",
     "Visit Raleigh",
@@ -3842,10 +3776,10 @@
     "Chapelboro": 3,
     "DPAC": 0,
     "NC Museum of Art": 25,
-    "Cat's Cradle": 105,
+    "Cat's Cradle": 101,
     "Lincoln Theatre": 41,
     "Raleigh Arts": 0,
-    "Duke Events": 33,
+    "Duke Events": 30,
     "UNC Events": 4,
     "NC State Events": 1,
     "Marbles Kids Museum": 24,
@@ -3855,8 +3789,8 @@
     "Artspace Raleigh": 0,
     "Durham Bulls": 0,
     "Carolina Hurricanes": 40,
-    "Booth Amphitheatre": 1,
-    "Red Hat Amphitheater": 4,
+    "Booth Amphitheatre": 2,
+    "Red Hat Amphitheater": 3,
     "The Ritz": 25
   },
   "zero_strikes": {
