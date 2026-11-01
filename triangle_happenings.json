@@ -1,259 +1,6 @@
 {
   "events": [
     {
-      "id": "bf66cf0865d9",
-      "title": "Magic Tree House Space Mission",
-      "date": "2026-10-31T10:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/magic-tree-house-space-mission-314/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "7caa3f8b4b48",
-      "title": "Secrets of Great Salt Lake",
-      "date": "2026-10-31T11:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/48396/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "6291d4d871f6",
-      "title": "Guest Star: Art",
-      "date": "2026-10-31T11:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/48520/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "50369b925230",
-      "title": "Guest Star: Science",
-      "date": "2026-10-31T11:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/48838/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "231e3f0b7cfd",
-      "title": "Wild Rescue 3D",
-      "date": "2026-10-31T12:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/48374/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "12b7bb46a37e",
-      "title": "The Sun: Our Living Star",
-      "date": "2026-10-31T12:00:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/the-sun-our-living-star-71/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "ba320dc40e8c",
-      "title": "Public Tour",
-      "date": "2026-10-31T13:00:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/public-tour-2/2026-10-31/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "f4f6e365aeb3",
-      "title": "T. REX 3D",
-      "date": "2026-10-31T13:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/48414/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "5cec88c5dd88",
-      "title": "We Are Stars",
-      "date": "2026-10-31T13:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/we-are-stars-227/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "f153449cb921",
-      "title": "Duke Chorale: Chorale-O-Ween Celebration",
-      "date": "2026-10-31T14:00:00",
-      "location": "Baldwin Auditorium",
-      "description": "Celebrate Chorale-o-ween with an evening of music honoring D\u00eda de los Muertos and the rich choral heritage of Mexico. The Duke Chorale is joined by Mariachi Toro de Duke, Son de Carolina, and special ",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "528a0f69f722",
-      "title": "Art on the Dot",
-      "date": "2026-10-31T14:30:00",
-      "location": "West Building",
-      "description": "/ Events / Events Events Overview General Admission Free Share:",
-      "source": "NC Museum of Art",
-      "url": "https://ncartmuseum.org/event/art-on-the-dot-3/2026-10-31/",
-      "latitude": 35.8027,
-      "longitude": -78.6893
-    },
-    {
-      "id": "3786fb927697",
-      "title": "Piano Masterclass: Awadagin Pratt",
-      "date": "2026-10-31T15:00:00",
-      "location": "East Duke 201 - Nelson Music Room",
-      "description": "Experience the artistry and insight of acclaimed pianist Awadagin Pratt in this engaging masterclass. Praised by The Washington Post as \"one of this country's most interesting and profound pianists,\" ",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "b3c2563e276f",
-      "title": "From Earth to the Universe",
-      "date": "2026-10-31T15:00:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/from-earth-to-the-universe-188/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "530a097a3284",
-      "title": "Scare-olina Skies",
-      "date": "2026-10-31T16:30:00",
-      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
-      "description": "",
-      "source": "Morehead Planetarium",
-      "url": "https://moreheadplanetarium.org/calendar/scare-olina-skies-6/",
-      "latitude": 35.9133,
-      "longitude": -79.0521
-    },
-    {
-      "id": "fa7cb89fc2f6",
-      "title": "Museum Admission",
-      "date": "2026-10-31T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/47635/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "f03049a0e0fa",
-      "title": "Clara La San - Chosen Silences Tour Fall 2026",
-      "date": "2026-10-31T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/clara-la-san-chosen-silences-tour-raleigh-north-carolina-10-31-2026/event/2D00650BC633F50C",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
-      "id": "00d6da0567df",
-      "title": "Saxsquatch",
-      "date": "2026-10-31T20:00:00",
-      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
-      "description": "",
-      "source": "Cat's Cradle",
-      "url": "https://catscradle.com/event/saxsquatch-2/cats-cradle/carrboro-north-carolina/",
-      "latitude": 35.9094,
-      "longitude": -79.0758
-    },
-    {
-      "id": "cf7d8c909db0",
-      "title": "WXYC Presents: Dismembered on the Dance Floor",
-      "date": "2026-10-31T20:00:00",
-      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
-      "description": "",
-      "source": "Cat's Cradle",
-      "url": "https://catscradle.com/event/wxyc-presents-dismembered-on-the-dance-floor/cats-cradle-back-room/carrboro-north-carolina/",
-      "latitude": 35.9094,
-      "longitude": -79.0758
-    },
-    {
-      "id": "fdcd6fdc99f4",
-      "title": "Jackson Dean",
-      "date": "2026-10-31T20:00:00",
-      "location": "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
-      "description": "",
-      "source": "Lincoln Theatre",
-      "url": "https://lincolntheatre.com/event/jackson-dean-w-kc-bruner/lincoln-theatre/raleigh-north-carolina/",
-      "latitude": 35.774,
-      "longitude": -78.6376
-    },
-    {
-      "id": "c49540331851",
-      "title": "All Hallows' Eve Worship Service",
-      "date": "2026-10-31T22:30:00",
-      "location": "Duke Chapel",
-      "description": "All Hallows' Eve service is a festival in the church that recalls the faith and witness of those who have carried on and cherished the Christian faith throughout history. The service celebrates the Ch",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "6a0a69969663",
-      "title": "ADULT BIBLE STUDY - Wisdom Literature in the Old Testament",
-      "date": "2026-11-01T09:45:00",
-      "location": "Westbrook 0013",
-      "description": "The Congregation at Duke Chapel invites you to join our Adult Bible Study as we explore Wisdom Literature in the Old Testament (Job, Psalms, Proverbs, Ecclesiastes, and Song of Songs). What do we do w",
-      "source": "Duke Events",
-      "url": "https://congregation.chapel.duke.edu/children",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "1f6396cbb217",
-      "title": "MINISTRIES FOR CHILDREN - 9:45am",
-      "date": "2026-11-01T09:45:00",
-      "location": "Divinity School",
-      "description": "Children's Christian education classes are available for all ages from 9:45 - 10:45 a.m. in the lowest level of the Divinity School Buildings. New participants are welcome to attend at any time. WEE P",
-      "source": "Duke Events",
-      "url": "https://congregation.chapel.duke.edu/children",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "b6953318aadd",
-      "title": "ADULT FORUM: Reassurance for Tomorrow (Luke 23:43)",
-      "date": "2026-11-01T09:45:00",
-      "location": "Westbrook 0012",
-      "description": "What do Christians believe happens as we breathe our last mortal breath? Is it right to fear death? What did Jesus mean when he promised the thief on the cross that he would be in paradise that very d",
-      "source": "Duke Events",
-      "url": "https://hrjiju7ab.cc.rs6.net/tn.jsp?f=001LYe0Q9v5R-0WmdoXa6KAdewzYW0IQCBccVT93U-YtSVkQgHcR8BmNpTmYH03P4XEB-kZ98u_pktJ8YrYWLod9yoejHBjQBvWmMOISnP_Jk4uRFRAT8FhMjbdchT4Wd5nc286lbKroTZxTTOTh1DJP414vHfI6evkIGrwd26shilGWXCe55YfRwQkl4qPWWRIhB_sFq3YsZk6uFiYfhvSA8CZjrjLvEoB1a-4Pw887Co=&c=G2M8-I-H_BlLepVlkMZgItwtzuyx0SqZFt6nLvfel-RUdWm19n3zmA==&ch=fiTGt2YA18mR-WsBN4ppY6SrxRRtoULr-ArtbagXnXgmhd47v6RmMw==",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
       "id": "43f033d13188",
       "title": "Exploring Membership at the Congregation at Duke University Chapel",
       "date": "2026-11-01T11:00:00",
@@ -276,6 +23,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "1f9ff56fc14d",
+      "title": "Wild Rescue 3D",
+      "date": "2026-11-01T11:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48375/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "546554d79f8f",
       "title": "Jewish Studies Research Symposium",
       "date": "2026-11-01T12:00:00",
@@ -285,6 +43,17 @@
       "url": "https://jewishstudies.duke.edu/2026-sperling-center-jewish-studies-research-symposium",
       "latitude": 35.994,
       "longitude": -78.8986
+    },
+    {
+      "id": "f51d29ef3eb8",
+      "title": "Cities of the Future 3D",
+      "date": "2026-11-01T12:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48381/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "dcebf491704f",
@@ -298,6 +67,17 @@
       "longitude": -78.6893
     },
     {
+      "id": "5dd40eae53d3",
+      "title": "Secrets of Great Salt Lake",
+      "date": "2026-11-01T13:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48398/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "073dacca5b41",
       "title": "Carolina Hurricanes vs. Winnipeg",
       "date": "2026-11-01T13:00:00",
@@ -307,6 +87,17 @@
       "url": "https://www.nhl.com/hurricanes/schedule",
       "latitude": 35.8033,
       "longitude": -78.7228
+    },
+    {
+      "id": "0fc1f95bcd72",
+      "title": "Solar System Odyssey",
+      "date": "2026-11-01T13:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/solar-system-odyssey-120/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
     },
     {
       "id": "3b9e3c967d9d",
@@ -331,6 +122,17 @@
       "longitude": -78.8986
     },
     {
+      "id": "eb36b1e0337f",
+      "title": "The Blue Angels 3D",
+      "date": "2026-11-01T14:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48416/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "40933157060b",
       "title": "Art on the Dot",
       "date": "2026-11-01T14:30:00",
@@ -342,6 +144,28 @@
       "longitude": -78.6893
     },
     {
+      "id": "590f796c3cfb",
+      "title": "Supermassive Black Holes",
+      "date": "2026-11-01T15:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/supermassive-black-holes-149/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "11e088aaf504",
+      "title": "Wildwood",
+      "date": "2026-11-01T15:30:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48835/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "1a9c82957693",
       "title": "Choral Evensong Worship Service",
       "date": "2026-11-01T16:00:00",
@@ -351,6 +175,39 @@
       "url": "https://calendar.duke.edu",
       "latitude": 35.994,
       "longitude": -78.8986
+    },
+    {
+      "id": "4ebb582e964c",
+      "title": "One Sky, Many Eyes",
+      "date": "2026-11-01T16:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/one-sky-many-eyes-195/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "ebb99cb9cbd3",
+      "title": "Once Upon a Time in Hollywood",
+      "date": "2026-11-01T18:30:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48833/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "eff336b17b24",
+      "title": "Museum Admission",
+      "date": "2026-11-01T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/47636/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "7c0b7e938db0",
@@ -417,6 +274,17 @@
       "url": "https://hr.duke.edu/wellness/health-assessments/",
       "latitude": 35.994,
       "longitude": -78.8986
+    },
+    {
+      "id": "76fbe4e95a27",
+      "title": "Baby Time Meet-up",
+      "date": "2026-11-02T10:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48679/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "c652fad74ffb",
@@ -573,6 +441,17 @@
       "longitude": -78.6379
     },
     {
+      "id": "bbb48997cc08",
+      "title": "Museum Admission",
+      "date": "2026-11-02T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/47571/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "66f09661c9c3",
       "title": "Flu Vaccine Clinic: Duke Hospital - Duke Medical Pavilion Clinic",
       "date": "2026-11-03T07:30:00",
@@ -628,6 +507,127 @@
       "longitude": -78.8986
     },
     {
+      "id": "d04690e9f76d",
+      "title": "Neurobiology Seminar: Michael Crickmore: \"Dopamine, the Governor, and the pace of behavioral sequences\"",
+      "date": "2026-11-03T10:00:00",
+      "location": "Bryan Research 103",
+      "description": "Michael Crickmore is Assistant Professor of Neurology, The Harvard Program in Neuroscience at Harvard University.",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "2e6a5cead581",
+      "title": "Lost Wolves of Yellowstone 2D",
+      "date": "2026-11-03T10:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48811/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "0f950f4e3313",
+      "title": "Engineering Master's Career Drop-In Hours",
+      "date": "2026-11-03T11:00:00",
+      "location": "None",
+      "description": "Attend drop-in hours for quick advice and feedback that lasts 10-15 minutes. Career Drop-In Hours take place Tuesday-Friday while classes are in session.",
+      "source": "Duke Events",
+      "url": "https://sites.duke.edu/prattgsps/career-communications-team/11-coaching/",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "bfec1bd1eb35",
+      "title": "Secrets of Great Salt Lake",
+      "date": "2026-11-03T11:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48644/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "b054bafea4c2",
+      "title": "Power Lunch with Mat Everhart, M.B.A.'24",
+      "date": "2026-11-03T11:30:00",
+      "location": "Energy Hub Teaching Lab, Gross Hall 100C",
+      "description": "Duke students are invited to join Mat Everhart, M.B.A.'24, CEO of STADLER America LLC, to learn about circular economy principles and how STADLER's work on engineering sorting systems for better mater",
+      "source": "Duke Events",
+      "url": "https://duke.is/nov3power",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "a6d70ca2217a",
+      "title": "Chemistry Seminar Presented by Prof. Peter Mahaffy (The King\u2019s University, Edmonton) Realizing the Role for Chemistry and Chemistry Education in the Emergence of Sustainability: A Systems Approach",
+      "date": "2026-11-03T11:40:00",
+      "location": "French Family Science Center 2237",
+      "description": "The Department of Chemistry is excited to host Prof. Peter Mahaffy (The King's University, Edmonton) on Tuesday, November 3, 2026, for a departmental seminar. The sustainability challenges facing our ",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "0c233dc0b60b",
+      "title": "Learning in Networks Reading Group",
+      "date": "2026-11-03T12:00:00",
+      "location": "Gross Hall, Ahmadieh Family Grand Hall, Room 330",
+      "description": "Learning in Networks Reading Group and Seminar Series: Tuesdays, 12pm in 330 Gross Hall; lunch included The institute focuses on fundamental questions in statistical inference, machine learning, causa",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "8fe28a347429",
+      "title": "A Fireside Chat with John Sundy, MD, PhD",
+      "date": "2026-11-03T12:00:00",
+      "location": "Online",
+      "description": "Join the DCRI Research Forum on Tuesday, Nov. 3, 2026, Noon-1 p.m. ET, for a fireside chat with John Sundy, MD, PhD, chief medical officer and head of research and development at Seismic Therapeutic a",
+      "source": "Duke Events",
+      "url": "https://prodduke.sharepoint.com/sites/DCRI-PULSE-EVENTS/_layouts/15/Event.aspx?ListGuid=43e6fe1b-badd-468d-bf3f-04388b32078e&ItemId=2143",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "6b591dc79023",
+      "title": "Superhuman Body 3D",
+      "date": "2026-11-03T12:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48645/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "3756c1f7bacf",
+      "title": "Born to Be Wild 3D",
+      "date": "2026-11-03T13:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48619/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "bef254b8dc01",
+      "title": "Cities of the Future 3D",
+      "date": "2026-11-03T14:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48646/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "471eb5bfa9d0",
       "title": "The Bettie Allison Rand Lectures in Art History: Alexander Marr, University of Cambridge",
       "date": "2026-11-03T17:30:00",
@@ -637,6 +637,39 @@
       "url": "https://calendar.unc.edu/event/the-bettie-allison-rand-lectures-in-art-history-alexander-marr-university-of-cambridge",
       "latitude": 35.9132,
       "longitude": -79.0558
+    },
+    {
+      "id": "1f9b9b4c83ec",
+      "title": "Godzilla Minus Zero-EarlyAcc",
+      "date": "2026-11-03T17:30:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48626/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "dbd008d7e046",
+      "title": "Carolina Science Cafe: Relationships in Congress",
+      "date": "2026-11-03T18:00:00",
+      "location": "Haw River Tap & Table, 300 E Main St C, Carrboro, NC, 27510, United States",
+      "description": "Relationships and Collaborations in Congress In November\u2019s Carolina Science Caf\u00e9, we\u2019re hosting a special Election Day topic! We\u2019ll be joined by Dr. Jason Roberts, a professor from UNC-Chapel Hill\u2019s D",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/carolina-science-cafe-nov2026/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "735069ae0aab",
+      "title": "Museum Admission",
+      "date": "2026-11-03T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/47591/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "4e0d1581827c",
@@ -683,6 +716,61 @@
       "longitude": -78.6893
     },
     {
+      "id": "ecbbe61f4c99",
+      "title": "Oceans: Our Blue Planet 3D",
+      "date": "2026-11-04T10:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48499/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "318130bbb83d",
+      "title": "Wild Rescue 3D",
+      "date": "2026-11-04T11:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48647/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "2eeedbe1f1db",
+      "title": "Secrets of Great Salt Lake",
+      "date": "2026-11-04T12:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48648/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "7763a8b683ee",
+      "title": "Superhuman Body 3D",
+      "date": "2026-11-04T13:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48649/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "6ba270ba087b",
+      "title": "Animal Kingdom 3D",
+      "date": "2026-11-04T14:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48650/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "3401bc4b1bbf",
       "title": "A Conversation with Holden Thorp: Documenting Facts During Turmoil",
       "date": "2026-11-04T18:00:00",
@@ -705,6 +793,17 @@
       "longitude": -78.6379
     },
     {
+      "id": "b3e1d8b7ad66",
+      "title": "Museum Admission",
+      "date": "2026-11-04T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/47592/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "1733cf21a6eb",
       "title": "Sam Shackleton \u2013 North American Headline Tour",
       "date": "2026-11-04T20:00:00",
@@ -716,6 +815,39 @@
       "longitude": -79.0758
     },
     {
+      "id": "cf3450a09b83",
+      "title": "Secrets of Great Salt Lake",
+      "date": "2026-11-05T10:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48651/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "b922ad63a295",
+      "title": "Superpower Dogs 3D",
+      "date": "2026-11-05T11:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48535/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "586108b5619b",
+      "title": "Cities of the Future 3D",
+      "date": "2026-11-05T12:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48652/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
       "id": "a1fa9dd28c6c",
       "title": "Docent-Led Public Tour of Ancient Nubia",
       "date": "2026-11-05T13:00:00",
@@ -725,6 +857,17 @@
       "url": "https://ncartmuseum.org/event/public-tour-3/2026-11-05/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "6151ded6a53e",
+      "title": "Wild Rescue 3D",
+      "date": "2026-11-05T14:15:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48654/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "c4bb8f348827",
@@ -747,6 +890,28 @@
       "url": "https://ncartmuseum.org/event/ncma-after-hours-4/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "c3bda65d57b9",
+      "title": "Garden Gourmet",
+      "date": "2026-11-05T17:30:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/48524/",
+      "latitude": 35.776,
+      "longitude": -78.635
+    },
+    {
+      "id": "feebb74f264e",
+      "title": "Museum Admission",
+      "date": "2026-11-05T19:00:00",
+      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
+      "description": "",
+      "source": "Marbles Kids Museum",
+      "url": "https://marbleskidsmuseum.org/event/47606/",
+      "latitude": 35.776,
+      "longitude": -78.635
     },
     {
       "id": "2edd08003962",
@@ -824,6 +989,28 @@
       "url": "https://ncartmuseum.org/event/digital-explorations-in-art-with-nancy-baker-cahill/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "97fe4d01359f",
+      "title": "Messengers of Time & Space",
+      "date": "2026-11-06T15:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/messengers-of-time-space-56/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "0b923e87b15d",
+      "title": "Carolina Skies",
+      "date": "2026-11-06T16:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/carolina-skies-544/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
     },
     {
       "id": "55996c5cbd74",
@@ -914,6 +1101,17 @@
       "longitude": -78.6893
     },
     {
+      "id": "dd2aa1e8522c",
+      "title": "Magic Tree House Space Mission",
+      "date": "2026-11-07T10:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/magic-tree-house-space-mission-315/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
       "id": "cd907e15f4e9",
       "title": "Lasting Impressions: Clay Relief with Isys Hennigar",
       "date": "2026-11-07T11:00:00",
@@ -923,6 +1121,17 @@
       "url": "https://ncartmuseum.org/event/lasting-impressions-clay-relief-with-isys-hennigar/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "e8477c1303ad",
+      "title": "Saturday Science Sparks: UNC's Magic of Science",
+      "date": "2026-11-07T11:00:00",
+      "location": "Morehead Planetarium and Science Center, 250 E Franklin St, Chapel Hill, North Carolina, 27516, Unit",
+      "description": "Be a Scientist with UNC\u2019s Magic of Science! Roll up your sleeves and experience how stuff works with UNC-Chapel Hill\u2019s Magic of Science. STEM students will engage Morehead visitors with a variety of h",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/saturday-science-sparks-magic-of-science/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
     },
     {
       "id": "5c734007e7d8",
@@ -936,6 +1145,17 @@
       "longitude": -78.6893
     },
     {
+      "id": "b70a5b3934ce",
+      "title": "Astronaut",
+      "date": "2026-11-07T12:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/astronaut-198/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
       "id": "ef7f7bd111f9",
       "title": "Docent-Led Public Tour of Ancient Nubia",
       "date": "2026-11-07T13:00:00",
@@ -945,6 +1165,17 @@
       "url": "https://ncartmuseum.org/event/public-tour-2/2026-11-07/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "9555b49b8b09",
+      "title": "We Are Stars",
+      "date": "2026-11-07T13:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/we-are-stars-228/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
     },
     {
       "id": "bc238ff17b88",
@@ -967,6 +1198,28 @@
       "url": "https://ncartmuseum.org/event/common-ground-art-nature-and-people-exhibition-opening/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "adcddbe903fd",
+      "title": "From Earth to the Universe",
+      "date": "2026-11-07T15:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/from-earth-to-the-universe-189/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "f483e13b3068",
+      "title": "Carolina Skies",
+      "date": "2026-11-07T16:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/carolina-skies-545/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
     },
     {
       "id": "56bb5c7a5a6a",
@@ -1046,6 +1299,17 @@
       "longitude": -78.6893
     },
     {
+      "id": "5ff2ce070bfa",
+      "title": "Solar System Odyssey",
+      "date": "2026-11-08T13:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/solar-system-odyssey-121/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
       "id": "e19cf3c50c31",
       "title": "Isidore String Quartet",
       "date": "2026-11-08T14:00:00",
@@ -1055,6 +1319,39 @@
       "url": "https://ncartmuseum.org/event/isidore-string-quartet-2/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "6813e2599c62",
+      "title": "Art on the Dot",
+      "date": "2026-11-08T14:30:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/art-on-the-dot-3/2026-11-08/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
+      "id": "6be89403b4bc",
+      "title": "Supermassive Black Holes",
+      "date": "2026-11-08T15:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/supermassive-black-holes-150/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "1f8ccab9a671",
+      "title": "One Sky, Many Eyes",
+      "date": "2026-11-08T16:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/one-sky-many-eyes-196/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
     },
     {
       "id": "fc566ae8eb53",
@@ -1178,6 +1475,17 @@
       "longitude": -79.0758
     },
     {
+      "id": "65872141d2c5",
+      "title": "Public Tour",
+      "date": "2026-11-12T13:00:00",
+      "location": "West Building",
+      "description": "/ Events / Events Events Overview General Admission Free Share:",
+      "source": "NC Museum of Art",
+      "url": "https://ncartmuseum.org/event/public-tour-3/2026-11-12/",
+      "latitude": 35.8027,
+      "longitude": -78.6893
+    },
+    {
       "id": "72cda0a3b29b",
       "title": "Charlie Parr",
       "date": "2026-11-12T20:00:00",
@@ -1209,6 +1517,28 @@
       "url": "https://lincolntheatre.com/event/the-elovaters-at-the-ritz/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "80369aa46f6a",
+      "title": "Messengers of Time & Space",
+      "date": "2026-11-13T15:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/messengers-of-time-space-57/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "2b14f00d365f",
+      "title": "Carolina Skies",
+      "date": "2026-11-13T16:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/carolina-skies-546/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
     },
     {
       "id": "7c849fdf2fc4",
@@ -1255,6 +1585,28 @@
       "longitude": -78.6376
     },
     {
+      "id": "32c391201da4",
+      "title": "Magic Tree House Space Mission",
+      "date": "2026-11-14T10:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/magic-tree-house-space-mission-316/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "99c948112f4f",
+      "title": "The Sun: Our Living Star",
+      "date": "2026-11-14T12:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/the-sun-our-living-star-72/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
       "id": "333fecafed71",
       "title": "Carolina Hurricanes vs. Seattle",
       "date": "2026-11-14T13:00:00",
@@ -1264,6 +1616,39 @@
       "url": "https://www.nhl.com/hurricanes/schedule",
       "latitude": 35.8033,
       "longitude": -78.7228
+    },
+    {
+      "id": "4604c32b9e61",
+      "title": "We Are Stars",
+      "date": "2026-11-14T13:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/we-are-stars-229/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "3b818493690e",
+      "title": "From Earth to the Universe",
+      "date": "2026-11-14T15:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/from-earth-to-the-universe-190/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "7a2540713562",
+      "title": "Carolina Skies",
+      "date": "2026-11-14T16:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/carolina-skies-547/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
     },
     {
       "id": "938c5540964d",
@@ -1308,6 +1693,39 @@
       "url": "https://lincolntheatre.com/event/plus-dueling-pianos-road-show/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "6fe925373662",
+      "title": "Solar System Odyssey",
+      "date": "2026-11-15T13:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/solar-system-odyssey-122/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "96a797e6c92f",
+      "title": "Supermassive Black Holes",
+      "date": "2026-11-15T15:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/supermassive-black-holes-151/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "ed4a2ed77f72",
+      "title": "One Sky, Many Eyes",
+      "date": "2026-11-15T16:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/one-sky-many-eyes-197/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
     },
     {
       "id": "a7aa799715c4",
@@ -1552,6 +1970,17 @@
       "longitude": -78.7228
     },
     {
+      "id": "060505debf5b",
+      "title": "Jupiter Ball",
+      "date": "2026-11-21T18:00:00",
+      "location": "Morehead Planetarium and Science Center, 250 E Franklin St, Chapel Hill, North Carolina, 27516, Unit",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/jupiter-ball-2026/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
       "id": "360928f0b6f1",
       "title": "Imminence - Axis Mundi Tour: North America 2026",
       "date": "2026-11-21T18:30:00",
@@ -1649,6 +2078,50 @@
       "url": "https://lincolntheatre.com/event/friendsgiving-featuring-duck-friends/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "9eefa8e398df",
+      "title": "Magic Tree House Space Mission",
+      "date": "2026-11-28T10:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/magic-tree-house-space-mission-318/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "07a96b5ce3c1",
+      "title": "Earthquakes, Volcanoes, and Tsunamis",
+      "date": "2026-11-28T12:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/earthquakes-volcanoes-and-tsunamis-192/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "29c2e3914692",
+      "title": "Supermassive Black Holes",
+      "date": "2026-11-28T13:30:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/supermassive-black-holes-153/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
+    },
+    {
+      "id": "aefa0e9a6813",
+      "title": "The Longest Night: A Winter's Tale",
+      "date": "2026-11-28T15:00:00",
+      "location": "Morehead Planetarium, 250 E Franklin St, Chapel Hill, NC",
+      "description": "",
+      "source": "Morehead Planetarium",
+      "url": "https://moreheadplanetarium.org/calendar/the-longest-night-a-winters-tale-144/",
+      "latitude": 35.9133,
+      "longitude": -79.0521
     },
     {
       "id": "0e7a2be54160",
@@ -2432,6 +2905,17 @@
       "longitude": -78.7228
     },
     {
+      "id": "de219efce02f",
+      "title": "Kameron Marlowe - Take You Down With Me",
+      "date": "2027-02-12T19:00:00",
+      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
+      "description": "",
+      "source": "The Ritz",
+      "url": "https://www.ticketmaster.com/kameron-marlowe-take-you-down-with-raleigh-north-carolina-02-12-2027/event/2D00654AE820918F",
+      "latitude": 35.8468,
+      "longitude": -78.6379
+    },
+    {
       "id": "da0504ec6228",
       "title": "Carolina Hurricanes vs. Buffalo",
       "date": "2027-02-13T19:00:00",
@@ -2905,8 +3389,8 @@
       "longitude": -78.658
     }
   ],
-  "last_updated": "2026-10-31T11:18:51.948866",
-  "total_events": 264,
+  "last_updated": "2026-11-01T12:08:37.611064",
+  "total_events": 308,
   "sources": [
     "Manual Events",
     "Visit Raleigh",
@@ -2940,14 +3424,14 @@
     "Chapelboro": 0,
     "DPAC": 0,
     "NC Museum of Art": 25,
-    "Cat's Cradle": 90,
-    "Lincoln Theatre": 32,
+    "Cat's Cradle": 88,
+    "Lincoln Theatre": 31,
     "Raleigh Arts": 0,
     "Duke Events": 31,
     "UNC Events": 4,
     "NC State Events": 1,
-    "Marbles Kids Museum": 6,
-    "Morehead Planetarium": 5,
+    "Marbles Kids Museum": 28,
+    "Morehead Planetarium": 30,
     "Raleigh Little Theatre": 7,
     "PlayMakers Rep": 4,
     "Artspace Raleigh": 0,
