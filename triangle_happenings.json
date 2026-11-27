@@ -1,158 +1,15 @@
 {
   "events": [
     {
-      "id": "51889a5ff291",
-      "title": "Chapel Hill Resident Arrested for Robbery After Vehicle Pursuit With Durham Police",
-      "date": "2026-11-25T14:22:28",
+      "id": "d0560c2920e1",
+      "title": "Army Calls Detonation of Bomb Chemicals in Iowa A Success After Earlier Fears of A Toxic Plume",
+      "date": "2026-11-27T14:41:17",
       "location": "Chapel Hill, NC",
       "description": "",
       "source": "Chapelboro",
-      "url": "https://chapelboro.com/news/crime/chapel-hill-resident-arrested-for-robbery-after-vehicle-pursuit-with-durham-police",
+      "url": "https://chapelboro.com/world-news/army-calls-detonation-of-bomb-chemicals-in-iowa-a-success-after-earlier-fears-of-a-toxic-plume",
       "latitude": 35.9132,
       "longitude": -79.0558
-    },
-    {
-      "id": "1da16b2f902e",
-      "title": "The Hunger Games: Sunrise",
-      "date": "2026-11-25T15:30:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/48988/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "d3998aff82c5",
-      "title": "Thanksgiving Travel Could Be Messy With Storms Coming After a Week Filled With Airline Glitches",
-      "date": "2026-11-25T15:45:16",
-      "location": "Chapel Hill, NC",
-      "description": "",
-      "source": "Chapelboro",
-      "url": "https://chapelboro.com/world-news/thanksgiving-travel-could-be-messy-with-storms-coming-after-a-week-filled-with-airline-glitches",
-      "latitude": 35.9132,
-      "longitude": -79.0558
-    },
-    {
-      "id": "25e2b76f554d",
-      "title": "Graduate reading period",
-      "date": "2026-11-25T19:00:00",
-      "location": "None",
-      "description": "Graduate reading period",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "29d3fe734361",
-      "title": "Museum Admission",
-      "date": "2026-11-25T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/47598/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "9c67eadf2f92",
-      "title": "Pouya - The Foreverglades Tour",
-      "date": "2026-11-25T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/pouya-the-foreverglades-tour-raleigh-north-carolina-11-25-2026/event/2D0064C8FF1CE1B0",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
-      "id": "c0dfe8c17df6",
-      "title": "The Old Soul Sessions \u2013 One Year Anniversary",
-      "date": "2026-11-25T20:00:00",
-      "location": "Lincoln Theatre, 126 E Cabarrus St, Raleigh, NC",
-      "description": "",
-      "source": "Lincoln Theatre",
-      "url": "https://lincolntheatre.com/event/the-old-soul-sessions-one-year-anniversary/",
-      "latitude": 35.774,
-      "longitude": -78.6376
-    },
-    {
-      "id": "c0b137753430",
-      "title": "Mindful Movement",
-      "date": "2026-11-26T10:00:00",
-      "location": "Webcast",
-      "description": "Every Thursday at 10 a.m., add some movement to your mindfulness practice with Mindful Movement. The 15-minute Zoom sessions will combine movement, breathwork, visualization and intention to create a ",
-      "source": "Duke Events",
-      "url": "https://hr.duke.edu/wellness/webinars/mindfulness/",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "5f8a6ca71ab9",
-      "title": "Family-Style Thanksgiving at Clark Dining Hall",
-      "date": "2026-11-26T10:30:00",
-      "location": "NC State University, Raleigh, NC",
-      "description": "",
-      "source": "NC State Events",
-      "url": "https://calendar.ncsu.edu/event/family-style-thanksgiving-clark-261126",
-      "latitude": 35.7847,
-      "longitude": -78.6821
-    },
-    {
-      "id": "27496a6192f2",
-      "title": "Infectious Diseases Case Conference",
-      "date": "2026-11-26T12:00:00",
-      "location": "Hanes House 160",
-      "description": "In this weekly clinical conference, fellows present cases from the inpatient consult services followed by a review of literature supporting key clinical questions raised in the case. This is a highly ",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "ab1de2f94db1",
-      "title": "Critical Care Grand Rounds",
-      "date": "2026-11-26T12:00:00",
-      "location": "None",
-      "description": "Critical Care Grand Rounds occurs via Zoom on Thursdays from 12:00 pm - 1:00 pm EST, and is led by Drs. Vijay Krishnamoorthy and Nazish Hashmi.",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
-    },
-    {
-      "id": "111ed6df9719",
-      "title": "Marbles is Closed",
-      "date": "2026-11-26T19:00:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/47646/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "84be2b0661e4",
-      "title": "The Polar Express 3D",
-      "date": "2026-11-27T10:30:00",
-      "location": "Marbles Kids Museum, 201 E Hargett St, Raleigh, NC",
-      "description": "",
-      "source": "Marbles Kids Museum",
-      "url": "https://marbleskidsmuseum.org/event/49079/",
-      "latitude": 35.776,
-      "longitude": -78.635
-    },
-    {
-      "id": "bc3c404aed8d",
-      "title": "Pathology Grand Rounds",
-      "date": "2026-11-27T12:00:00",
-      "location": "None",
-      "description": "Pathology Grand Rounds",
-      "source": "Duke Events",
-      "url": "https://calendar.duke.edu",
-      "latitude": 35.994,
-      "longitude": -78.8986
     },
     {
       "id": "c2de5a451672",
@@ -309,17 +166,6 @@
       "longitude": -78.7228
     },
     {
-      "id": "cdfde0085b60",
-      "title": "COLORS Presents: R&B ONLY - 21+",
-      "date": "2026-11-28T19:30:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.universe.com/events/r-b-only-live-raleigh-nc-tickets-NHR1Y7",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "809353be3459",
       "title": "PhilStock \u201926",
       "date": "2026-11-28T20:00:00",
@@ -463,17 +309,6 @@
       "longitude": -78.635
     },
     {
-      "id": "a86ae48f26bc",
-      "title": "Syd: Beard Tour",
-      "date": "2026-11-29T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/syd-beard-tour-raleigh-north-carolina-11-29-2026/event/2D00652EAA6FE44B",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "69007b85aac2",
       "title": "Undergraduate classes resume (8:30 AM)",
       "date": "2026-11-30T08:30:00",
@@ -483,6 +318,17 @@
       "url": "https://calendar.duke.edu",
       "latitude": 35.994,
       "longitude": -78.8986
+    },
+    {
+      "id": "f51f274c8128",
+      "title": "Executive Director, Entrepreneurship Search Committee Charge Meeting",
+      "date": "2026-11-30T08:30:00",
+      "location": "NC State University, Raleigh, NC",
+      "description": "",
+      "source": "NC State Events",
+      "url": "https://calendar.ncsu.edu/event/executive-director-entrepreneurship-search-committee-charge-meeting",
+      "latitude": 35.7847,
+      "longitude": -78.6821
     },
     {
       "id": "c0aad3de74f9",
@@ -727,17 +573,6 @@
       "longitude": -78.8986
     },
     {
-      "id": "c6581bf63d93",
-      "title": "Story Of The Year & Silverstein: CAMP SCREAMO TOUR",
-      "date": "2026-12-01T18:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/story-of-the-year-silverstein-camp-raleigh-north-carolina-12-01-2026/event/2D0064F6C29939DF",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "85fb72c5ff6b",
       "title": "Duke Chorale: Holiday Concert feat. Durham School of the Arts",
       "date": "2026-12-01T19:00:00",
@@ -782,6 +617,50 @@
       "longitude": -78.8986
     },
     {
+      "id": "402edf6d0e4d",
+      "title": "Inpatient Cases",
+      "date": "2026-12-02T08:00:00",
+      "location": "None",
+      "description": "Guest speakers and discussion of cases relevant to the Duke Department of Dermatology.",
+      "source": "Duke Events",
+      "url": "https://calendar.duke.edu",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "ad3b0cc80490",
+      "title": "\u201cFacial Transplantation: A Journey Of Innovation, Collaboration, And Transformation\u201d",
+      "date": "2026-12-02T08:00:00",
+      "location": "Duke North, Room 2002",
+      "description": "Title of Presentation: \"Facial Transplantation: A Journey Of Innovation, Collaboration, And Transformation\" Speaker: Samir Mardini, M.D. Professor and Chairman, Department of Plastic and Reconstructiv",
+      "source": "Duke Events",
+      "url": "https://surgery.duke.edu/education-and-training/continuing-medical-education/surgery-grand-rounds",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "9c1776c0c825",
+      "title": "Leader as Coach (2 days)",
+      "date": "2026-12-02T09:00:00",
+      "location": "None",
+      "description": "For employees of Duke University and DUHS Continuing Education Credits (CEUs): 0.6 Duration: Two days; 9:00 AM - 12:00 PM both days. PRE-REQUISITE: Please note that you must have successfully complete",
+      "source": "Duke Events",
+      "url": "https://duke.sabacloud.com/Saba/Web_spf/NA7P2PRD024/common/ledetail/LOD-I-ONLINE-2040/latestversion",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
+      "id": "a4990e0ddcbf",
+      "title": "Maixner Pain Research Symposium 2026",
+      "date": "2026-12-02T09:30:00",
+      "location": "None",
+      "description": "The 4th Annual Maixner Pain Research Symposium, in honor of the late Dr. William \"Bill\" Maixner, is co-hosted this year by the Comparative Pain Research and Education Center at NC State University and",
+      "source": "Duke Events",
+      "url": "https://ncsucvmce.eventsair.com/ce-master/maixner",
+      "latitude": 35.994,
+      "longitude": -78.8986
+    },
+    {
       "id": "f50daf55026d",
       "title": "What\u2019s in the Box?",
       "date": "2026-12-02T10:00:00",
@@ -791,6 +670,17 @@
       "url": "https://ncartmuseum.org/event/whats-in-the-box-9/",
       "latitude": 35.8027,
       "longitude": -78.6893
+    },
+    {
+      "id": "f821b8768a9a",
+      "title": "Mobile Health Assessment",
+      "date": "2026-12-02T10:00:00",
+      "location": "None",
+      "description": "Health Assessment is a free, confidential health screening provided through Duke benefits. It includes total cholesterol, blood pressure, blood glucose, BMI, waist circumference height, weight and bod",
+      "source": "Duke Events",
+      "url": "https://hr.duke.edu/wellness/health-assessments/",
+      "latitude": 35.994,
+      "longitude": -78.8986
     },
     {
       "id": "24db22513a1b",
@@ -890,17 +780,6 @@
       "url": "https://ncartmuseum.org/event/family-movie-night-abominable/",
       "latitude": 35.8027,
       "longitude": -78.6893
-    },
-    {
-      "id": "01a6e607905c",
-      "title": "Shakey Graves - Fondness, Etc. Tour",
-      "date": "2026-12-04T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/shakey-graves-fondness-etc-tour-raleigh-north-carolina-12-04-2026/event/2D0064ACDB2A1B31",
-      "latitude": 35.8468,
-      "longitude": -78.6379
     },
     {
       "id": "f23407711ba4",
@@ -1068,17 +947,6 @@
       "longitude": -78.6893
     },
     {
-      "id": "c44ed7bba51d",
-      "title": "Turnover - Down On Earth Tour",
-      "date": "2026-12-06T18:30:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/turnover-down-on-earth-tour-raleigh-north-carolina-12-06-2026/event/2D0064D004EECD24",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "84f7a33b2f35",
       "title": "GrrrlBands Showcase",
       "date": "2026-12-06T20:00:00",
@@ -1097,6 +965,17 @@
       "description": "",
       "source": "Cat's Cradle",
       "url": "https://catscradle.com/event/la-s%c3%a9curit%c3%a9/cats-cradle-back-room/carrboro-north-carolina/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
+    },
+    {
+      "id": "b068976ce7b2",
+      "title": "The Darlings and The Chuckles Songwriters Showcase",
+      "date": "2026-12-07T20:00:00",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
+      "description": "",
+      "source": "Cat's Cradle",
+      "url": "https://catscradle.com/event/the-darlings-and-the-chuckles-songwriters-showcase/cats-cradle-back-room/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
     },
@@ -1222,17 +1101,6 @@
       "longitude": -78.6893
     },
     {
-      "id": "55ed90275669",
-      "title": "Underoath - Define the Great Line 20th Anniversary Tour",
-      "date": "2026-12-11T17:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/underoath-define-the-great-line-20th-raleigh-north-carolina-12-11-2026/event/2D0064C8BE598801",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "4f95366b9d15",
       "title": "Carolina Hurricanes vs. New York",
       "date": "2026-12-11T19:00:00",
@@ -1354,6 +1222,17 @@
       "longitude": -78.7228
     },
     {
+      "id": "e829d973ad68",
+      "title": "School of Rock Chapel Hill\u2019s End of Season Showcase",
+      "date": "2026-12-13T20:00:00",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
+      "description": "",
+      "source": "Cat's Cradle",
+      "url": "https://catscradle.com/event/school-of-rock-chapel-hills-end-of-season-showcase-12/cats-cradle-back-room/carrboro-north-carolina/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
+    },
+    {
       "id": "0be2ec7373ee",
       "title": "Jolly Dolly \u2013 The Life & Music of Dolly Parton",
       "date": "2026-12-13T20:00:00",
@@ -1385,17 +1264,6 @@
       "url": "https://lincolntheatre.com/event/home-for-the-holidays-a-benefit-for-julie-mcknight/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
-    },
-    {
-      "id": "8b511180f446",
-      "title": "Daily Bread - Vanishing Point Tour",
-      "date": "2026-12-18T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/daily-bread-vanishing-point-tour-raleigh-north-carolina-12-18-2026/event/2D0064E2B576C58F",
-      "latitude": 35.8468,
-      "longitude": -78.6379
     },
     {
       "id": "b240d1a9a6de",
@@ -1530,17 +1398,6 @@
       "longitude": -79.0758
     },
     {
-      "id": "0973f9987391",
-      "title": "Congress the Band",
-      "date": "2027-01-01T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/congress-the-band-raleigh-north-carolina-01-01-2027/event/2D006562D7E1DB81",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "a6f764b8895c",
       "title": "Carolina Hurricanes vs. Nashville",
       "date": "2027-01-02T19:00:00",
@@ -1607,6 +1464,17 @@
       "longitude": -78.6376
     },
     {
+      "id": "30c95dc1facf",
+      "title": "Damn That Television: A Tribute to Stop Making Sense",
+      "date": "2027-01-10T20:00:00",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
+      "description": "",
+      "source": "Cat's Cradle",
+      "url": "https://catscradle.com/event/damn-that-television-a-tribute-to-stop-making-sense/cats-cradle-back-room/carrboro-north-carolina/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
+    },
+    {
       "id": "3289ed8c7cb2",
       "title": "The Gringos",
       "date": "2027-01-14T20:00:00",
@@ -1627,17 +1495,6 @@
       "url": "https://www.nhl.com/hurricanes/schedule",
       "latitude": 35.8033,
       "longitude": -78.7228
-    },
-    {
-      "id": "a625ccd08fdf",
-      "title": "House Party Rave (18+)",
-      "date": "2027-01-15T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/house-party-rave-18-raleigh-north-carolina-01-15-2027/event/2D00656D10C3F693",
-      "latitude": 35.8468,
-      "longitude": -78.6379
     },
     {
       "id": "3ec67657797c",
@@ -1728,17 +1585,6 @@
       "longitude": -78.6376
     },
     {
-      "id": "6f40cc859b23",
-      "title": "Club 90s Presents Glee Night (18+)",
-      "date": "2027-01-22T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/club-90s-presents-glee-night-18-raleigh-north-carolina-01-22-2027/event/2D00656AF8D00CD4",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "a17995876760",
       "title": "Rayland Baxter \u2013 The True Violet Tour",
       "date": "2027-01-22T20:00:00",
@@ -1761,17 +1607,6 @@
       "longitude": -78.6376
     },
     {
-      "id": "b67957b14ba0",
-      "title": "Grungefest 2027",
-      "date": "2027-01-23T18:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/grungefest-2027-raleigh-north-carolina-01-23-2027/event/2D006565E5143402",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "7641c26b91d9",
       "title": "Carolina Hurricanes vs. Anaheim",
       "date": "2027-01-23T19:00:00",
@@ -1792,6 +1627,17 @@
       "url": "https://lincolntheatre.com/event/weekend-excursion-w-runaway-cab-2/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
+    },
+    {
+      "id": "d4a0996c7c84",
+      "title": "Wax Monkey",
+      "date": "2027-01-26T20:00:00",
+      "location": "Cat's Cradle, 300 E Main St, Carrboro, NC",
+      "description": "",
+      "source": "Cat's Cradle",
+      "url": "https://catscradle.com/event/wax-monkey/cats-cradle-back-room/carrboro-north-carolina/",
+      "latitude": 35.9094,
+      "longitude": -79.0758
     },
     {
       "id": "3705c051ae97",
@@ -1838,17 +1684,6 @@
       "longitude": -78.6376
     },
     {
-      "id": "6fe1b0d61d8e",
-      "title": "Alan Walker - Legend Of Atlantis Tour",
-      "date": "2027-01-30T18:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/alan-walker-legend-of-atlantis-tour-raleigh-north-carolina-01-30-2027/event/2D006522A38DA8CD",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "c62cd0c7fb99",
       "title": "Carolina Hurricanes vs. Los Angeles",
       "date": "2027-01-30T19:00:00",
@@ -1893,17 +1728,6 @@
       "longitude": -78.6376
     },
     {
-      "id": "82280004811b",
-      "title": "MERSIV - Nostalgia Tour",
-      "date": "2027-02-05T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/mersiv-nostalgia-tour-raleigh-north-carolina-02-05-2027/event/2D006557D58DD53A",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "af6e87889fcb",
       "title": "Penelope Road",
       "date": "2027-02-05T20:00:00",
@@ -1924,28 +1748,6 @@
       "url": "https://catscradle.com/event/snocaps-2/cats-cradle-presents-at-107-brewer-lane/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
-    },
-    {
-      "id": "dac0d753412d",
-      "title": "Bingo Loco - 21+ (Afternoon Games)",
-      "date": "2027-02-06T14:30:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/bingo-loco-21-afternoon-games-raleigh-north-carolina-02-06-2027/event/2D0065779ACB6BA8",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
-      "id": "b1269ea7651c",
-      "title": "Bingo Loco - 21+ (Evening Games)",
-      "date": "2027-02-06T19:30:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/bingo-loco-21-evening-games-raleigh-north-carolina-02-06-2027/event/2D0065779CAA6E34",
-      "latitude": 35.8468,
-      "longitude": -78.6379
     },
     {
       "id": "5d6601bc61bf",
@@ -1970,17 +1772,6 @@
       "longitude": -78.7228
     },
     {
-      "id": "cb23172dbea2",
-      "title": "Kameron Marlowe - Take You Down With Me",
-      "date": "2027-02-11T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/kameron-marlowe-take-you-down-with-raleigh-north-carolina-02-11-2027/event/2D00654F0FBC5A53",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "34f6beb5711f",
       "title": "Carolina Hurricanes vs. Minnesota",
       "date": "2027-02-11T19:30:00",
@@ -2001,17 +1792,6 @@
       "url": "https://catscradle.com/event/the-back-alley-back-at-home-tour-2027/cats-cradle-back-room/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
-    },
-    {
-      "id": "de219efce02f",
-      "title": "Kameron Marlowe - Take You Down With Me",
-      "date": "2027-02-12T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/kameron-marlowe-take-you-down-with-raleigh-north-carolina-02-12-2027/event/2D00654AE820918F",
-      "latitude": 35.8468,
-      "longitude": -78.6379
     },
     {
       "id": "7a930b72ebdb",
@@ -2135,17 +1915,6 @@
       "longitude": -78.7228
     },
     {
-      "id": "af56c7791aab",
-      "title": "49 Winchester: Change of Plans Tour",
-      "date": "2027-02-19T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/49-winchester-change-of-plans-tour-raleigh-north-carolina-02-19-2027/event/2D00654FD986A9AD",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "c6e9751fc852",
       "title": "Finding Nemo",
       "date": "2027-02-19T19:30:00",
@@ -2177,17 +1946,6 @@
       "url": "https://lincolntheatre.com/event/heart-brigade-tribute-to-heart-w-wild-ones-thin-lizzy-genes-addiction/lincoln-theatre/raleigh-north-carolina/",
       "latitude": 35.774,
       "longitude": -78.6376
-    },
-    {
-      "id": "67bda420a6d8",
-      "title": "Vacations - Pursuit Of Anything Tour",
-      "date": "2027-02-20T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/vacations-pursuit-of-anything-tour-raleigh-north-carolina-02-20-2027/event/2D00654411BF9201",
-      "latitude": 35.8468,
-      "longitude": -78.6379
     },
     {
       "id": "425645f2ce6d",
@@ -2377,28 +2135,6 @@
       "longitude": -78.7228
     },
     {
-      "id": "1af787f9f151",
-      "title": "Polyphia - MOVED TO THE RITZ",
-      "date": "2027-03-10T17:30:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/polyphia-moved-to-the-ritz-raleigh-north-carolina-03-10-2027/event/2D0064C9E3324667",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
-      "id": "950155ee79c8",
-      "title": "Polyphia: BE NOT AFRAID World Tour",
-      "date": "2027-03-10T17:30:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/polyphia-be-not-afraid-world-tour-raleigh-north-carolina-03-10-2027/event/2D006519F7756BD6",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "8dc3af2110e5",
       "title": "Missio",
       "date": "2027-03-10T20:00:00",
@@ -2487,17 +2223,6 @@
       "longitude": -78.7228
     },
     {
-      "id": "b08ae7d86eb0",
-      "title": "Lucky Daye - The ALOUD! Tour",
-      "date": "2027-03-14T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/lucky-daye-the-aloud-tour-raleigh-north-carolina-03-14-2027/event/2D00654FEB00D589",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "758e50d9ae59",
       "title": "Suzanne Vega \u2013 Flying With Angels",
       "date": "2027-03-14T20:00:00",
@@ -2542,17 +2267,6 @@
       "longitude": -79.0758
     },
     {
-      "id": "bbf8565a26a9",
-      "title": "the marroW tour",
-      "date": "2027-03-20T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/the-marrow-tour-raleigh-north-carolina-03-20-2027/event/2D006556D18362F4",
-      "latitude": 35.8468,
-      "longitude": -78.6379
-    },
-    {
       "id": "3c8211fa12e1",
       "title": "Cigarettes @ Sunset w/ TBA",
       "date": "2027-03-21T20:00:00",
@@ -2586,6 +2300,17 @@
       "longitude": -78.7228
     },
     {
+      "id": "c5c4c6430671",
+      "title": "Durham Bulls vs. Nashville Sounds",
+      "date": "2027-03-26T22:35:00",
+      "location": "Durham Bulls Athletic Park, Durham, NC",
+      "description": "Durham Bulls minor league baseball \u2014 Triple-A affiliate of the Tampa Bay Rays.",
+      "source": "Durham Bulls",
+      "url": "https://www.milb.com/durham",
+      "latitude": 35.9883,
+      "longitude": -78.8986
+    },
+    {
       "id": "1961c77d46b6",
       "title": "Superchunk",
       "date": "2027-03-27T20:00:00",
@@ -2595,6 +2320,17 @@
       "url": "https://catscradle.com/event/superchunk-3/cats-cradle-presents-at-107-brewer-lane/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
+    },
+    {
+      "id": "59dbf11dfa9f",
+      "title": "Durham Bulls vs. Nashville Sounds",
+      "date": "2027-03-27T22:35:00",
+      "location": "Durham Bulls Athletic Park, Durham, NC",
+      "description": "Durham Bulls minor league baseball \u2014 Triple-A affiliate of the Tampa Bay Rays.",
+      "source": "Durham Bulls",
+      "url": "https://www.milb.com/durham",
+      "latitude": 35.9883,
+      "longitude": -78.8986
     },
     {
       "id": "cb317560d85e",
@@ -2617,17 +2353,6 @@
       "url": "https://catscradle.com/event/haken-in-a-fever-dream-tour/cats-cradle/carrboro-north-carolina/",
       "latitude": 35.9094,
       "longitude": -79.0758
-    },
-    {
-      "id": "5a201f1beba6",
-      "title": "CLUTCH: Give the People What They Want!",
-      "date": "2027-03-30T19:00:00",
-      "location": "The Ritz, 2820 Industrial Dr, Raleigh, NC",
-      "description": "",
-      "source": "The Ritz",
-      "url": "https://www.ticketmaster.com/clutch-give-the-people-what-they-raleigh-north-carolina-03-30-2027/event/2D006562DD04E68F",
-      "latitude": 35.8468,
-      "longitude": -78.6379
     },
     {
       "id": "0deba7985833",
@@ -2938,8 +2663,8 @@
       "longitude": -78.6383
     }
   ],
-  "last_updated": "2026-11-25T16:17:52.575635",
-  "total_events": 267,
+  "last_updated": "2026-11-27T15:42:32.650087",
+  "total_events": 242,
   "sources": [
     "Manual Events",
     "Visit Raleigh",
@@ -2970,25 +2695,25 @@
     "Visit Raleigh": 0,
     "Indy Week": 0,
     "Visit Durham": 0,
-    "Chapelboro": 2,
+    "Chapelboro": 1,
     "DPAC": 0,
     "NC Museum of Art": 27,
-    "Cat's Cradle": 74,
-    "Lincoln Theatre": 41,
+    "Cat's Cradle": 78,
+    "Lincoln Theatre": 40,
     "Raleigh Arts": 0,
     "Duke Events": 33,
     "UNC Events": 4,
     "NC State Events": 1,
-    "Marbles Kids Museum": 14,
+    "Marbles Kids Museum": 10,
     "Morehead Planetarium": 8,
     "Raleigh Little Theatre": 6,
     "PlayMakers Rep": 3,
     "Artspace Raleigh": 0,
-    "Durham Bulls": 0,
+    "Durham Bulls": 2,
     "Carolina Hurricanes": 31,
     "Booth Amphitheatre": 0,
     "Red Hat Amphitheater": 1,
-    "The Ritz": 25
+    "The Ritz": 0
   },
   "zero_strikes": {
     "Manual Events": 0,
@@ -3013,6 +2738,6 @@
     "Carolina Hurricanes": 0,
     "Booth Amphitheatre": 0,
     "Red Hat Amphitheater": 0,
-    "The Ritz": 0
+    "The Ritz": 1
   }
 }
